@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hidden Dangers",
+    "author": "Joshua R."
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  }
+]

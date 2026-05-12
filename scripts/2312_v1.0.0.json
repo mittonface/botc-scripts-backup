@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hello Priestess",
+    "author": "Ben Burns"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "leviathan"
+  }
+]

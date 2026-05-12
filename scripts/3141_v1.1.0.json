@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Outcast Script",
+    "author": "huffpuffduck"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "riot"
+  }
+]

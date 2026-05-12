@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "Prime Your Potions!",
+    "author": "LivFreeOrPie / Bill Pz"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  }
+]

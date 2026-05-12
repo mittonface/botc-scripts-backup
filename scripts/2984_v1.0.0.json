@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Twenty Imps?",
+    "author": "Cam"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "toymaker"
+  }
+]

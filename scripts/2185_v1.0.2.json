@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Poison Pandemonium",
+    "author": "Thomas Hauser"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "pukka"
+  }
+]

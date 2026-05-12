@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "What's that smell?",
+    "author": "DJ"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "zombuul"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Cult of Karkaton",
+    "author": "Khinoe"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "legion"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "I am a normal script",
+    "author": ""
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "riot"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Run rampant for a time",
+    "author": "IE"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "djinn"
+  }
+]

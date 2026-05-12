@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "the immortals",
+    "author": "Ted Waze"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

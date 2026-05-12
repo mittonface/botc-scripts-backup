@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Skirmish",
+    "author": "aboba"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "riot"
+  }
+]

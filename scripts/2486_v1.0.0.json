@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The worst script",
+    "author": ""
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "leviathan"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "Shugenja Teensy",
+    "author": "Newt Scamander"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "sentinel"
+  }
+]

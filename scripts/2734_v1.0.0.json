@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "name": "Spoiled Ballots",
+    "author": "Ed"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "imp"
+  }
+]
