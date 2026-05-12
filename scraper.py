@@ -165,11 +165,19 @@ def main() -> None:
         return
 
     url: str | None = BASE_API_URL
-    manifest: list[dict[str, Any]] = []
     saved = 0
     skipped = 0
     page = 0
     interrupted = False
+
+    manifest_path = os.path.join(args.output_dir, "manifest.json")
+    existing_manifest: dict[str, dict[str, Any]] = {}
+    if os.path.exists(manifest_path):
+        with open(manifest_path, encoding="utf-8") as f:
+            for entry in json.load(f):
+                existing_manifest[entry["filename"]] = entry
+
+    new_entries: dict[str, dict[str, Any]] = {}
 
     try:
         while url:
@@ -200,7 +208,7 @@ def main() -> None:
                     saved += 1
                     page_saved += 1
 
-                manifest.append(manifest_entry(result, filename))
+                new_entries[filename] = manifest_entry(result, filename)
 
             next_url = data.get("next")
             if next_url is not None and not isinstance(next_url, str):
@@ -208,7 +216,7 @@ def main() -> None:
 
             print(
                 f"Processed page {page}: saved {page_saved}, skipped {page_skipped} "
-                f"({len(manifest)} manifest entries total).",
+                f"({len(new_entries)} new entries so far).",
                 flush=True,
             )
 
@@ -221,11 +229,12 @@ def main() -> None:
         interrupted = True
         print("\nInterrupted by user. Writing manifest for processed pages...", flush=True)
 
-    manifest_path = write_manifest(args.output_dir, manifest)
+    merged = {**existing_manifest, **new_entries}
+    written_path = write_manifest(args.output_dir, list(merged.values()))
     if interrupted:
         print(f"Stopped early after {page} pages.")
     print(f"Saved {saved} scripts, skipped {skipped} existing scripts.")
-    print(f"Wrote manifest with {len(manifest)} entries to {manifest_path}.")
+    print(f"Wrote manifest with {len(merged)} entries to {written_path}.")
 
 
 if __name__ == "__main__":
