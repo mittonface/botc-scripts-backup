@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Double Vision",
+    "author": "TZA"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "djinn"
+  }
+]

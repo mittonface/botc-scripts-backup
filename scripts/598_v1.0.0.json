@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Be Our Guest",
+    "author": "Zera"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Zombie Tightrope",
+    "author": "Ian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "sentinel"
+  }
+]

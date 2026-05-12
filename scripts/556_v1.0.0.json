@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bad Hospitality",
+    "author": "Cassandra Rudig"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "leviathan"
+  }
+]

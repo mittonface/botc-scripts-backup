@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "White Elephant",
+    "author": "Mevolas Rubenido"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "sentinel"
+  }
+]

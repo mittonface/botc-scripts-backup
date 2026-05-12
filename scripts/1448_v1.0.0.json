@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Minefield",
+    "author": ""
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "sentinel"
+  }
+]

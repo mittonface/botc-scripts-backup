@@ -1,0 +1,50 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/GNSoVni.png",
+    "name": "Hot Potato",
+    "author": "Jack Tully"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "sentinel"
+  }
+]

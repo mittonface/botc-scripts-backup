@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://www.bloodstar.xyz/p/climb_climb/sssss/_meta.png",
+    "name": "爬爬の硝烟四起-最好玩的无神论者板子！",
+    "state": [
+      {
+        "stateName": "互动规则1",
+        "stateDescription": "若半兽人选择的玩家因为自身或他人能力没有死亡，则半兽人不会阻止当晚的其他死亡。"
+      },
+      {
+        "stateName": "互动规则2",
+        "stateDescription": "如果食人族获得政客能力，他将与死亡的政客发生竞争，只有一名玩家能够为自己的阵营失败负最大责任，之后他改变阵营并获胜。"
+      },
+      {
+        "stateName": "互动规则3",
+        "stateDescription": "如果在大家认知当中的恶魔是暴乱，玩家提名说书人后仍然需要投票表决，若投票未通过，说书人不会死亡并且可以再次提名任意玩家，那名玩家会死亡。"
+      },
+      {
+        "stateName": "互动规则4",
+        "stateDescription": "小怪宝可以看作一个标记，可以被创造，同时也可以被“单独杀死”（仍然在场），若杀死的是照看者，且因为其他原因游戏没有结束，仍然可以更换照看者。若熬药选择一名玩家让他成为小怪宝，操作为今夜此玩家照看小怪宝；若舞蛇人选中了照看小怪宝的玩家，则他们两交换身份阵营，照看小怪宝的玩家不变。"
+      }
+    ],
+    "author": "爬爬",
+    "status": [
+      {
+        "name": "互动规则1",
+        "skill": "若半兽人选择的玩家因为自身或他人能力没有死亡，则半兽人不会阻止当晚的其他死亡。"
+      },
+      {
+        "name": "互动规则2",
+        "skill": "如果食人族获得政客能力，他将与死亡的政客发生竞争，只有一名玩家能够为自己的阵营失败负最大责任，之后他改变阵营并获胜。"
+      },
+      {
+        "name": "互动规则3",
+        "skill": "如果在大家认知当中的恶魔是暴乱，玩家提名说书人后仍然需要投票表决，若投票未通过，说书人不会死亡并且可以再次提名任意玩家，那名玩家会死亡。"
+      },
+      {
+        "name": "互动规则4",
+        "skill": "小怪宝可以看作一个标记，可以被创造，同时也可以被“单独杀死”（仍然在场），若杀死的是照看者，且因为其他原因游戏没有结束，仍然可以更换照看者。若熬药选择一名玩家让他成为小怪宝，操作为今夜此玩家照看小怪宝；若舞蛇人选中了照看小怪宝的玩家，则他们两交换身份阵营，照看小怪宝的玩家不变。"
+      }
+    ],
+    "almanac": "https://www.bloodstar.xyz/p/climb_climb/jihuang/almanac.html"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fibbin"
+  }
+]

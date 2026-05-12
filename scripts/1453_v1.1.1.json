@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Expendable!",
+    "author": ""
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "po"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sects Brewing",
+    "author": "Yuri"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "imp"
+  }
+]

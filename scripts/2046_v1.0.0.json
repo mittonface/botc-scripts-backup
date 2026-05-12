@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The King's Court",
+    "author": "Nashable"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  }
+]

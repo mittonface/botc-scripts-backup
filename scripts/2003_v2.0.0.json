@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "食人之城",
+    "author": "Q神传说"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "po"
+  }
+]
