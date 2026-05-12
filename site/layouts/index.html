@@ -533,6 +533,7 @@
     <p>No scripts found</p>
   </div>
 </div>
+<div id="sentinel"></div>
 
 <!-- Modal -->
 <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true">
@@ -552,10 +553,15 @@
 </div>
 
 <script>
-  /* ── Data ─────────────────────────────────────────────────── */
-  const _raw = {{ hugo.Data.manifest | jsonify }};
-  const ALL_SCRIPTS = typeof _raw === 'string' ? JSON.parse(_raw) : _raw;
-  const TOTAL = ALL_SCRIPTS.length;
+  /* ── State ────────────────────────────────────────────────── */
+  const PAGE_SIZE = 50;
+  let ALL_SCRIPTS = [];
+  let TOTAL = 0;
+  let filtered = [];
+  let renderedCount = 0;
+  let activeType  = 'all';
+  let searchQuery = '';
+  let searchTimer = null;
 
   /* ── Character lookup: [displayName, roleType] ────────────── */
   const CHARS = {
@@ -649,6 +655,7 @@
     engineer:      ['Engineer',       'townsfolk'],
     farmer:        ['Farmer',         'townsfolk'],
     fisherman:     ['Fisherman',      'townsfolk'],
+    general:       ['General',        'townsfolk'],
     highpriestess: ['High Priestess', 'townsfolk'],
     huntsman:      ['Huntsman',       'townsfolk'],
     king:          ['King',           'townsfolk'],
@@ -660,28 +667,38 @@
     pixie:         ['Pixie',          'townsfolk'],
     poppygrower:   ['Poppy Grower',   'townsfolk'],
     preacher:      ['Preacher',       'townsfolk'],
+    princess:      ['Princess',       'townsfolk'],
     shugenja:      ['Shugenja',       'townsfolk'],
     steward:       ['Steward',        'townsfolk'],
     villageidiot:  ['Village Idiot',  'townsfolk'],
     // Experimental – Outsiders
     damsel:        ['Damsel',         'outsider'],
     golem:         ['Golem',          'outsider'],
+    hatter:        ['Hatter',         'outsider'],
+    hermit:        ['Hermit',         'outsider'],
     heretic:       ['Heretic',        'outsider'],
     ogre:          ['Ogre',           'outsider'],
     plaguedoctor:  ['Plague Doctor',  'outsider'],
     politician:    ['Politician',     'outsider'],
     puzzlemaster:  ['Puzzlemaster',   'outsider'],
+    snitch:        ['Snitch',         'outsider'],
+    zealot:        ['Zealot',         'outsider'],
     // Experimental – Minions
     boffin:        ['Boffin',         'minion'],
     boomdandy:     ['Boomdandy',      'minion'],
     fearmonger:    ['Fearmonger',     'minion'],
+    goblin:        ['Goblin',         'minion'],
+    harpy:         ['Harpy',          'minion'],
     marionette:    ['Marionette',     'minion'],
     mezepheles:    ['Mezepheles',     'minion'],
     organgrinder:  ['Organ Grinder',  'minion'],
     psychopath:    ['Psychopath',     'minion'],
     summoner:      ['Summoner',       'minion'],
+    ventriloquist: ['Ventriloquist',  'minion'],
     vizier:        ['Vizier',         'minion'],
     widow:         ['Widow',          'minion'],
+    wizard:        ['Wizard',         'minion'],
+    wraith:        ['Wraith',         'minion'],
     xaan:          ['Xaan',           'minion'],
     // Experimental – Demons
     alhadikhia:    ['Al-Hadikhia',    'demon'],
@@ -703,8 +720,11 @@
     bonecollector: ['Bone Collector', 'traveller'],
     bureaucrat:    ['Bureaucrat',     'traveller'],
     butcher:       ['Butcher',        'traveller'],
+    cacklejack:    ['Cacklejack',     'traveller'],
     deviant:       ['Deviant',        'traveller'],
     gangster:      ['Gangster',       'traveller'],
+    gnome:         ['Gnome',          'traveller'],
+    gunslinger:    ['Gunslinger',     'traveller'],
     harlot:        ['Harlot',         'traveller'],
     judge:         ['Judge',          'traveller'],
     matron:        ['Matron',         'traveller'],
@@ -712,16 +732,28 @@
     thief:         ['Thief',          'traveller'],
     voudon:        ['Voudon',         'traveller'],
     // Fabled
-    djinn:         ['Djinn',          'fabled'],
-    doomsayer:     ['Doomsayer',      'fabled'],
-    ferryman:      ['Ferryman',       'fabled'],
-    fibbin:        ['Fibbin',         'fabled'],
-    fiddler:       ['Fiddler',        'fabled'],
-    revolutionary: ['Revolutionary',  'fabled'],
-    sentinel:      ['Sentinel',       'fabled'],
-    spiritofivory: ['Spirit of Ivory','fabled'],
-    bootlegger:    ['Bootlegger',     'fabled'],
-    toymaker:      ['Toymaker',       'fabled'],
+    angel:                ['Angel',             'fabled'],
+    bigwig:               ['Big Wig',            'fabled'],
+    bootlegger:           ['Bootlegger',         'fabled'],
+    buddhist:             ['Buddhist',           'fabled'],
+    deusexfiasco:         ['Deus ex Fiasco',     'fabled'],
+    djinn:                ['Djinn',              'fabled'],
+    doomsayer:            ['Doomsayer',          'fabled'],
+    duchess:              ['Duchess',            'fabled'],
+    ferryman:             ['Ferryman',           'fabled'],
+    fibbin:               ['Fibbin',             'fabled'],
+    fiddler:              ['Fiddler',            'fabled'],
+    gardener:             ['Gardener',           'fabled'],
+    godofug:              ['God of Ug',          'fabled'],
+    hellslibrarian:       ["Hell's Librarian",   'fabled'],
+    knaves:               ['Knaves',             'fabled'],
+    "lil' revolutionary": ["Lil' Revolutionary", 'fabled'],
+    revolutionary:        ['Revolutionary',      'fabled'],
+    sentinel:             ['Sentinel',           'fabled'],
+    spiritofivory:        ['Spirit of Ivory',    'fabled'],
+    tor:                  ['Tor',                'fabled'],
+    toymaker:             ['Toymaker',           'fabled'],
+    zenomancer:           ['Zenomancer',         'fabled'],
   };
 
   const ROLE_ORDER = ['townsfolk','outsider','minion','demon','traveller','fabled','unknown'];
@@ -759,37 +791,54 @@
   }
 
   /* ── Grid rendering ───────────────────────────────────────── */
-  const grid     = document.getElementById('grid');
-  const emptyEl  = document.getElementById('empty');
-  const countEl  = document.getElementById('result-count');
-  const searchEl = document.getElementById('search');
+  const grid      = document.getElementById('grid');
+  const emptyEl   = document.getElementById('empty');
+  const countEl   = document.getElementById('result-count');
+  const searchEl  = document.getElementById('search');
+  const sentinel  = document.getElementById('sentinel');
   const filterBtns = document.querySelectorAll('.filter-btn');
 
-  let activeType  = 'all';
-  let searchQuery = '';
+  function updateCount() {
+    const shown = Math.min(renderedCount, filtered.length);
+    countEl.textContent = `Showing ${shown.toLocaleString()} of ${filtered.length.toLocaleString()} scripts`;
+  }
+
+  function renderMore() {
+    const batch = filtered.slice(renderedCount, renderedCount + PAGE_SIZE);
+    if (batch.length === 0) return;
+    emptyEl.insertAdjacentHTML('beforebegin', batch.map(buildCard).join(''));
+    renderedCount += batch.length;
+    updateCount();
+  }
 
   function render() {
     const q = searchQuery.toLowerCase().trim();
-    const filtered = ALL_SCRIPTS.filter(s => {
+    filtered = ALL_SCRIPTS.filter(s => {
       const matchType = activeType === 'all' || s.script_type === activeType;
       const matchName = !q || s.name.toLowerCase().includes(q);
       return matchType && matchName;
     });
 
-    countEl.textContent = `Showing ${filtered.length.toLocaleString()} of ${TOTAL.toLocaleString()} scripts`;
+    Array.from(grid.children).forEach(c => { if (c !== emptyEl) c.remove(); });
+    renderedCount = 0;
 
     if (filtered.length === 0) {
-      grid.innerHTML = '';
-      grid.appendChild(emptyEl);
       emptyEl.style.display = 'block';
+      updateCount();
     } else {
       emptyEl.style.display = 'none';
-      grid.innerHTML = filtered.map(buildCard).join('');
-      grid.appendChild(emptyEl);
+      renderMore();
     }
   }
 
-  searchEl.addEventListener('input', () => { searchQuery = searchEl.value; render(); });
+  new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting && renderedCount < filtered.length) renderMore();
+  }, { rootMargin: '300px' }).observe(sentinel);
+
+  searchEl.addEventListener('input', () => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => { searchQuery = searchEl.value; render(); }, 200);
+  });
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       filterBtns.forEach(b => b.classList.remove('active'));
@@ -876,7 +925,19 @@
     if (card) loadScript(card);
   });
 
-  render();
+  async function init() {
+    countEl.textContent = 'Loading…';
+    try {
+      const res = await fetch('/manifest.json');
+      ALL_SCRIPTS = await res.json();
+      TOTAL = ALL_SCRIPTS.length;
+      render();
+    } catch {
+      countEl.textContent = 'Failed to load scripts.';
+    }
+  }
+
+  init();
 </script>
 </body>
 </html>
