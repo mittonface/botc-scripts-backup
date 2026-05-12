@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 2 * * *'
   workflow_dispatch:
+    inputs:
+      delay:
+        description: 'Delay between API calls (seconds)'
+        required: false
+        default: '2'
 
 jobs:
   scrape:
@@ -17,7 +22,7 @@ jobs:
       - uses: astral-sh/setup-uv@v5
 
       - name: Run scraper
-        run: uv run python scraper.py
+        run: uv run python scraper.py --delay ${{ inputs.delay || '2' }}
 
       - name: Commit new scripts
         run: |
