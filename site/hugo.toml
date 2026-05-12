@@ -1,0 +1,5 @@
+baseURL = '/'
+locale = 'en-us'
+title = 'BotC Scripts'
+
+[taxonomies]

@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BotC Script Library</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:       #0b0e14;
+      --void:      #141820;
+      --dusk:      #1c2230;
+      --mist:      #252e40;
+      --fog:       #2e3a52;
+      --bone:      #c8c0b0;
+      --parchment: #e8dfc8;
+      --gold:      #c8962c;
+      --gold-hi:   #e8b84b;
+      --gold-glow: rgba(200,150,44,0.18);
+      --crimson:   #8b2020;
+      --crimson-hi:#b03030;
+      --teal:      #2a6060;
+      --teal-hi:   #3a8888;
+      --radius:    6px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background-color: var(--ink);
+      color: var(--bone);
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 17px;
+      line-height: 1.6;
+      min-height: 100vh;
+      background-image:
+        radial-gradient(ellipse 80% 60% at 50% -10%, rgba(30,40,70,0.9) 0%, transparent 70%),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    }
+
+    /* ── Header ───────────────────────────────────────────────── */
+    header {
+      text-align: center;
+      padding: 64px 24px 40px;
+      position: relative;
+    }
+
+    .header-rule {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .header-rule span {
+      display: block;
+      height: 1px;
+      width: 80px;
+      background: linear-gradient(to right, transparent, var(--gold));
+    }
+    .header-rule span:last-child {
+      background: linear-gradient(to left, transparent, var(--gold));
+    }
+    .header-rule .sigil {
+      color: var(--gold);
+      font-size: 20px;
+      opacity: 0.7;
+    }
+
+    h1 {
+      font-family: 'Cinzel', serif;
+      font-size: clamp(28px, 5vw, 52px);
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      color: var(--parchment);
+      text-shadow: 0 0 40px var(--gold-glow), 0 2px 4px rgba(0,0,0,0.6);
+      line-height: 1.1;
+    }
+
+    .subtitle {
+      font-family: 'Cinzel', serif;
+      font-size: 13px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      opacity: 0.75;
+      margin-top: 10px;
+    }
+
+    /* ── Controls ─────────────────────────────────────────────── */
+    .controls {
+      max-width: 860px;
+      margin: 0 auto 36px;
+      padding: 0 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .search-wrap {
+      position: relative;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--gold);
+      opacity: 0.6;
+      pointer-events: none;
+      font-size: 18px;
+    }
+
+    #search {
+      width: 100%;
+      background: var(--dusk);
+      border: 1px solid var(--fog);
+      border-radius: var(--radius);
+      color: var(--parchment);
+      font-family: 'Crimson Text', serif;
+      font-size: 18px;
+      padding: 13px 16px 13px 46px;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    #search::placeholder { color: var(--bone); opacity: 0.35; }
+    #search:focus {
+      border-color: var(--gold);
+      box-shadow: 0 0 0 3px var(--gold-glow);
+    }
+
+    .filter-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      font-family: 'Cinzel', serif;
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold);
+      opacity: 0.6;
+      margin-right: 4px;
+    }
+
+    .filter-btn {
+      background: var(--dusk);
+      border: 1px solid var(--fog);
+      border-radius: 100px;
+      color: var(--bone);
+      font-family: 'Cinzel', serif;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      padding: 6px 18px;
+      cursor: pointer;
+      transition: all 0.18s;
+    }
+    .filter-btn:hover {
+      border-color: var(--gold);
+      color: var(--gold-hi);
+    }
+    .filter-btn.active {
+      background: var(--gold);
+      border-color: var(--gold);
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    /* ── Stats bar ────────────────────────────────────────────── */
+    .stats-bar {
+      max-width: 860px;
+      margin: 0 auto 20px;
+      padding: 0 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #result-count {
+      font-family: 'Cinzel', serif;
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      color: var(--gold);
+      opacity: 0.65;
+    }
+
+    /* ── Grid ─────────────────────────────────────────────────── */
+    #grid {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 0 20px 80px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--void);
+      border: 1px solid var(--mist);
+      border-radius: var(--radius);
+      padding: 20px 20px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+      cursor: default;
+      animation: fadeUp 0.3s ease both;
+    }
+    .card:hover {
+      border-color: var(--gold);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4), 0 0 0 1px var(--gold-glow);
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card-name {
+      font-family: 'Cinzel', serif;
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--parchment);
+      line-height: 1.3;
+    }
+
+    .card-author {
+      font-size: 15px;
+      font-style: italic;
+      color: var(--bone);
+      opacity: 0.65;
+    }
+
+    .card-badges {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 4px;
+    }
+
+    .badge {
+      font-family: 'Cinzel', serif;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      padding: 3px 10px;
+      border-radius: 100px;
+      font-weight: 600;
+    }
+
+    .badge-version {
+      background: var(--dusk);
+      border: 1px solid var(--fog);
+      color: var(--bone);
+      opacity: 0.75;
+    }
+
+    .badge-full {
+      background: rgba(200, 150, 44, 0.15);
+      border: 1px solid rgba(200, 150, 44, 0.4);
+      color: var(--gold-hi);
+    }
+
+    .badge-teensyville {
+      background: rgba(42, 96, 96, 0.25);
+      border: 1px solid rgba(58, 136, 136, 0.45);
+      color: var(--teal-hi);
+    }
+
+    /* ── Empty state ──────────────────────────────────────────── */
+    #empty {
+      display: none;
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--bone);
+      opacity: 0.4;
+    }
+    #empty .empty-icon { font-size: 40px; margin-bottom: 12px; }
+    #empty p { font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 0.12em; }
+
+    /* ── Responsive ───────────────────────────────────────────── */
+    @media (max-width: 500px) {
+      #grid { grid-template-columns: 1fr; }
+      .filter-row { gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-rule">
+    <span></span>
+    <div class="sigil">⬡</div>
+    <span></span>
+  </div>
+  <h1>Blood on the Clocktower</h1>
+  <p class="subtitle">Script Library</p>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <span class="search-icon">⚲</span>
+    <input id="search" type="search" placeholder="Search scripts by name…" autocomplete="off" spellcheck="false">
+  </div>
+  <div class="filter-row">
+    <span class="filter-label">Type</span>
+    <button class="filter-btn active" data-type="all">All</button>
+    <button class="filter-btn" data-type="Full">Full</button>
+    <button class="filter-btn" data-type="Teensyville">Teensyville</button>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <span id="result-count"></span>
+</div>
+
+<div id="grid">
+  <div id="empty">
+    <div class="empty-icon">🕯</div>
+    <p>No scripts found</p>
+  </div>
+</div>
+
+<script>
+  const _raw = {{ hugo.Data.manifest | jsonify }};
+  const ALL_SCRIPTS = typeof _raw === 'string' ? JSON.parse(_raw) : _raw;
+  const TOTAL = ALL_SCRIPTS.length;
+
+  const grid       = document.getElementById('grid');
+  const emptyEl    = document.getElementById('empty');
+  const countEl    = document.getElementById('result-count');
+  const searchEl   = document.getElementById('search');
+  const filterBtns = document.querySelectorAll('.filter-btn');
+
+  let activeType = 'all';
+  let searchQuery = '';
+
+  function escHtml(s) {
+    return String(s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function buildCard(s) {
+    const typeBadge = s.script_type === 'Teensyville'
+      ? `<span class="badge badge-teensyville">Teensyville</span>`
+      : `<span class="badge badge-full">Full</span>`;
+    return `<div class="card">
+      <div class="card-name">${escHtml(s.name)}</div>
+      <div class="card-author">${escHtml(s.author)}</div>
+      <div class="card-badges">
+        ${typeBadge}
+        <span class="badge badge-version">v${escHtml(s.version)}</span>
+      </div>
+    </div>`;
+  }
+
+  function render() {
+    const q = searchQuery.toLowerCase().trim();
+
+    const filtered = ALL_SCRIPTS.filter(s => {
+      const matchType = activeType === 'all' || s.script_type === activeType;
+      const matchName = !q || s.name.toLowerCase().includes(q);
+      return matchType && matchName;
+    });
+
+    const count = filtered.length;
+    countEl.textContent = `Showing ${count.toLocaleString()} of ${TOTAL.toLocaleString()} scripts`;
+
+    if (count === 0) {
+      grid.innerHTML = '';
+      grid.appendChild(emptyEl);
+      emptyEl.style.display = 'block';
+    } else {
+      emptyEl.style.display = 'none';
+      // Render in chunks to avoid blocking
+      const html = filtered.map(buildCard).join('');
+      grid.innerHTML = html;
+      grid.appendChild(emptyEl);
+    }
+  }
+
+  searchEl.addEventListener('input', () => {
+    searchQuery = searchEl.value;
+    render();
+  });
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeType = btn.dataset.type;
+      render();
+    });
+  });
+
+  render();
+</script>
+</body>
+</html>
