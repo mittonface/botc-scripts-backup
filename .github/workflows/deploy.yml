@@ -28,7 +28,6 @@ jobs:
       - name: Build site
         run: |
           cp scripts/manifest.json site/static/manifest.json
-          cp scripts/*.json site/static/scripts/
           hugo --source site --destination ../public --baseURL "https://mittonface.github.io/botc-scripts-backup/"
 
       - name: Upload Pages artifact
