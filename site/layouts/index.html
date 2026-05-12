@@ -1123,7 +1123,7 @@
       const matchType  = activeType === 'all' || s.script_type === activeType;
       const matchName  = !q || s.name.toLowerCase().includes(q) || (s.author && s.author.toLowerCase().includes(q));
       const matchChars = selectedChars.length === 0 ||
-        (s.characters && selectedChars.every(id => s.characters.includes(id)));
+        (s.charSet && selectedChars.every(id => s.charSet.has(id)));
       return matchType && matchName && matchChars;
     });
 
@@ -1421,6 +1421,7 @@
     try {
       const res = await fetch('/manifest.json');
       ALL_SCRIPTS = await res.json();
+      ALL_SCRIPTS.forEach(s => { s.charSet = new Set(s.characters); });
       render();
     } catch {
       countEl.textContent = 'Failed to load scripts.';

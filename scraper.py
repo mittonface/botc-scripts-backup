@@ -98,7 +98,7 @@ def manifest_entry(result: dict[str, Any], filename: str) -> dict[str, Any]:
 def write_manifest(output_dir: str, manifest: list[dict[str, Any]]) -> str:
     manifest_path = os.path.join(output_dir, "manifest.json")
     with open(manifest_path, "w", encoding="utf-8") as manifest_file:
-        json.dump(manifest, manifest_file, ensure_ascii=False, indent=2)
+        json.dump(manifest, manifest_file, ensure_ascii=False)
         manifest_file.write("\n")
     return manifest_path
 
