@@ -489,6 +489,118 @@
       text-align: right;
     }
 
+    /* ── Character filter ─────────────────────────────────────── */
+    .char-filter-section { position: relative; }
+
+    #char-search {
+      flex: 1;
+      background: var(--dusk);
+      border: 1px solid var(--fog);
+      border-radius: var(--radius);
+      color: var(--parchment);
+      font-family: 'Crimson Text', serif;
+      font-size: 16px;
+      padding: 8px 14px;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      min-width: 0;
+    }
+    #char-search::placeholder { color: var(--bone); opacity: 0.35; }
+    #char-search:focus {
+      border-color: var(--gold);
+      box-shadow: 0 0 0 3px var(--gold-glow);
+    }
+
+    .char-input-wrap { flex: 1; position: relative; }
+
+    .char-dropdown {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      right: 0;
+      background: var(--dusk);
+      border: 1px solid var(--fog);
+      border-radius: var(--radius);
+      max-height: 220px;
+      overflow-y: auto;
+      z-index: 50;
+      display: none;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    }
+    .char-dropdown.open { display: block; }
+
+    .char-option {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 14px;
+      cursor: pointer;
+      font-size: 15px;
+      transition: background 0.1s;
+    }
+    .char-option:hover, .char-option.focused { background: var(--mist); }
+
+    .char-option-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .char-option-dot.townsfolk { background: var(--c-townsfolk); }
+    .char-option-dot.outsider  { background: var(--c-outsider); }
+    .char-option-dot.minion    { background: var(--c-minion); }
+    .char-option-dot.demon     { background: var(--c-demon); }
+    .char-option-dot.traveller { background: var(--c-traveller); }
+    .char-option-dot.fabled    { background: var(--c-fabled); }
+    .char-option-dot.unknown   { background: var(--bone); opacity: 0.5; }
+
+    .char-option-name { color: var(--parchment); flex: 1; }
+    .char-option-role {
+      font-family: 'Cinzel', serif;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      opacity: 0.4;
+    }
+
+    .char-tags-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .char-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-family: 'Cinzel', serif;
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      padding: 4px 8px 4px 12px;
+      border-radius: 4px;
+      border: 1px solid;
+    }
+    .char-tag-remove {
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      color: inherit;
+      opacity: 0.5;
+      font-size: 11px;
+      line-height: 1;
+      transition: opacity 0.15s;
+    }
+    .char-tag-remove:hover { opacity: 1; }
+
+    .char-tag.townsfolk { background: rgba(74,144,217,0.12); border-color: rgba(74,144,217,0.3); color: #82b8e8; }
+    .char-tag.outsider  { background: rgba(91,168,139,0.12); border-color: rgba(91,168,139,0.3); color: #7ecab0; }
+    .char-tag.minion    { background: rgba(212,120,42,0.12); border-color: rgba(212,120,42,0.3); color: #e0a070; }
+    .char-tag.demon     { background: rgba(192,48,48,0.15); border-color: rgba(192,48,48,0.35); color: #e07070; }
+    .char-tag.traveller { background: rgba(155,101,200,0.12); border-color: rgba(155,101,200,0.3); color: #c0a0e0; }
+    .char-tag.fabled    { background: rgba(200,160,32,0.12); border-color: rgba(200,160,32,0.3); color: #e0c870; }
+    .char-tag.unknown   { background: var(--dusk); border-color: var(--fog); color: var(--bone); opacity: 0.65; }
+
     /* ── Responsive ───────────────────────────────────────────── */
     @media (max-width: 500px) {
       #grid { grid-template-columns: 1fr; }
@@ -520,6 +632,16 @@
     <button class="filter-btn active" data-type="all">All</button>
     <button class="filter-btn" data-type="Full">Full</button>
     <button class="filter-btn" data-type="Teensyville">Teensyville</button>
+  </div>
+  <div class="char-filter-section">
+    <div class="filter-row">
+      <span class="filter-label">Characters</span>
+      <div class="char-input-wrap">
+        <input id="char-search" type="text" placeholder="Filter by character…" autocomplete="off" spellcheck="false">
+        <div id="char-dropdown" class="char-dropdown" role="listbox"></div>
+      </div>
+    </div>
+    <div id="char-tags" class="char-tags-row"></div>
   </div>
 </div>
 
@@ -562,6 +684,7 @@
   let activeType  = 'all';
   let searchQuery = '';
   let searchTimer = null;
+  let selectedChars = [];
 
   /* ── Character lookup: [displayName, roleType] ────────────── */
   const CHARS = {
@@ -816,7 +939,9 @@
     filtered = ALL_SCRIPTS.filter(s => {
       const matchType = activeType === 'all' || s.script_type === activeType;
       const matchName = !q || s.name.toLowerCase().includes(q);
-      return matchType && matchName;
+      const matchChars = selectedChars.length === 0 ||
+        (s.characters && selectedChars.every(id => s.characters.includes(id)));
+      return matchType && matchName && matchChars;
     });
 
     Array.from(grid.children).forEach(c => { if (c !== emptyEl) c.remove(); });
@@ -846,6 +971,109 @@
       activeType = btn.dataset.type;
       render();
     });
+  });
+
+  /* ── Character filter ─────────────────────────────────────── */
+  const CHAR_LIST = Object.entries(CHARS)
+    .map(([id, [name, role]]) => ({ id, name, role }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+  const charSearchEl = document.getElementById('char-search');
+  const charDropdown = document.getElementById('char-dropdown');
+  const charTagsEl   = document.getElementById('char-tags');
+
+  let dropdownItems = [];
+  let focusedIndex  = -1;
+
+  function renderCharTags() {
+    charTagsEl.innerHTML = selectedChars.map(id => {
+      const info = CHARS[id];
+      const name = info ? info[0] : formatId(id);
+      const role = info ? info[1] : 'unknown';
+      return `<span class="char-tag ${role}">${esc(name)}<button class="char-tag-remove" data-id="${esc(id)}" aria-label="Remove ${esc(name)}">✕</button></span>`;
+    }).join('');
+  }
+
+  function openDropdown(items) {
+    dropdownItems = items;
+    focusedIndex  = -1;
+    charDropdown.innerHTML = items.map((c, i) =>
+      `<div class="char-option" role="option" data-id="${esc(c.id)}" data-index="${i}">` +
+      `<span class="char-option-dot ${c.role}"></span>` +
+      `<span class="char-option-name">${esc(c.name)}</span>` +
+      `<span class="char-option-role">${c.role}</span></div>`
+    ).join('');
+    charDropdown.classList.toggle('open', items.length > 0);
+  }
+
+  function closeDropdown() {
+    charDropdown.classList.remove('open');
+    dropdownItems = [];
+    focusedIndex  = -1;
+  }
+
+  function addChar(id) {
+    if (!selectedChars.includes(id)) {
+      selectedChars.push(id);
+      renderCharTags();
+      render();
+    }
+    charSearchEl.value = '';
+    closeDropdown();
+    charSearchEl.focus();
+  }
+
+  function removeChar(id) {
+    selectedChars = selectedChars.filter(c => c !== id);
+    renderCharTags();
+    render();
+  }
+
+  function updateDropdownFocus() {
+    charDropdown.querySelectorAll('.char-option').forEach((el, i) => {
+      el.classList.toggle('focused', i === focusedIndex);
+    });
+  }
+
+  charSearchEl.addEventListener('input', () => {
+    const q = charSearchEl.value.toLowerCase().trim();
+    if (!q) { closeDropdown(); return; }
+    const matches = CHAR_LIST
+      .filter(c => !selectedChars.includes(c.id) && c.name.toLowerCase().includes(q))
+      .slice(0, 10);
+    openDropdown(matches);
+  });
+
+  charSearchEl.addEventListener('keydown', e => {
+    if (!charDropdown.classList.contains('open')) return;
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      focusedIndex = Math.min(focusedIndex + 1, dropdownItems.length - 1);
+      updateDropdownFocus();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      focusedIndex = Math.max(focusedIndex - 1, 0);
+      updateDropdownFocus();
+    } else if (e.key === 'Enter') {
+      e.preventDefault();
+      if (focusedIndex >= 0 && dropdownItems[focusedIndex]) addChar(dropdownItems[focusedIndex].id);
+    } else if (e.key === 'Escape') {
+      closeDropdown();
+    }
+  });
+
+  charDropdown.addEventListener('mousedown', e => {
+    const option = e.target.closest('.char-option');
+    if (option) { e.preventDefault(); addChar(option.dataset.id); }
+  });
+
+  document.addEventListener('click', e => {
+    if (!charSearchEl.contains(e.target) && !charDropdown.contains(e.target)) closeDropdown();
+  });
+
+  charTagsEl.addEventListener('click', e => {
+    const btn = e.target.closest('.char-tag-remove');
+    if (btn) removeChar(btn.dataset.id);
   });
 
   /* ── Modal ────────────────────────────────────────────────── */

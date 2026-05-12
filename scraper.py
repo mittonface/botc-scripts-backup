@@ -70,6 +70,18 @@ def script_filename(pk: Any, version: Any) -> str:
     return f"{pk}_v{safe_version}.json"
 
 
+def extract_characters(content: Any) -> list[str]:
+    """Extract character IDs from script content, excluding _meta."""
+    if isinstance(content, str):
+        try:
+            content = json.loads(content)
+        except (json.JSONDecodeError, ValueError):
+            return []
+    if not isinstance(content, list):
+        return []
+    return [e["id"] for e in content if isinstance(e, dict) and e.get("id") not in (None, "_meta")]
+
+
 def manifest_entry(result: dict[str, Any], filename: str) -> dict[str, Any]:
     return {
         "pk": result.get("pk"),
@@ -79,6 +91,7 @@ def manifest_entry(result: dict[str, Any], filename: str) -> dict[str, Any]:
         "version": result.get("version"),
         "script_type": result.get("script_type"),
         "filename": filename,
+        "characters": extract_characters(result.get("content")),
     }
 
 
@@ -88,6 +101,31 @@ def write_manifest(output_dir: str, manifest: list[dict[str, Any]]) -> str:
         json.dump(manifest, manifest_file, ensure_ascii=False, indent=2)
         manifest_file.write("\n")
     return manifest_path
+
+
+def rebuild_manifest(output_dir: str) -> None:
+    """Rebuild manifest.json from existing script files, adding character lists."""
+    manifest_path = os.path.join(output_dir, "manifest.json")
+    with open(manifest_path, encoding="utf-8") as f:
+        existing: list[dict[str, Any]] = json.load(f)
+
+    updated = []
+    missing = 0
+    for entry in existing:
+        script_path = os.path.join(output_dir, entry["filename"])
+        if os.path.exists(script_path):
+            with open(script_path, encoding="utf-8") as f:
+                content = json.load(f)
+            characters = extract_characters(content)
+        else:
+            characters = entry.get("characters", [])
+            missing += 1
+        updated.append({**entry, "characters": characters})
+
+    write_manifest(output_dir, updated)
+    if missing:
+        print(f"Warning: {missing} script files not found; kept existing character data.")
+    print(f"Rebuilt manifest with character data for {len(updated)} entries.")
 
 
 def parse_args() -> argparse.Namespace:
@@ -110,12 +148,21 @@ def parse_args() -> argparse.Namespace:
         default=0.5,
         help="Seconds to sleep after each successful API request. Default: 0.5",
     )
+    parser.add_argument(
+        "--rebuild-manifest",
+        action="store_true",
+        help="Rebuild manifest.json from existing script files (adds character lists). Does not scrape.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
     os.makedirs(args.output_dir, exist_ok=True)
+
+    if args.rebuild_manifest:
+        rebuild_manifest(args.output_dir)
+        return
 
     url: str | None = BASE_API_URL
     manifest: list[dict[str, Any]] = []
