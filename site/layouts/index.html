@@ -21,11 +21,14 @@
       --gold:      #c8962c;
       --gold-hi:   #e8b84b;
       --gold-glow: rgba(200,150,44,0.18);
-      --crimson:   #8b2020;
-      --crimson-hi:#b03030;
-      --teal:      #2a6060;
-      --teal-hi:   #3a8888;
       --radius:    6px;
+
+      --c-townsfolk: #4a90d9;
+      --c-outsider:  #5ba88b;
+      --c-minion:    #d4782a;
+      --c-demon:     #c03030;
+      --c-traveller: #9b65c8;
+      --c-fabled:    #c8a020;
     }
 
     html { scroll-behavior: smooth; }
@@ -46,7 +49,6 @@
     header {
       text-align: center;
       padding: 64px 24px 40px;
-      position: relative;
     }
 
     .header-rule {
@@ -65,11 +67,7 @@
     .header-rule span:last-child {
       background: linear-gradient(to left, transparent, var(--gold));
     }
-    .header-rule .sigil {
-      color: var(--gold);
-      font-size: 20px;
-      opacity: 0.7;
-    }
+    .header-rule .sigil { color: var(--gold); font-size: 20px; opacity: 0.7; }
 
     h1 {
       font-family: 'Cinzel', serif;
@@ -101,9 +99,7 @@
       gap: 16px;
     }
 
-    .search-wrap {
-      position: relative;
-    }
+    .search-wrap { position: relative; }
 
     .search-icon {
       position: absolute;
@@ -163,10 +159,7 @@
       cursor: pointer;
       transition: all 0.18s;
     }
-    .filter-btn:hover {
-      border-color: var(--gold);
-      color: var(--gold-hi);
-    }
+    .filter-btn:hover { border-color: var(--gold); color: var(--gold-hi); }
     .filter-btn.active {
       background: var(--gold);
       border-color: var(--gold);
@@ -179,9 +172,6 @@
       max-width: 860px;
       margin: 0 auto 20px;
       padding: 0 20px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
     }
 
     #result-count {
@@ -211,7 +201,7 @@
       flex-direction: column;
       gap: 10px;
       transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
-      cursor: default;
+      cursor: pointer;
       animation: fadeUp 0.3s ease both;
     }
     .card:hover {
@@ -264,15 +254,15 @@
     }
 
     .badge-full {
-      background: rgba(200, 150, 44, 0.15);
-      border: 1px solid rgba(200, 150, 44, 0.4);
+      background: rgba(200,150,44,0.15);
+      border: 1px solid rgba(200,150,44,0.4);
       color: var(--gold-hi);
     }
 
     .badge-teensyville {
-      background: rgba(42, 96, 96, 0.25);
-      border: 1px solid rgba(58, 136, 136, 0.45);
-      color: var(--teal-hi);
+      background: rgba(42,96,96,0.25);
+      border: 1px solid rgba(58,136,136,0.45);
+      color: #3a8888;
     }
 
     /* ── Empty state ──────────────────────────────────────────── */
@@ -287,10 +277,224 @@
     #empty .empty-icon { font-size: 40px; margin-bottom: 12px; }
     #empty p { font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 0.12em; }
 
+    /* ── Modal ────────────────────────────────────────────────── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(6, 8, 14, 0.85);
+      backdrop-filter: blur(4px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      z-index: 100;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s;
+    }
+    .modal-overlay.open {
+      opacity: 1;
+      pointer-events: all;
+    }
+
+    .modal {
+      background: var(--void);
+      border: 1px solid var(--fog);
+      border-radius: 10px;
+      width: 100%;
+      max-width: 720px;
+      max-height: 88vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 32px 80px rgba(0,0,0,0.7);
+      transform: translateY(16px) scale(0.98);
+      transition: transform 0.22s ease;
+      overflow: hidden;
+    }
+    .modal-overlay.open .modal {
+      transform: translateY(0) scale(1);
+    }
+
+    .modal-header {
+      padding: 28px 28px 20px;
+      border-bottom: 1px solid var(--mist);
+      position: relative;
+    }
+
+    .modal-title {
+      font-family: 'Cinzel', serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--parchment);
+      line-height: 1.25;
+      padding-right: 80px;
+    }
+
+    .modal-meta {
+      margin-top: 8px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .modal-author {
+      font-style: italic;
+      font-size: 16px;
+      color: var(--bone);
+      opacity: 0.7;
+    }
+
+    .modal-actions {
+      position: absolute;
+      top: 24px;
+      right: 24px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .modal-close,
+    .modal-download {
+      background: var(--mist);
+      border: 1px solid var(--fog);
+      border-radius: 50%;
+      color: var(--bone);
+      width: 32px;
+      height: 32px;
+      font-size: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s, color 0.15s;
+      text-decoration: none;
+    }
+    .modal-close:hover,
+    .modal-download:hover { background: var(--fog); color: var(--parchment); }
+
+    .modal-body {
+      padding: 24px 28px 28px;
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    .modal-loading {
+      text-align: center;
+      padding: 48px;
+      font-family: 'Cinzel', serif;
+      font-size: 13px;
+      letter-spacing: 0.15em;
+      color: var(--gold);
+      opacity: 0.5;
+    }
+
+    .modal-error {
+      text-align: center;
+      padding: 48px;
+      color: #c03030;
+      font-style: italic;
+    }
+
+    /* ── Role groups ──────────────────────────────────────────── */
+    .role-group { margin-bottom: 24px; }
+    .role-group:last-child { margin-bottom: 0; }
+
+    .role-heading {
+      font-family: 'Cinzel', serif;
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      font-weight: 600;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .role-heading::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: currentColor;
+      opacity: 0.2;
+    }
+
+    .role-heading.townsfolk { color: var(--c-townsfolk); }
+    .role-heading.outsider  { color: var(--c-outsider); }
+    .role-heading.minion    { color: var(--c-minion); }
+    .role-heading.demon     { color: var(--c-demon); }
+    .role-heading.traveller { color: var(--c-traveller); }
+    .role-heading.fabled    { color: var(--c-fabled); }
+    .role-heading.unknown   { color: var(--bone); opacity: 0.5; }
+
+    .char-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .char-chip {
+      font-family: 'Cinzel', serif;
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      padding: 5px 12px;
+      border-radius: 4px;
+      border: 1px solid;
+    }
+
+    .char-chip.townsfolk {
+      background: rgba(74,144,217,0.12);
+      border-color: rgba(74,144,217,0.3);
+      color: #82b8e8;
+    }
+    .char-chip.outsider {
+      background: rgba(91,168,139,0.12);
+      border-color: rgba(91,168,139,0.3);
+      color: #7ecab0;
+    }
+    .char-chip.minion {
+      background: rgba(212,120,42,0.12);
+      border-color: rgba(212,120,42,0.3);
+      color: #e0a070;
+    }
+    .char-chip.demon {
+      background: rgba(192,48,48,0.15);
+      border-color: rgba(192,48,48,0.35);
+      color: #e07070;
+    }
+    .char-chip.traveller {
+      background: rgba(155,101,200,0.12);
+      border-color: rgba(155,101,200,0.3);
+      color: #c0a0e0;
+    }
+    .char-chip.fabled {
+      background: rgba(200,160,32,0.12);
+      border-color: rgba(200,160,32,0.3);
+      color: #e0c870;
+    }
+    .char-chip.unknown {
+      background: var(--dusk);
+      border-color: var(--fog);
+      color: var(--bone);
+      opacity: 0.65;
+    }
+
+    .char-count {
+      font-family: 'Cinzel', serif;
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      color: var(--gold);
+      opacity: 0.5;
+      margin-top: 20px;
+      text-align: right;
+    }
+
     /* ── Responsive ───────────────────────────────────────────── */
     @media (max-width: 500px) {
       #grid { grid-template-columns: 1fr; }
-      .filter-row { gap: 8px; }
+      .modal-header { padding: 20px 20px 16px; }
+      .modal-body { padding: 16px 20px 20px; }
+      .modal-title { font-size: 17px; }
     }
   </style>
 </head>
@@ -330,70 +534,263 @@
   </div>
 </div>
 
+<!-- Modal -->
+<div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true">
+  <div class="modal" id="modal">
+    <div class="modal-header">
+      <div class="modal-title" id="modal-title"></div>
+      <div class="modal-meta" id="modal-meta"></div>
+      <div class="modal-actions">
+        <a class="modal-download" id="modal-download" aria-label="Download JSON" title="Download JSON" download>⬇</a>
+        <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
+      </div>
+    </div>
+    <div class="modal-body" id="modal-body">
+      <div class="modal-loading">Loading…</div>
+    </div>
+  </div>
+</div>
+
 <script>
+  /* ── Data ─────────────────────────────────────────────────── */
   const _raw = {{ hugo.Data.manifest | jsonify }};
   const ALL_SCRIPTS = typeof _raw === 'string' ? JSON.parse(_raw) : _raw;
   const TOTAL = ALL_SCRIPTS.length;
 
-  const grid       = document.getElementById('grid');
-  const emptyEl    = document.getElementById('empty');
-  const countEl    = document.getElementById('result-count');
-  const searchEl   = document.getElementById('search');
-  const filterBtns = document.querySelectorAll('.filter-btn');
+  /* ── Character lookup: [displayName, roleType] ────────────── */
+  const CHARS = {
+    // Trouble Brewing
+    washerwoman:   ['Washerwoman',    'townsfolk'],
+    librarian:     ['Librarian',      'townsfolk'],
+    investigator:  ['Investigator',   'townsfolk'],
+    chef:          ['Chef',           'townsfolk'],
+    empath:        ['Empath',         'townsfolk'],
+    fortuneteller: ['Fortune Teller', 'townsfolk'],
+    undertaker:    ['Undertaker',     'townsfolk'],
+    monk:          ['Monk',           'townsfolk'],
+    ravenkeeper:   ['Ravenkeeper',    'townsfolk'],
+    virgin:        ['Virgin',         'townsfolk'],
+    slayer:        ['Slayer',         'townsfolk'],
+    soldier:       ['Soldier',        'townsfolk'],
+    mayor:         ['Mayor',          'townsfolk'],
+    butler:        ['Butler',         'outsider'],
+    drunk:         ['Drunk',          'outsider'],
+    recluse:       ['Recluse',        'outsider'],
+    saint:         ['Saint',          'outsider'],
+    poisoner:      ['Poisoner',       'minion'],
+    spy:           ['Spy',            'minion'],
+    scarletwoman:  ['Scarlet Woman',  'minion'],
+    baron:         ['Baron',          'minion'],
+    imp:           ['Imp',            'demon'],
+    // Bad Moon Rising
+    grandmother:   ['Grandmother',    'townsfolk'],
+    sailor:        ['Sailor',         'townsfolk'],
+    chambermaid:   ['Chambermaid',    'townsfolk'],
+    exorcist:      ['Exorcist',       'townsfolk'],
+    innkeeper:     ['Innkeeper',      'townsfolk'],
+    gambler:       ['Gambler',        'townsfolk'],
+    gossip:        ['Gossip',         'townsfolk'],
+    courtier:      ['Courtier',       'townsfolk'],
+    professor:     ['Professor',      'townsfolk'],
+    minstrel:      ['Minstrel',       'townsfolk'],
+    tealady:       ['Tea Lady',       'townsfolk'],
+    pacifist:      ['Pacifist',       'townsfolk'],
+    fool:          ['Fool',           'townsfolk'],
+    goon:          ['Goon',           'outsider'],
+    lunatic:       ['Lunatic',        'outsider'],
+    tinker:        ['Tinker',         'outsider'],
+    moonchild:     ['Moonchild',      'outsider'],
+    godfather:     ['Godfather',      'minion'],
+    devilsadvocate:["Devil's Advocate",'minion'],
+    assassin:      ['Assassin',       'minion'],
+    mastermind:    ['Mastermind',     'minion'],
+    zombuul:       ['Zombuul',        'demon'],
+    pukka:         ['Pukka',          'demon'],
+    shabaloth:     ['Shabaloth',      'demon'],
+    po:            ['Po',             'demon'],
+    // Sects & Violets
+    clockmaker:    ['Clockmaker',     'townsfolk'],
+    dreamer:       ['Dreamer',        'townsfolk'],
+    snakecharmer:  ['Snake Charmer',  'townsfolk'],
+    mathematician: ['Mathematician',  'townsfolk'],
+    flowergirl:    ['Flower Girl',    'townsfolk'],
+    towncrier:     ['Town Crier',     'townsfolk'],
+    oracle:        ['Oracle',         'townsfolk'],
+    savant:        ['Savant',         'townsfolk'],
+    seamstress:    ['Seamstress',     'townsfolk'],
+    philosopher:   ['Philosopher',    'townsfolk'],
+    artist:        ['Artist',         'townsfolk'],
+    juggler:       ['Juggler',        'townsfolk'],
+    sage:          ['Sage',           'townsfolk'],
+    mutant:        ['Mutant',         'outsider'],
+    sweetheart:    ['Sweetheart',     'outsider'],
+    barber:        ['Barber',         'outsider'],
+    klutz:         ['Klutz',          'outsider'],
+    eviltwin:      ['Evil Twin',      'minion'],
+    witch:         ['Witch',          'minion'],
+    cerenovus:     ['Cerenovus',      'minion'],
+    pithag:        ['Pit-Hag',        'minion'],
+    fanggu:        ['Fang Gu',        'demon'],
+    vortox:        ['Vortox',         'demon'],
+    vigormortis:   ['Vigormortis',    'demon'],
+    nodashii:      ['No Dashii',      'demon'],
+    // Experimental – Townsfolk
+    acrobat:       ['Acrobat',        'townsfolk'],
+    alchemist:     ['Alchemist',      'townsfolk'],
+    alsaahir:      ['Al-Saahir',      'townsfolk'],
+    amnesiac:      ['Amnesiac',       'townsfolk'],
+    atheist:       ['Atheist',        'townsfolk'],
+    balloonist:    ['Balloonist',     'townsfolk'],
+    banshee:       ['Banshee',        'townsfolk'],
+    bountyhunter:  ['Bounty Hunter',  'townsfolk'],
+    cannibal:      ['Cannibal',       'townsfolk'],
+    choirboy:      ['Choirboy',       'townsfolk'],
+    cultleader:    ['Cult Leader',    'townsfolk'],
+    engineer:      ['Engineer',       'townsfolk'],
+    farmer:        ['Farmer',         'townsfolk'],
+    fisherman:     ['Fisherman',      'townsfolk'],
+    highpriestess: ['High Priestess', 'townsfolk'],
+    huntsman:      ['Huntsman',       'townsfolk'],
+    knight:        ['Knight',         'townsfolk'],
+    magician:      ['Magician',       'townsfolk'],
+    nightwatchman: ['Nightwatchman',  'townsfolk'],
+    noble:         ['Noble',          'townsfolk'],
+    pixie:         ['Pixie',          'townsfolk'],
+    poppygrower:   ['Poppy Grower',   'townsfolk'],
+    puzzlemaster:  ['Puzzlemaster',   'townsfolk'],
+    shugenja:      ['Shugenja',       'townsfolk'],
+    steward:       ['Steward',        'townsfolk'],
+    // Experimental – Outsiders
+    damsel:        ['Damsel',         'outsider'],
+    golem:         ['Golem',          'outsider'],
+    heretic:       ['Heretic',        'outsider'],
+    ogre:          ['Ogre',           'outsider'],
+    plaguedoctor:  ['Plague Doctor',  'outsider'],
+    sentinel:      ['Sentinel',       'outsider'],
+    villageidiot:  ['Village Idiot',  'outsider'],
+    // Experimental – Minions
+    boomdandy:     ['Boomdandy',      'minion'],
+    fearmonger:    ['Fearmonger',     'minion'],
+    marionette:    ['Marionette',     'minion'],
+    mezepheles:    ['Mezepheles',     'minion'],
+    organgrinder:  ['Organ Grinder',  'minion'],
+    psychopath:    ['Psychopath',     'minion'],
+    vizier:        ['Vizier',         'minion'],
+    widow:         ['Widow',          'minion'],
+    // Experimental – Demons
+    alhadikhia:    ['Al-Hadikhia',    'demon'],
+    doomsayer:     ['Doomsayer',      'demon'],
+    kazali:        ['Kazali',         'demon'],
+    legion:        ['Legion',         'demon'],
+    leviathan:     ['Leviathan',      'demon'],
+    lilmonsta:     ["Lil' Monsta",    'demon'],
+    lleech:        ['Lleech',         'demon'],
+    lordoftyphon:  ['Lord of Typhon', 'demon'],
+    lycanthrope:   ['Lycanthrope',    'demon'],
+    nodashii:      ['No Dashii',      'demon'],
+    ojo:           ['Ojo',            'demon'],
+    riot:          ['Riot',           'demon'],
+    stormcatcher:  ['Stormcatcher',   'demon'],
+    summoner:      ['Summoner',       'demon'],
+    voudon:        ['Voudon',         'demon'],
+    xaan:          ['Xaan',           'demon'],
+    yaggababble:   ['Yaggababble',     'demon'],
+    // Travellers
+    apprentice:    ['Apprentice',     'traveller'],
+    barista:       ['Barista',        'traveller'],
+    beggar:        ['Beggar',         'traveller'],
+    bishop:        ['Bishop',         'traveller'],
+    boffin:        ['Boffin',         'traveller'],
+    bonecollector: ['Bone Collector', 'traveller'],
+    bureaucrat:    ['Bureaucrat',     'traveller'],
+    butcher:       ['Butcher',        'traveller'],
+    deviant:       ['Deviant',        'traveller'],
+    ferryman:      ['Ferryman',       'traveller'],
+    gangster:      ['Gangster',       'traveller'],
+    harlot:        ['Harlot',         'traveller'],
+    judge:         ['Judge',          'traveller'],
+    king:          ['King',           'traveller'],
+    matron:        ['Matron',         'traveller'],
+    politician:    ['Politician',     'traveller'],
+    revolutionary: ['Revolutionary',  'traveller'],
+    scapegoat:     ['Scapegoat',      'traveller'],
+    thief:         ['Thief',          'traveller'],
+    // Fabled
+    djinn:         ['Djinn',          'fabled'],
+    fibbin:        ['Fibbin',         'fabled'],
+    fiddler:       ['Fiddler',        'fabled'],
+    preacher:      ['Preacher',       'fabled'],
+    spiritofivory: ['Spirit of Ivory','fabled'],
+    bootlegger:    ['Bootlegger',     'fabled'],
+    toymaker:      ['Toymaker',       'fabled'],
+  };
 
-  let activeType = 'all';
-  let searchQuery = '';
+  const ROLE_ORDER = ['townsfolk','outsider','minion','demon','traveller','fabled','unknown'];
+  const ROLE_LABELS = {
+    townsfolk: 'Townsfolk', outsider: 'Outsider', minion: 'Minion',
+    demon: 'Demon', traveller: 'Traveller', fabled: 'Fabled', unknown: 'Other',
+  };
 
-  function escHtml(s) {
+  /* ── Helpers ──────────────────────────────────────────────── */
+  function esc(s) {
     return String(s)
       .replace(/&/g,'&amp;').replace(/</g,'&lt;')
       .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
+  function formatId(id) {
+    return id.replace(/([a-z])([A-Z])/g,'$1 $2')
+             .replace(/_/g,' ')
+             .replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  /* ── Cards ────────────────────────────────────────────────── */
   function buildCard(s) {
     const typeBadge = s.script_type === 'Teensyville'
       ? `<span class="badge badge-teensyville">Teensyville</span>`
       : `<span class="badge badge-full">Full</span>`;
-    return `<div class="card">
-      <div class="card-name">${escHtml(s.name)}</div>
-      <div class="card-author">${escHtml(s.author)}</div>
+    return `<div class="card" data-filename="${esc(s.filename)}" data-name="${esc(s.name)}" data-author="${esc(s.author)}" data-version="${esc(s.version)}" data-type="${esc(s.script_type)}">
+      <div class="card-name">${esc(s.name)}</div>
+      <div class="card-author">${esc(s.author)}</div>
       <div class="card-badges">
         ${typeBadge}
-        <span class="badge badge-version">v${escHtml(s.version)}</span>
+        <span class="badge badge-version">v${esc(s.version)}</span>
       </div>
     </div>`;
   }
 
+  /* ── Grid rendering ───────────────────────────────────────── */
+  const grid     = document.getElementById('grid');
+  const emptyEl  = document.getElementById('empty');
+  const countEl  = document.getElementById('result-count');
+  const searchEl = document.getElementById('search');
+  const filterBtns = document.querySelectorAll('.filter-btn');
+
+  let activeType  = 'all';
+  let searchQuery = '';
+
   function render() {
     const q = searchQuery.toLowerCase().trim();
-
     const filtered = ALL_SCRIPTS.filter(s => {
       const matchType = activeType === 'all' || s.script_type === activeType;
       const matchName = !q || s.name.toLowerCase().includes(q);
       return matchType && matchName;
     });
 
-    const count = filtered.length;
-    countEl.textContent = `Showing ${count.toLocaleString()} of ${TOTAL.toLocaleString()} scripts`;
+    countEl.textContent = `Showing ${filtered.length.toLocaleString()} of ${TOTAL.toLocaleString()} scripts`;
 
-    if (count === 0) {
+    if (filtered.length === 0) {
       grid.innerHTML = '';
       grid.appendChild(emptyEl);
       emptyEl.style.display = 'block';
     } else {
       emptyEl.style.display = 'none';
-      // Render in chunks to avoid blocking
-      const html = filtered.map(buildCard).join('');
-      grid.innerHTML = html;
+      grid.innerHTML = filtered.map(buildCard).join('');
       grid.appendChild(emptyEl);
     }
   }
 
-  searchEl.addEventListener('input', () => {
-    searchQuery = searchEl.value;
-    render();
-  });
-
+  searchEl.addEventListener('input', () => { searchQuery = searchEl.value; render(); });
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       filterBtns.forEach(b => b.classList.remove('active'));
@@ -401,6 +798,83 @@
       activeType = btn.dataset.type;
       render();
     });
+  });
+
+  /* ── Modal ────────────────────────────────────────────────── */
+  const overlay      = document.getElementById('modal-overlay');
+  const modalTitle   = document.getElementById('modal-title');
+  const modalMeta    = document.getElementById('modal-meta');
+  const modalBody    = document.getElementById('modal-body');
+  const modalDownload = document.getElementById('modal-download');
+
+  function openModal() { overlay.classList.add('open'); document.body.style.overflow = 'hidden'; }
+  function closeModal() { overlay.classList.remove('open'); document.body.style.overflow = ''; }
+
+  document.getElementById('modal-close').addEventListener('click', closeModal);
+  overlay.addEventListener('click', e => { if (e.target === overlay) closeModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+  function renderCharacters(entries) {
+    const groups = {};
+    let total = 0;
+    for (const entry of entries) {
+      if (entry.id === '_meta') continue;
+      total++;
+      const info = CHARS[entry.id];
+      const role = info ? info[1] : 'unknown';
+      const name = info ? info[0] : formatId(entry.id);
+      if (!groups[role]) groups[role] = [];
+      groups[role].push(name);
+    }
+
+    const parts = [];
+    for (const role of ROLE_ORDER) {
+      if (!groups[role]) continue;
+      const chips = groups[role].map(n =>
+        `<span class="char-chip ${role}">${esc(n)}</span>`
+      ).join('');
+      parts.push(`
+        <div class="role-group">
+          <div class="role-heading ${role}">${ROLE_LABELS[role]}</div>
+          <div class="char-grid">${chips}</div>
+        </div>`);
+    }
+    parts.push(`<div class="char-count">${total} character${total !== 1 ? 's' : ''}</div>`);
+    return parts.join('');
+  }
+
+  async function loadScript(card) {
+    const filename = card.dataset.filename;
+    const name     = card.dataset.name;
+    const author   = card.dataset.author;
+    const version  = card.dataset.version;
+    const type     = card.dataset.type;
+
+    modalTitle.textContent = name;
+    modalDownload.href = `/scripts/${filename}`;
+    modalDownload.setAttribute('download', name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') + '.json');
+
+    const typeBadge = type === 'Teensyville'
+      ? `<span class="badge badge-teensyville">Teensyville</span>`
+      : `<span class="badge badge-full">Full</span>`;
+    modalMeta.innerHTML = `<span class="modal-author">${esc(author)}</span>${typeBadge}<span class="badge badge-version">v${esc(version)}</span>`;
+
+    modalBody.innerHTML = '<div class="modal-loading">Loading…</div>';
+    openModal();
+
+    try {
+      const res = await fetch(`/scripts/${filename}`);
+      if (!res.ok) throw new Error(res.statusText);
+      const data = await res.json();
+      modalBody.innerHTML = renderCharacters(data);
+    } catch (err) {
+      modalBody.innerHTML = `<div class="modal-error">Could not load script data.</div>`;
+    }
+  }
+
+  grid.addEventListener('click', e => {
+    const card = e.target.closest('.card');
+    if (card) loadScript(card);
   });
 
   render();

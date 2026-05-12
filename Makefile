@@ -5,6 +5,7 @@ run:
 
 site:
 	cp scripts/manifest.json site/data/manifest.json
+	cp scripts/*.json site/static/scripts/
 	hugo --source site --destination ../public
 
 serve:
