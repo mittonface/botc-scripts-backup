@@ -205,12 +205,18 @@ def main() -> None:
             next_url = data.get("next")
             if next_url is not None and not isinstance(next_url, str):
                 raise ValueError(f"Expected 'next' to be a URL or null from {url}")
-            url = next_url
+
             print(
                 f"Processed page {page}: saved {page_saved}, skipped {page_skipped} "
                 f"({len(manifest)} manifest entries total).",
                 flush=True,
             )
+
+            if page_saved == 0 and page_skipped > 0 and not args.force:
+                print("Entire page already downloaded; stopping early.", flush=True)
+                break
+
+            url = next_url
     except KeyboardInterrupt:
         interrupted = True
         print("\nInterrupted by user. Writing manifest for processed pages...", flush=True)
