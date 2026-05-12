@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "It’s all ogre",
+    "author": "Chef Kramer",
+    "bootlegger": [
+      "There is an order to ogre picks. Ogre picks are handled in the order of token drawn. An ogre selecting an already turned evil ogre turns evil also. A bone collected ogre can repick during the night"
+    ]
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

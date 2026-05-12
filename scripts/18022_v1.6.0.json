@@ -1,0 +1,107 @@
+[
+  {
+    "id": "_meta",
+    "name": "Touched",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a Vigormortis ability is active, any minions killed by a Vigormortis have their abilities.",
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

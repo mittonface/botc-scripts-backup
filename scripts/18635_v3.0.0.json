@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Summunatic",
+    "author": "jaybee",
+    "bootlegger": [
+      "Jinx:- Summoner/Lunatic - The Lunatic might think they are the Summoner. Until a demon is made, the Summoner registers as the Demon to the Lunatic.",
+      "Loric:- Denial - The Lunatic might think they are a Townsfolk. If they survive until night three, they believe they become the Demon."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "djinn"
+  }
+]

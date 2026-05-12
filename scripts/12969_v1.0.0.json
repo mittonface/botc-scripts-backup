@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Minion Macabre",
+    "author": "Mateo Price"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

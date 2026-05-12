@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lil' Guys",
+    "author": "Gerryjunior"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

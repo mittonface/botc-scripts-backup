@@ -1,0 +1,115 @@
+[
+  {
+    "id": "_meta",
+    "name": "Monkeys with Bazookas 2.0",
+    "author": "KrullenMark",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "wizard",
+      "damsel",
+      "amnesiac",
+      "clockmaker",
+      "dreamer",
+      "cultleader",
+      "highpriestess",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wizard",
+      "monk",
+      "lycanthrope",
+      "imp",
+      "shabaloth",
+      "po",
+      "vortox",
+      "damsel",
+      "amnesiac",
+      "dreamer",
+      "cultleader",
+      "highpriestess",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "imp"
+  }
+]

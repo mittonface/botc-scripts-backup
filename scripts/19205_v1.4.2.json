@@ -1,0 +1,105 @@
+[
+  {
+    "id": "_meta",
+    "name": "Prepare for trouble...",
+    "author": "Ernsty & Renya",
+    "bootlegger": [
+      "Droisoned poppy grower on death still results in the evil team learning each other.",
+      "If the summoner is poisoned the storyteller gains the summoner ability.",
+      "During setup, if the king is turned by the LoT, the demon learns another good townsfolk player, but not their role. When this player dies, the choirboy learns the demon."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

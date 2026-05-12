@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Kazapheles",
+    "author": "seaplus",
+    "bootlegger": [
+      "All Minions are the Mezepheles. All Mez-turned players have the Goon ability for the rest of the game. The Mezepheles word(s) changes and works again each day."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

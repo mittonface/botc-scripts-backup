@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Way of Kings",
+    "author": "Zyrain",
+    "bootlegger": [
+      "There can be multiple Kings in the bag.  Minions may be replaced by evil kings."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

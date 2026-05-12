@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "DMV Grandmasters",
+    "author": "Cam",
+    "bootlegger": [
+      "There are 3 synced games. Some players are in all 3 & move among them during day but remain seated at night. Their night actions are arbitrary when not present. They can be targeted/killed whether present or not."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

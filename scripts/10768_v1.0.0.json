@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Take to the Streets",
+    "author": "TPHG"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "riot"
+  }
+]

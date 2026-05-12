@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chaos Investigator",
+    "author": "Evan (PlayoffBeard)",
+    "background": "https://grimoire.csh.rit.edu/assets/backgrounds/green_circle_large.webp"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  }
+]

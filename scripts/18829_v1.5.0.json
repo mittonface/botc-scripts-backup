@@ -1,0 +1,127 @@
+[
+  {
+    "id": "_meta",
+    "name": "Blue Bloody Murder",
+    "author": "Hodge",
+    "bootlegger": [
+      "OPTIONAL RULE: The Pit-Hag can affect reincarnated travellers (although the change must be announced), but they may not create traveller roles. If a player began as a traveller, they are immune."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "doomsayer"
+  }
+]

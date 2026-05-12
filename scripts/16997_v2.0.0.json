@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Target Practice",
+    "author": "Lewis",
+    "bootlegger": [
+      "Improved Huntsman ability: Each night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. The first time you choose an evil player, you are drunk. [+the Damsel]"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

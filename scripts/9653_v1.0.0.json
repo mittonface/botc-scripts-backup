@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "PASB and IOP",
+    "author": "Backup"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  }
+]

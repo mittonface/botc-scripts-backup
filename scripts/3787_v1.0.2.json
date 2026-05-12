@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Shabulous",
+    "author": "FMJason and Bambi"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "shabaloth"
+  }
+]

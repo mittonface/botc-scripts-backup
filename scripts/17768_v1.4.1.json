@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Holli Would... Wouldn't You?",
+    "author": "Jonoland",
+    "bootlegger": [
+      "The drunk Village Idiot might learn arbitrary information if a Vortox is in play.",
+      "If the Poppy Grower dies while drunk, poisoned or while a Vortox is in play, their ability functions as normal.",
+      "The Hermit registers as the Damsel to the Huntsman's ability and might be added during setup instead.",
+      "If a Damsel & Hermit are in play, Minions learn that a Damsel is in play only once and may guess a player with the Damsel ability only once.",
+      "If a player with the Ogre ability selects the 'Faux Paw', they learn their alignment."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

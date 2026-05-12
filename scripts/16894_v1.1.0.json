@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Flaming Eye of Sauron",
+    "author": "Mc.Gnolan"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Charging Station",
+    "author": "Andrew"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "po"
+  }
+]

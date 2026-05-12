@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "When You Miss Her",
+    "author": "InspirationFollows",
+    "bootlegger": [
+      "Requests to visit The Duchess must be private. Requestors learn the current visitor count, then confirm if they'll visit. At night* if there are 3 visitors, each visitor knows other visitors and learns how many visitors are evil, but 1 gets false info. "
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "djinn"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Feast in Time of Plague",
+    "author": "Schmebjulock",
+    "bootlegger": [
+      "At the end of each night, the storyteller wakes one of the players and tells them that they were sober and healthy that night and will remain so until sunset, regardless of the characters’ abilities. Two players might be woken once during the game, but only one will be sober and healthy according to the storyteller’s ability."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

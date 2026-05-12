@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mirror, Mirror",
+    "author": "Axios!",
+    "bootlegger": [
+      "If a Vortox is in play, the extra, drunk Village Idiot receives arbitrary information."
+    ],
+    "isOfficial": false
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vortox"
+  }
+]

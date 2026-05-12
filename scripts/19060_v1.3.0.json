@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Behemoth Brewing",
+    "author": "ericmw & isabel"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "leviathan"
+  }
+]

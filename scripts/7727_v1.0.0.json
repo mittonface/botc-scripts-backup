@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Adventures in Babysitting",
+    "author": "Navanian"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "djinn"
+  }
+]

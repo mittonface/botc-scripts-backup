@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sanitarium",
+    "author": "Joakim Petersson"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "leviathan"
+  }
+]

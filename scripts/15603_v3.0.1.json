@@ -1,0 +1,101 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://release.botc.app/wc25/binarysupernovae/logo.webp",
+    "name": "Binary Supernovae",
+    "author": "Hystrex",
+    "almanac": "https://beardytas.com/garden-of-djinn/binary-supernovae/",
+    "hideTitle": true,
+    "background": "https://release.botc.app/wc25/background.webp",
+    "bootlegger": [
+      "If a Demon dies by execution, good wins. Summoner only removes 1 Demon. [+1 Demon]"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  }
+]

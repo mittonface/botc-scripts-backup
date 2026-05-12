@@ -1,0 +1,62 @@
+[
+  {
+    "id": "_meta",
+    "name": "Malevolent Shrine",
+    "author": "",
+    "bootlegger": [
+      "Only Shugenja is the duplicated character in play.",
+      "If Vortox is in play and Poppygrower dies. The Demon learns their Minions as the Demon and Demon learns the Minion as their Demon."
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  }
+]

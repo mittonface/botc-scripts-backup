@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "What Side Am I On?",
+    "author": "Fabb"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "ojo"
+  }
+]

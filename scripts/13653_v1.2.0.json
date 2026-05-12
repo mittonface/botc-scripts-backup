@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Spellbound",
+    "author": "Jake"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  }
+]

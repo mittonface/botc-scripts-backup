@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "It's Magic !",
+    "author": "Sam",
+    "bootlegger": [
+      "If the Kazali and Magician both are in play, Kazali can only choose which Minions are in-play. "
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

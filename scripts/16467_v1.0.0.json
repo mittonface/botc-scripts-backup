@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "What the Hell is Going On",
+    "author": "Booker"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  }
+]

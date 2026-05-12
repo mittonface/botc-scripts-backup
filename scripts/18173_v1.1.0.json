@@ -1,0 +1,86 @@
+[
+  {
+    "id": "_meta",
+    "name": "Where art thou, fair maiden?",
+    "author": "Mav",
+    "bootlegger": [
+      "Pope only applies to Damsels.",
+      "All outsiders are Damsels. X number of Damsels are added to the bag, where X is the number of minions.",
+      "The Damsels know who each other are & each night (at the damsel stage in the night order), sober living damsels gather to decide who amongst the living Damsels is the True Damsel. They are also told X-1 Townsfolk roles not in play.",
+      "During the day, each minion can make a guess as to who might be the True Damsel. If they guess a regular Damsel, that Damsel dies and the minion can make another guess. The evil team wins if they correctly guess the True Damsel.",
+      "If a minion is holding lil' monsta, they cannot make a damsel guess &amp; a dead minion loses the ability to make a Damsel guess."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

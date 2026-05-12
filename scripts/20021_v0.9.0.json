@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "Catch the worm!",
+    "author": "Myrion",
+    "bootlegger": [
+      "The Baron only adds a single outsider."
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

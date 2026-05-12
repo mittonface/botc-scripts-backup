@@ -1,0 +1,135 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ambergris, Baby Boy",
+    "author": "Delinquent",
+    "bootlegger": [
+      "If the Lunatic sees Yaggababble, the Demon learns the Lunatic's phrase.",
+      "Ignore the Leviathan-Monk and Leviathan-Innkeeper Jinxes, if Leviathan is in-play, the Monk and Innkeeper-protected players are safe from all evil abilities.",
+      "Ignore the Magician-Marionette, Jinx, and the Magician might register as the Marionette to the Demon."
+    ],
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "yaggababble",
+      "magician",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "marionette",
+      "poisoner",
+      "snakecharmer",
+      "godfather",
+      "witch",
+      "amnesiac",
+      "fortuneteller",
+      "dreamer",
+      "seamstress",
+      "villageidiot",
+      "chambermaid",
+      "dawn",
+      "leviathan"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "innkeeper",
+      "gambler",
+      "acrobat",
+      "snakecharmer",
+      "monk",
+      "witch",
+      "lunatic",
+      "po",
+      "yaggababble",
+      "godfather",
+      "amnesiac",
+      "tinker",
+      "fortuneteller",
+      "dreamer",
+      "seamstress",
+      "villageidiot",
+      "chambermaid",
+      "dawn",
+      "leviathan"
+    ]
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

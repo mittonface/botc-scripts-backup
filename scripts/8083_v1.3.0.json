@@ -1,0 +1,87 @@
+[
+  {
+    "id": "_meta",
+    "name": "I'd Rather Die Standing",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/ratherdiestanding/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "fibbin"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dutch Chess",
+    "author": "SR",
+    "bootlegger": [
+      "Before the game begins, the Storyteller announces if the Magician + Legion jinx is in play. If it is not, all Legion are woken seperately, and Legion think the Magician is Legion."
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  }
+]

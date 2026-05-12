@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Demon's Draught",
+    "author": "PogoFox",
+    "bootlegger": [
+      "Each day, the group may agree on a player (different from yesterday) to be the Health Inspector.",
+      "Each day, the Health Inspector of the day may visit the Storyteller to find out how many players are currently drunk, poisoned, or affected by a Vortox.  If the Health Inspector is drunk, poisoned, or affected by a Vortox, they will receive a false number at least 2 away from the truth."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

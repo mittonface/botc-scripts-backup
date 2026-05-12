@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Teensy Weensy",
+    "author": "Indigo"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "sentinel"
+  }
+]

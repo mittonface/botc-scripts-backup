@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Fork in the Road",
+    "author": "Mae"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  }
+]

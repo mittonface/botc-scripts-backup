@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Royalty Pains",
+    "author": "SummerM"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "pukka"
+  }
+]

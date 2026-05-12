@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Mouse Ran Up The Clock",
+    "author": "SummerM",
+    "bootlegger": [
+      "If a Poppy Grower is in play, the Boffin does not know which ability the Demon has been given."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "sentinel"
+  }
+]

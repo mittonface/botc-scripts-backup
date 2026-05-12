@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "3 Day Monte",
+    "author": "Backup"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "djinn"
+  }
+]

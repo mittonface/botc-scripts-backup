@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Drinking the Kool-Aid",
+    "author": "Joakim Petersson"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "alhadikhia"
+  }
+]

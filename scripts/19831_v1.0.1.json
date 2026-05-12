@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cults and Lilacs",
+    "author": "South",
+    "bootlegger": [
+      "One player must die each day or the Evil team wins",
+      "When a Demon is picked by the Snake Charmer, they are turned into the lunatic instead of a poisoned Snake Charmer. On the first night after there are only 5 or less players left alive (Excluding Travellers), a Lunatic that was made in this way is told they are the Lunatic or the Snake Charmer is poisoned.",
+      "If the Klutz picks a Legion, instead of the game ending the Story Teller has to pick a Good player to die in the next night.",
+      "A Lunatic might Believe they are a minion, If so one of the real Minions is told there is a Lunatic in play and told the choices they make at night instead of the Demon."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

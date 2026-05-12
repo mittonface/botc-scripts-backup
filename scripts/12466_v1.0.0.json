@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "standoff",
+    "author": "Xanadu"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "gnome"
+  }
+]

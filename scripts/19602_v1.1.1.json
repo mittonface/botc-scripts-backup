@@ -1,0 +1,128 @@
+[
+  {
+    "id": "_meta",
+    "name": "Strange Attempt at a Pickup Line",
+    "author": "Kinky Joe & Cute Mage",
+    "bootlegger": [
+      "If the Vigormortis attacks itself & a Scarlet Woman becomes the new Vigormortis, one of the original Vigormortis Townsfolk neighbors is poisoned.",
+      "As long as Vigormortis is in play, Vigormortis killed minions retain their abilities.",
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk.",
+      "If the Knight has their ability, the players they have seen cannot become the Demon. "
+    ],
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "minioninfo",
+      "summoner",
+      "demoninfo",
+      "wizard",
+      "godfather",
+      "cerenovus",
+      "pukka",
+      "amnesiac",
+      "steward",
+      "knight",
+      "villageidiot",
+      "ogre",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wizard",
+      "gambler",
+      "monk",
+      "cerenovus",
+      "scarletwoman",
+      "summoner",
+      "exorcist",
+      "pukka",
+      "vigormortis",
+      "ojo",
+      "godfather",
+      "amnesiac",
+      "moonchild",
+      "villageidiot",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

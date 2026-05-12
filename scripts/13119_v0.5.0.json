@@ -1,0 +1,48 @@
+[
+  {
+    "id": "_meta",
+    "name": "Don't Sleep!!",
+    "author": "PrivateEyeball",
+    "bootlegger": [
+      "No Leviathan announcement will be given.",
+      "The Leviathan's ability ends the game after day 1."
+    ],
+    "isOfficial": false
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "leviathan"
+  }
+]

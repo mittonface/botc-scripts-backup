@@ -1,0 +1,105 @@
+[
+  {
+    "id": "_meta",
+    "name": "Iron Man Prefers Ferrous Wheels to Carousels",
+    "author": "Etreides",
+    "bootlegger": [
+      "A Vigormortis that was once a Scarlet Woman is not considered a new instance of the Demon.",
+      "A Vigormortis that targets itself while there is a living, active Scarlet Woman in play first swaps characters with that player.",
+      "A Cannibal inherits the sobriety status of any Village Idiot it consumes."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

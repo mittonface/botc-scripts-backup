@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Here the Whole Time",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/herethewholetime/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

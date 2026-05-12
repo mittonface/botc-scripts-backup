@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Deleterious Distribution",
+    "author": "Derek Y."
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "djinn"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dearly Departed",
+    "author": "Jack"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  }
+]

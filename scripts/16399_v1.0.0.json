@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Lighthouse Tale",
+    "author": "Jackk"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

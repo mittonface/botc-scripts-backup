@@ -1,0 +1,99 @@
+[
+  {
+    "id": "_meta",
+    "name": "It's the Holiday Treason",
+    "author": "Cenbian",
+    "bootlegger": [
+      "Every player has a Secret Santa gift, on the first night they'll choose a gift to give a predetermined recipient (Chosen by ST), everyone only has 1 secret santa gift to give and receive. This happens at the beginning of the night order",
+      "The gift recipient is not told what they got (Except for gift 6)",
+      "The Gifts a player can give are as the following:",
+      "1- Drunk / Poison till Day 3",
+      "2- Sober & Healthy till Day 3 (Does nothing to a Drunk)",
+      "3- Ogre, you become the same alignment as your recipient, but you won't be told what alignment you are (Demon can't Choose this, Minions who turn good do not learn their demon / Demon does not learn them)",
+      "4- Scapegoat protection, if they die by any reason, you might die by that reason instead",
+      "5- Political Pundit, Their vote counts for 2 until they die",
+      "6- Friendly Boffin, give your recipient 1 trigger of a ST chosen townsfolk ability (Ongoing roles get 1 night of info, 1 time use abilities only trigger once when applicable. Can be in play already, Gifter doesn't learn which role was given, Recipient learns what they got)"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Unrelease Me",
+    "author": "Milton",
+    "bootlegger": [
+      "Vizier has [Is in play, 1 townsfolk is evil].",
+      "The Vizier may summon players to speak with them privately during the day."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Is this a Legion game? v1.9",
+    "author": "L"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

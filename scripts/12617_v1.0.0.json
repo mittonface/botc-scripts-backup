@@ -1,0 +1,60 @@
+[
+  {
+    "id": "_meta",
+    "name": "Friday 13th",
+    "author": "Schnauzer",
+    "firstNight": [
+      "dusk",
+      "xaan",
+      "philosopher",
+      "minioninfo",
+      "snitch",
+      "damsel",
+      "lunatic",
+      "demoninfo",
+      "steward",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "philosopher",
+      "lunatic",
+      "damsel",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "riot"
+  }
+]

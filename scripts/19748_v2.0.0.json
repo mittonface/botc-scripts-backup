@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Devil's Dilemma",
+    "author": "Raf",
+    "colour": "#c80000"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "gnome"
+  }
+]

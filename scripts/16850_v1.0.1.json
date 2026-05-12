@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/YG43tsr.png",
+    "name": "Consultancy Fees",
+    "author": "Jared Purfield",
+    "hideTitle": true,
+    "background": "https://i.imgur.com/7xyadK9.png"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "imp"
+  }
+]

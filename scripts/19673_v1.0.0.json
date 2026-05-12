@@ -1,0 +1,157 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hydrogen Bomb of Instant AIDS",
+    "author": "concavz",
+    "bootlegger": [
+      "If the Plague Doctor dies, that night, everybody alive gains the same Minion ability, until dusk.",
+      "(Optional) If there are 5 or more players alive & the Demon dies, only one player with the Scarlet Woman ability will become the Demon.",
+      "If a good player with the Scarlet Woman ability becomes the Demon, they become evil.",
+      "If the Plague Doctor dies, each player who gets the Boffin ability might give the Demon a different good character's ability (not necessarily out of play). They only learn the ability that they themselves gave to the Demon.",
+      "Legion might gain the Boffin ability. If so, one member of Legion learns what the ability is, and who has it. I humbly beg of you, please just give them Alchemist! (Boffin/Drunk jinx does not apply if in a Legion world.)",
+      "If the Slayer shoots themselves, they might register as the Demon."
+    ],
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "barista",
+      "boffin",
+      "philosopher",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "demoninfo",
+      "wizard",
+      "cerenovus",
+      "harpy",
+      "amnesiac",
+      "librarian",
+      "investigator",
+      "fortuneteller",
+      "dreamer",
+      "shugenja",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "barista",
+      "bonecollector",
+      "philosopher",
+      "poppygrower",
+      "wizard",
+      "monk",
+      "cerenovus",
+      "pithag",
+      "harpy",
+      "scarletwoman",
+      "legion",
+      "imp",
+      "plaguedoctor",
+      "amnesiac",
+      "tinker",
+      "fortuneteller",
+      "dreamer",
+      "dawn"
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "deusexfiasco"
+  }
+]

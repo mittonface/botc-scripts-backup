@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "",
+    "author": ""
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "stormcatcher"
+  },
+  {
+    "id": "sentinel"
+  }
+]

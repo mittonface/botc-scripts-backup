@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "XX",
+    "author": "Dekcin"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "legion"
+  }
+]

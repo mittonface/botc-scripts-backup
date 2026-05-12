@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Budding Paranoia",
+    "author": "Stoke"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "sentinel"
+  }
+]

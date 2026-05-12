@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Codenames",
+    "author": "seaplus"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "alhadikhia"
+  }
+]

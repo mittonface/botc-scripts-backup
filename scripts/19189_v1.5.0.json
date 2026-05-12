@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Oil of Vitriol",
+    "author": "Angelo",
+    "almanac": "https://www.botcscripts.com/script/9654",
+    "bootlegger": [
+      "An Alchemist-Xaan does not poison & starts knowing how many Outsiders are in play."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

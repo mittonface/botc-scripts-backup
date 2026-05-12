@@ -1,0 +1,106 @@
+[
+  {
+    "id": "_meta",
+    "name": "Monsta University",
+    "author": "Schnauzer",
+    "bootlegger": [
+      "The 1st Minion to die chooses a non-listed Demon for Lil' Monsta (&amp; babysitter) to become. 1 good player might become a non-listed Townsfolk too.",
+      "Optional: If a Kazali is created, the Kazali may turn Minions into different Minions.",
+      "Optional: If Legion is created, most players become evil Legion.",
+      "Optional: If a Lord of Typhon is created, their neighbor might become an evil Minion."
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "gambler",
+      "cerenovus",
+      "spy",
+      "lilmonsta",
+      "assassin",
+      "godfather",
+      "ravenkeeper",
+      "huntsman",
+      "damsel",
+      "undertaker",
+      "dreamer",
+      "villageidiot",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

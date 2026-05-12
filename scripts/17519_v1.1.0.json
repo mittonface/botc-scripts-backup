@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Monsta Brewing.",
+    "author": "Mr Froggit."
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  }
+]

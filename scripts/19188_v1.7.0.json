@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/SQ2cn9jH/Squall-Logo.png",
+    "name": "The Squall of Cthulhu",
+    "author": "Angelo & Nick",
+    "almanac": "https://www.botcscripts.com/script/3854",
+    "hideTitle": true,
+    "otherNight": [
+      "poppygrower",
+      "poisoner",
+      "innkeeper",
+      "scarletwoman",
+      "exorcist",
+      "lycanthrope",
+      "lunatic",
+      "pukka",
+      "nodashii",
+      "vigormortis",
+      "ojo",
+      "sage",
+      "farmer",
+      "empath",
+      "undertaker",
+      "balloonist",
+      "villageidiot"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

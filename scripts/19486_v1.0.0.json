@@ -1,0 +1,87 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lil' Bit of Poison",
+    "author": "Cam Com",
+    "bootlegger": [
+      "On a Minstrel night, Lil' Monsta can change babysitters, but cannot kill.",
+      "Lil' Monsta's babysitter \"wakes\" at night, even if Lil' Monsta doesn't kill that night.",
+      "Poppy Grower activates even if drunk/poisoned when they die."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

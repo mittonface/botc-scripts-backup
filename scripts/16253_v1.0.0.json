@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mistakes Were Unmade",
+    "author": "Liam",
+    "bootlegger": [
+      "Each night, the Storyteller can change the night order. The new night order is secret."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "deusexfiasco"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Full Quiver",
+    "author": "krangune",
+    "bootlegger": [
+      "The Slayer may use their ability once per day. The first minion to hold Lil' Monsta learn three out of play roles"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Contagion Insurrection",
+    "author": "Tom O",
+    "firstNight": [
+      "dusk",
+      "bureaucrat",
+      "thief",
+      "minioninfo",
+      "demoninfo",
+      "boffin",
+      "sailor",
+      "godfather",
+      "devilsadvocate",
+      "harpy",
+      "steward",
+      "balloonist",
+      "villageidiot",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "bureaucrat",
+      "thief",
+      "sailor",
+      "innkeeper",
+      "acrobat",
+      "devilsadvocate",
+      "harpy",
+      "lycanthrope",
+      "zombuul",
+      "vigormortis",
+      "assassin",
+      "godfather",
+      "gossip",
+      "plaguedoctor",
+      "tinker",
+      "balloonist",
+      "villageidiot",
+      "highpriestess",
+      "riot",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "voudon"
+  }
+]

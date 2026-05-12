@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Once Upon a Baron",
+    "author": "Will + Charlie"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  }
+]

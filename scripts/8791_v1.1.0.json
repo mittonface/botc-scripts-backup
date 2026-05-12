@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/CWXRakA.png",
+    "name": "TB in Retrograde",
+    "author": "Chingones",
+    "background": "https://i.imgur.com/HwkSTjh.png"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  }
+]

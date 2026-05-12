@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Masterchef",
+    "author": "Maxx Baer"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  }
+]

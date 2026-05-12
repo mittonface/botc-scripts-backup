@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cogito, Ergo Sum",
+    "author": "Miny"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

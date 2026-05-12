@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Smartest in the Room",
+    "author": "Thomas"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "zombuul"
+  }
+]

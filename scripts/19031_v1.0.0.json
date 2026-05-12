@@ -1,0 +1,108 @@
+[
+  {
+    "id": "_meta",
+    "name": "Everyone You Know Is a Snake in a Trenchcoat",
+    "author": "concavz",
+    "bootlegger": [
+      "All players think they are the good Snake Charmer and learn no info from their ability. They learn their role, alignment, and info when they die, or when they change characters.",
+      "There may be multiple Snake Charmers in play.",
+      "If a Snake Charmer chooses a dead player, treat the Snake Charmer as having made no action that night."
+    ]
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  }
+]

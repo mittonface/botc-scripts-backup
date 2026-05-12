@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bounty Hunter Hotel",
+    "author": "Diston",
+    "bootlegger": [
+      "If a Poppy Grower is in play, a Kazali will select Minion types. The ST picks the players. ",
+      "Concealed Weapon: A Recluse or Hermit receiving a Boffin ability can be told at any time."
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

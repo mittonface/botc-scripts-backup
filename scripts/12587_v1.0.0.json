@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Court Intrigue",
+    "author": "Michael"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "imp"
+  }
+]

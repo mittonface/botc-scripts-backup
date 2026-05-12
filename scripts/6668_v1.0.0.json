@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Flight of the Bumbling Idiots",
+    "author": "c3k and Utku"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  }
+]

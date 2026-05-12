@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chosen One",
+    "author": "J"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  }
+]

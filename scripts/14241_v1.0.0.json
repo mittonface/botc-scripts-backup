@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "No rest for the wicked",
+    "author": "LibraryPimp",
+    "bootlegger": [
+      "Once per game, a player that is mad that a different player is the Wraith, dies.",
+      "The think they're a Townsfolk character, but they are not. The Golem and Tinker ability work as normal.",
+      "If the hermit nominate & execute a player after using their Golem ability; The nominated player wont die from that execution."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

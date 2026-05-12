@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whips & Chains Excite Me",
+    "author": "Kinky Joe & Becca",
+    "bootlegger": [
+      "An Alchemist-Mezepheles chooses two players on their first night: if either one is good, they are the only players that can turn evil via the Mezepheles. The Mezepheles learns who you picked.",
+      "If the Engineer makes a Kazali, the Kazali may rechoose the Minion characters and each Minion receives one bluff.",
+      "If the Engineer or Kazali makes a Godfather, a player might become an Outsider."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

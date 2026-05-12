@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Fool's Inn",
+    "author": "Telyonok"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "I'm good with whatever",
+    "author": "BBBence1111",
+    "bootlegger": [
+      "Optional rule: Travellers may not travel away."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

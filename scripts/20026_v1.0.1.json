@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "J-Dizzles Rizzle Nizzle",
+    "author": "Jay",
+    "bootlegger": [
+      "Huntsman: Each night you may choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. If evil is chosen, you are dunk for the rest of the game. [+the Damsel]",
+      "Poppy Grower: If the Poppy Grower becomes drunk, poisoned, or leaves play, Minions &amp; Demons learn who each other are that night.\""
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

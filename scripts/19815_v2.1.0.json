@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chatty Cathy",
+    "author": "Jeff'",
+    "bootlegger": [
+      "The Mezepheles must have someone say the word organically for it to activate.",
+      "The Amnesiac will always have an ability that relates to saying a secret word or phrase.",
+      "The Alchemist will not gain the Mezepheles ability."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

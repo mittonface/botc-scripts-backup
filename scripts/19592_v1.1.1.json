@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "F.M.K.",
+    "author": "Kinky Joe & Moony",
+    "bootlegger": [
+      "If the Knight has their ability, the players they have seen cannot become the Demon.",
+      "The Ogre is Storm Caught."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

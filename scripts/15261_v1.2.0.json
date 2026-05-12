@@ -1,0 +1,339 @@
+[
+  {
+    "id": "_meta",
+    "name": "Court of the Princess",
+    "author": "Arachnid",
+    "hideTitle": false,
+    "bootlegger": [
+      "Modified princess ability: 'If the living equal or outnumber the dead, & if you nominated & executed a player, the Demon doesn't kill tonight.'"
+    ]
+  },
+  {
+    "id": "steward",
+    "name": "Steward",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!",
+    "ability": "You start knowing 1 good player.",
+    "reminders": [
+      "Know"
+    ],
+    "firstNight": 57,
+    "otherNight": 0,
+    "firstNightReminder": "Point to the good player marked *KNOW*."
+  },
+  {
+    "id": "knight",
+    "name": "Knight",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "When a man lies, he murders some part of the world.",
+    "ability": "You start knowing 2 players that are not the Demon.",
+    "reminders": [
+      "Know",
+      "Know"
+    ],
+    "firstNight": 58,
+    "otherNight": 0,
+    "firstNightReminder": "Point to the two non-Demon players marked *KNOW*."
+  },
+  {
+    "id": "noble",
+    "name": "Noble",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit.",
+    "ability": "You start knowing 3 players, 1 and only 1 of which is evil.",
+    "reminders": [
+      "Know",
+      "Know",
+      "Know"
+    ],
+    "firstNight": 59,
+    "otherNight": 0,
+    "firstNightReminder": "Point to all three players marked *KNOW*."
+  },
+  {
+    "id": "poisoner",
+    "name": "Poisoner",
+    "team": "minion",
+    "setup": false,
+    "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!",
+    "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
+    "edition": "tb",
+    "reminders": [
+      "Poisoned"
+    ],
+    "firstNight": 27,
+    "otherNight": 13,
+    "firstNightReminder": "The Poisoner chooses a player. :reminder:",
+    "otherNightReminder": "The Poisoner chooses a player. :reminder:"
+  },
+  {
+    "id": "highpriestess",
+    "name": "High Priestess",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep.",
+    "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+    "firstNight": 68,
+    "otherNight": 87,
+    "firstNightReminder": "Point to a player.",
+    "otherNightReminder": "Point to a player."
+  },
+  {
+    "id": "butler",
+    "name": "Butler",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Yes, sir... No, sir... Certainly, sir.",
+    "jinxes": [
+      {
+        "id": "organgrinder",
+        "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+      }
+    ],
+    "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+    "edition": "tb",
+    "reminders": [
+      "Master"
+    ],
+    "firstNight": 52,
+    "otherNight": 85,
+    "firstNightReminder": "The Butler chooses a player. :reminder:",
+    "otherNightReminder": "The Butler chooses a player. :reminder:"
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "I don’t have time for quotes.",
+    "ability": "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.",
+    "firstNight": 69,
+    "otherNight": 88,
+    "firstNightReminder": "Give a thumb signal.",
+    "otherNightReminder": "Give a thumb signal."
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "chambermaid",
+    "name": "Chambermaid",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss.",
+    "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
+    "edition": "bmr",
+    "firstNight": 70,
+    "otherNight": 89,
+    "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
+    "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal."
+  },
+  {
+    "id": "king",
+    "name": "King",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show.",
+    "ability": "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.",
+    "firstNight": 19,
+    "otherNight": 81,
+    "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* token and the King token, then point to the King.",
+    "otherNightReminder": "If the dead equal or outnumber the living, show the character token of an alive player."
+  },
+  {
+    "id": "alhadikhia",
+    "name": "Al-Hadikhia",
+    "team": "demon",
+    "setup": false,
+    "flavor": "Alsukut min dhahab.",
+    "jinxes": [
+      {
+        "id": "princess",
+        "reason": "If the Princess nominated & executed a player yesterday, & the living equal or outnumber the dead, no one dies to the Al-Hadikhia ability tonight."
+      }
+    ],
+    "ability": "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+    "reminders": [
+      "1",
+      "2",
+      "3"
+    ],
+    "firstNight": 0,
+    "otherNight": 47,
+    "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three."
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "assassin",
+    "name": "Assassin",
+    "team": "minion",
+    "setup": false,
+    "flavor": "...",
+    "ability": "Once per game, at night*, choose a player: they die, even if for some reason they could not.",
+    "edition": "bmr",
+    "reminders": [
+      "Dead",
+      "No Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 52,
+    "otherNightReminder": "The Assassin might choose a player. :reminder: :reminder:"
+  },
+  {
+    "id": "princess",
+    "name": "Princess",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court.",
+    "ability": "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight.",
+    "reminders": [
+      "Doesn't Kill"
+    ],
+    "firstNight": 0,
+    "otherNight": 34,
+    "otherNightReminder": "If the Princess nominated the player who was executed today, the Demon wakes as normal, but no one dies to the Demon's ability."
+  },
+  {
+    "id": "juggler",
+    "name": "Juggler",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear.",
+    "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
+    "edition": "snv",
+    "reminders": [
+      "Correct",
+      "Correct",
+      "Correct",
+      "Correct",
+      "Correct"
+    ],
+    "firstNight": 0,
+    "otherNight": 78,
+    "otherNightReminder": "Give a finger signal."
+  },
+  {
+    "id": "soldier",
+    "name": "Soldier",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No.",
+    "ability": "You are safe from the Demon.",
+    "edition": "tb",
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "drunk",
+    "name": "Drunk",
+    "team": "outsider",
+    "setup": true,
+    "flavor": "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer.",
+    "ability": "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.",
+    "edition": "tb",
+    "special": [
+      {
+        "name": "bag-disabled",
+        "type": "selection"
+      },
+      {
+        "name": "replace-character",
+        "type": "reveal"
+      }
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "remindersGlobal": [
+      "Is The Drunk"
+    ]
+  },
+  {
+    "id": "tinker",
+    "name": "Tinker",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment...",
+    "ability": "You might die at any time.",
+    "edition": "bmr",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 66,
+    "otherNightReminder": "The Tinker might die. :reminder:"
+  },
+  {
+    "id": "choirboy",
+    "name": "Choirboy",
+    "team": "townsfolk",
+    "setup": true,
+    "flavor": "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours.",
+    "ability": "If the Demon kills the King, you learn which player is the Demon. [+the King]",
+    "firstNight": 0,
+    "otherNight": 61,
+    "otherNightReminder": "If the Demon killed the King, point to the Demon player."
+  },
+  {
+    "id": "damsel",
+    "name": "Damsel",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Don't touch the hair, honey.",
+    "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.",
+    "reminders": [
+      "Guess Used"
+    ],
+    "firstNight": 44,
+    "otherNight": 63,
+    "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+    "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token."
+  },
+  {
+    "id": "fool",
+    "name": "Fool",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!",
+    "ability": "The 1st time you die, you don't.",
+    "edition": "bmr",
+    "reminders": [
+      "No Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "baron",
+    "name": "Baron",
+    "team": "minion",
+    "setup": true,
+    "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?",
+    "ability": "There are extra Outsiders in play. [+2 Outsiders]",
+    "edition": "tb",
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "djinn",
+    "name": "Djinn",
+    "team": "fabled",
+    "setup": false,
+    "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ.",
+    "ability": "Use the Djinn's special rule. All players know what it is.",
+    "edition": "fabled"
+  },
+  {
+    "id": "bootlegger",
+    "name": "Bootlegger",
+    "team": "fabled",
+    "setup": false,
+    "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?",
+    "ability": "This script has homebrew characters or rules.",
+    "edition": "fabled"
+  }
+]

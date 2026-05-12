@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Welcome to Ravenswood Bluff ver 1.1",
+    "author": "Noxx Myosotis"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  }
+]

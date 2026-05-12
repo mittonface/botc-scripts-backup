@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Five Days' Vizier",
+    "author": "lopen"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "leviathan"
+  }
+]

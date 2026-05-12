@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "StoryTellers Discretion V1.1",
+    "author": "KUSH"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Shadow of the High Tor",
+    "author": "ray",
+    "bootlegger": [
+      "If the Fang Gu is in play, the Bounty Hunter does not create an evil Townsfolk"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

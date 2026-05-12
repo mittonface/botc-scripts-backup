@@ -1,0 +1,45 @@
+[
+  {
+    "id": "_meta",
+    "name": "Infinite Punishment",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/infinitepunishment/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "imp"
+  }
+]

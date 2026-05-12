@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dungeon Crawl",
+    "author": "Brayden \"Savnat\" Destroyed"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bishop"
+  }
+]

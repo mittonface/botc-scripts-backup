@@ -1,0 +1,105 @@
+[
+  {
+    "id": "_meta",
+    "name": "Looking at the Man in the Mirror",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a player is mad that the Wraith is the Wraith, they might die.",
+      "If a Vigormortis ability is active, any minions killed by a Vigormortis have their abilities.",
+      "If the Vigormortis attacks itself &amp; a Scarlet Woman becomes the new Vigormortis, one of the original Vigormortis Townsfolk neighbors is poisoned."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

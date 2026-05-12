@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Food Poisoning",
+    "author": "MineX",
+    "bootlegger": [
+      "If an evil player was executed today, all townsfolk abilities are poisoned that night (until dawn). "
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

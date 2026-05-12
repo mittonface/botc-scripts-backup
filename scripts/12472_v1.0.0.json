@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Love Thy Neighbor",
+    "author": "Finn"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  }
+]

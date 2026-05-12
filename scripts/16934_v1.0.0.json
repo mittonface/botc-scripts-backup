@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Court of Fools & Noises",
+    "author": "Soulusion",
+    "bootlegger": [
+      "The Hermit only has 3 outsider abilities. They cannot have the Damsel and the Drunk"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

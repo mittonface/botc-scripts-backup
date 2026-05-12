@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Pick Me Maybe",
+    "author": "Nathen"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  }
+]

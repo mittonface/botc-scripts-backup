@@ -1,0 +1,96 @@
+[
+  {
+    "id": "_meta",
+    "name": "Oops! I Snitched",
+    "author": "DevD",
+    "barColor": "#1e1925",
+    "isOfficial": true
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]

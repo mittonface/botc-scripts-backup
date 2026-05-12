@@ -1,0 +1,78 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hot Soup, Simple Taste",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/hotsoupsimpletaste/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "fanggu"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hollowed Glare",
+    "author": "Ping54",
+    "bootlegger": [
+      "The Al-Hadikihia cannot ressurect dead demons.",
+      "If there are only 7-9 players (excluding travelers), the Al-Hadikihia is removed from the script. "
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

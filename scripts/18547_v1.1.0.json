@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "This Time With Feeling",
+    "author": "Kinky Joe & Alexis",
+    "bootlegger": [
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk.",
+      "If the Cult Leader is the last living townsfolk, they cannot be evil."
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

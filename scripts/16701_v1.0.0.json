@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Adroit Alchemy",
+    "author": "Flames",
+    "bootlegger": [
+      "All Townsfolk are Alchemists"
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

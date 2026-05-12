@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Normal Game Of Clocktower",
+    "author": "Evil Steve"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

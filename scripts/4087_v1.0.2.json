@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Indications of Vortox ",
+    "author": ""
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  }
+]

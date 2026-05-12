@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mausolus Awoken",
+    "author": "Meeks",
+    "bootlegger": [
+      "If the Cannibal would have the ability of the drunk Village Idiot, the Cannibal is drunk.  "
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ventilation Shaft",
+    "author": "Axolator",
+    "bootlegger": [
+      "Engineer / Fang Gu: If the Engineer creates a Fang Gu, a Townsfolk might become an out-of-play Outsider."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

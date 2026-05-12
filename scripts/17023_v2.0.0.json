@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Oops Actually All Slayers",
+    "author": "Luc",
+    "bootlegger": [
+      "(v2) In this game, all Townsfolk are Slayers. All Outsiders are Hermits who think they are Slayers. All Bluffs are Slayers. "
+    ]
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

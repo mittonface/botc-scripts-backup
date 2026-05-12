@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Would You Like to Die? v1.0",
+    "author": "Voidstarr"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "alhadikhia"
+  }
+]

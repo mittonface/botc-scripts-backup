@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://raw.githubusercontent.com/darinjyoung/BOTC/refs/heads/main/TB%20Hyperspeed.PNG?token=GHSAT0AAAAAADOZUIATPSL2GOAOPRFI62V62IOHKXQ",
+    "name": "Trouble Brewing - HYPERSPEEED",
+    "author": "JiMPANSiii",
+    "hideTitle": true,
+    "background": "https://raw.githubusercontent.com/darinjyoung/BOTC/refs/heads/main/Hyperspeed%20background.jpeg?token=GHSAT0AAAAAADOZUIASHMSJBR7V76PXVDOW2IOHJIA",
+    "bootlegger": [
+      "The total length of the game - including night phase, nominations, voting, etc. - is predetermined when the game begins. The timer starts as soon as day 1 begins. ",
+      "Demons receive two out of play characters during the Demon Info step.",
+      "Minions receive two characters during the Minion Info step - one is out of play and one might be in play."
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  }
+]

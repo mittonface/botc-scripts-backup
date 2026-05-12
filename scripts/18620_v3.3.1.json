@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://files.catbox.moe/a9cpgd.png",
+    "name": "Demonic Drunks",
+    "author": "Ramsplooge",
+    "hideTitle": true,
+    "background": "https://files.catbox.moe/w74gij.png",
+    "bootlegger": [
+      "A Hermit may be a Drunk or a Lunatic at any point while alive.",
+      "A Lunatic may think they are a good character if they are told they are holding the Lil' Monsta.",
+      "A Summoner who adds Lil' Monsta to the game may pick which out-of-play Minion the chosen player becomes."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

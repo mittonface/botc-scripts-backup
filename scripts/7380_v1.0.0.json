@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "If You Smell...",
+    "author": "DEM"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "legion"
+  }
+]

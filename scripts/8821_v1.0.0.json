@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "name": "coup d'etat",
+    "author": "Dewey"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "legion"
+  }
+]

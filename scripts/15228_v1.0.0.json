@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Drunken Ramblings",
+    "author": "BBBence1111",
+    "bootlegger": [
+      "Players do not learn what token they got from the bag.",
+      "Minion and Demon info are not given, no other role confirming events (eg. Demon learning the Excorcist) happen.",
+      "The Yaggababble doesn't learn their phrase, but it is something they've publicly said on their first day at least once.",
+      "Players whose alignment changes learn this, but not what their new alignment is.",
+      "The Golem and Hermit may ignore the nomination restriction."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "gardener"
+  }
+]

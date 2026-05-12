@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lighting and Tunder",
+    "author": "SemRednael",
+    "bootlegger": [
+      "Lycantrope might learn bluffs",
+      "Alchemist doesn't learn there ability"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

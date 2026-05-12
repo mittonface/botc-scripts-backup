@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Devils Within The Keep",
+    "author": "LewisGolightly93"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "sentinel"
+  }
+]

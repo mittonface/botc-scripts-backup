@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Be Very Afraid",
+    "author": "TPHG"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "djinn"
+  }
+]

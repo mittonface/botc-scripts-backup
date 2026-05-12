@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "name": "On or Off?",
+    "author": "Dausk"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

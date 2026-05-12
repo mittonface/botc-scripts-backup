@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Baba Lysaga's Creeping Hut",
+    "author": "AlejoFBlack"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

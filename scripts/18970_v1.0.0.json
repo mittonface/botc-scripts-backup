@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "High Rollers",
+    "author": "Anonymous",
+    "bootlegger": [
+      "If the Gambler correctly guesses a minion, that minion dies.",
+      "If the Ojo chooses a good character to kill, they may guess which player is that character. If correct, they may kill a 2nd character that night."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

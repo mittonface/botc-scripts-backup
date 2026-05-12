@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Eldritch Horror",
+    "author": "Dice Imp"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Order of Chaos",
+    "author": "Corvus Congeries",
+    "bootlegger": [
+      "Hermit/Drunk/Oger: Der Hermit wird ein Bürgerplättchen erhalten. Die erste Person, mit der er in einem Privatgespräch ist, ist der gewählte Oger-Freund. Der Hermit wird nicht darüber informiert, wenn er böse wird - auch nicht, wenn der Einsiedler der Oger-Freund ist."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]

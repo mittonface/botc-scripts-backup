@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bread & Water",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/breadnwater/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "kazali"
+  }
+]

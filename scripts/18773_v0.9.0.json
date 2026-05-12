@@ -1,0 +1,115 @@
+[
+  {
+    "id": "_meta",
+    "name": "...Clocktower the on Blood",
+    "author": "Hodge",
+    "bootlegger": [
+      "Lil' Monsta must be given to an alive player",
+      "The only outsider is the hermit",
+      "The Sentinel must force the base outsider count to be equal to one, and the hermit cannot remove itself from the bag",
+      "Spy/Heretic hate jinx is ignored"
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

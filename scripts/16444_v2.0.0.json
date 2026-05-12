@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Switcheroo",
+    "author": "boypower2566",
+    "bootlegger": [
+      "All Minions are good, instead an amount of Townsfolk (Equal to base minion count) become evil.",
+      "The Evil Townsfolk replace the Minions when giving out evil team Info."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

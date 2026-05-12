@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chatterbox V2",
+    "author": "Paul",
+    "bootlegger": [
+      "Every player starts knowing a secret phrase.",
+      "A player may attempt to use one private ST consult ability per day. The Storyteller information them if the ability is successful."
+    ]
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

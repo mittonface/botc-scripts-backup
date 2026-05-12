@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "It's Rude to Leave The Table, You Know",
+    "author": "Qaday",
+    "bootlegger": [
+      "The Storyteller has the Matron ability, but players may swap seats at any time."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

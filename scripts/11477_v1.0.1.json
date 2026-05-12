@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "I Claim Slayer And Shoot Myself",
+    "author": "R.O.B.",
+    "bootlegger": [
+      "The Recluse registers as a Demon, even if dead."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

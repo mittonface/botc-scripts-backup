@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "name": "Stage 5 Clinger",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a Magician is in play, Legion wakes separately to learn their team. The Magician does not wake with Legion.",
+      "The Magician and the Marionette have no Jinx."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

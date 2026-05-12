@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "No shortage of henchmen",
+    "author": "Anton"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "djinn"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Witching Hour",
+    "author": "Tomm"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "po"
+  }
+]

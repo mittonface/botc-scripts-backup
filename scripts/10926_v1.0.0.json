@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Stop the Starpass",
+    "author": "Danny"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "imp"
+  }
+]

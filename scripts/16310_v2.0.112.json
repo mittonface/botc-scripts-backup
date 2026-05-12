@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "Game2",
+    "author": "WORL",
+    "almanac": "https://fleshandbone.app/campaign.php?view=c3lO3i98",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "summoner",
+      "demoninfo",
+      "king",
+      "courtier",
+      "devilsadvocate",
+      "damsel",
+      "grandmother",
+      "shugenja",
+      "villageidiot",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "courtier",
+      "innkeeper",
+      "gambler",
+      "acrobat",
+      "devilsadvocate",
+      "summoner",
+      "exorcist",
+      "ojo",
+      "hatter",
+      "sweetheart",
+      "choirboy",
+      "damsel",
+      "farmer",
+      "grandmother",
+      "villageidiot",
+      "king",
+      "dawn"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "ojo"
+  }
+]

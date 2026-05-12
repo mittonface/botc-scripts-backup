@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chaos Theory",
+    "author": "Jonathan"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "ojo"
+  }
+]

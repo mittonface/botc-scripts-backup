@@ -1,0 +1,132 @@
+[
+  {
+    "id": "_meta",
+    "name": "SONIC BOOM",
+    "author": "Codzilla",
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "poppygrower",
+      "yaggababble",
+      "minioninfo",
+      "demoninfo",
+      "engineer",
+      "preacher",
+      "lilmonsta",
+      "wizard",
+      "organgrinder",
+      "witch",
+      "cerenovus",
+      "fearmonger",
+      "harpy",
+      "pixie",
+      "librarian",
+      "balloonist",
+      "villageidiot",
+      "bountyhunter",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "engineer",
+      "preacher",
+      "wizard",
+      "organgrinder",
+      "witch",
+      "cerenovus",
+      "fearmonger",
+      "harpy",
+      "vigormortis",
+      "lilmonsta",
+      "yaggababble",
+      "hatter",
+      "plaguedoctor",
+      "towncrier",
+      "balloonist",
+      "villageidiot",
+      "bountyhunter",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/Ktl1u0Z.png",
+    "name": "Styx & Stones",
+    "author": "Max(well)",
+    "hideTitle": true,
+    "background": "https://botc.app/assets/background2-DBkYNRkh.webp",
+    "bootlegger": [
+      "There must be 6 or more players alive when the Lleech dies for the Scarlet Woman to become the Lleech. Before choosing a host, the Lleech can die."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "ferryman"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

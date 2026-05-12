@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "Die Agnostic",
+    "author": "Hallow"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/5Hzirwh.png",
+    "name": "The Wrong Hands",
+    "author": "Max(well)",
+    "hideTitle": true,
+    "background": "https://i.imgur.com/EfLV6TS.png",
+    "bootlegger": [
+      "Important Rulings: Executed Mutants \"lose\" their ability. Vortox doesn't affect Minions & Demons. All Fearmongers choose before any announcement."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

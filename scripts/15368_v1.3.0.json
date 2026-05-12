@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Volcano",
+    "author": "Axolator"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

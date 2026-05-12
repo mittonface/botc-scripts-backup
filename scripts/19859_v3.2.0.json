@@ -1,0 +1,127 @@
+[
+  {
+    "id": "_meta",
+    "name": "Double Trouble 3.2",
+    "author": "Palax",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "demoninfo",
+      "lilmonsta",
+      "lleech",
+      "poisoner",
+      "godfather",
+      "cerenovus",
+      "pixie",
+      "damsel",
+      "investigator",
+      "grandmother",
+      "dreamer",
+      "villageidiot",
+      "highpriestess",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "poisoner",
+      "gambler",
+      "cerenovus",
+      "lycanthrope",
+      "fanggu",
+      "lleech",
+      "lilmonsta",
+      "godfather",
+      "plaguedoctor",
+      "damsel",
+      "grandmother",
+      "dreamer",
+      "villageidiot",
+      "highpriestess",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "djinn"
+  }
+]

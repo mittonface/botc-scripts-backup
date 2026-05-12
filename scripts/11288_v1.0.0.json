@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Countersign",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/countersign/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "kazali"
+  }
+]

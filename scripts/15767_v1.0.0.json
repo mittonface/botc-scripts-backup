@@ -1,0 +1,113 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lil' Monsta Bingo Card",
+    "author": "ManeCharacterSyndrome",
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "magician",
+      "minioninfo",
+      "demoninfo",
+      "lilmonsta",
+      "lunatic",
+      "king",
+      "marionette",
+      "snakecharmer",
+      "godfather",
+      "witch",
+      "harpy",
+      "clockmaker",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "snakecharmer",
+      "exorcist",
+      "witch",
+      "pithag",
+      "harpy",
+      "lilmonsta",
+      "lunatic",
+      "godfather",
+      "plaguedoctor",
+      "sage",
+      "banshee",
+      "king",
+      "dawn"
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

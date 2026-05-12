@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Instakill",
+    "author": "DQ"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "lleech"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.ibb.co/yKXV70h/Transparent.png",
+    "name": "Chaos Boffin: Chapter 2",
+    "author": "Evan (PlayoffBeard)",
+    "hideTitle": true,
+    "background": "https://cdn.discordapp.com/attachments/1463620814422413589/1463621812452589640/CB2_insane_bg.png?ex=69727f88&is=69712e08&hm=d8f8226091f4f107329df6b1ec82d56cc1ab872cbcb172b4991aae49d144cd26&"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bishop"
+  }
+]

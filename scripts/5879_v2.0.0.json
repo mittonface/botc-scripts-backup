@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Pick and Choose",
+    "author": "Zadon"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  }
+]

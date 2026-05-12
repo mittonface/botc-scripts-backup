@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Beautiful People",
+    "author": "tcoustic",
+    "bootlegger": [
+      "Demons do not modify number of outsiders [+1 Outsider]",
+      "Players selected by Kazali on the first night change their alignment to Evil instead of becoming Minions. Kazali learns their Characters.",
+      "Lord of Typhon changes the alignment of characters in line to Evil, instead of changing them to Minions."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

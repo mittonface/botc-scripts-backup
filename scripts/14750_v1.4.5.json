@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Town of Turncoats",
+    "author": "FlamingViper"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "djinn"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Monarch's Gambit",
+    "author": "Backup"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  }
+]

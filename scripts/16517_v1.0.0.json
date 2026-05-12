@@ -1,0 +1,119 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Boasting",
+    "author": "Mateo Price",
+    "firstNight": [
+      "dusk",
+      "bureaucrat",
+      "thief",
+      "minioninfo",
+      "snitch",
+      "demoninfo",
+      "poisoner",
+      "washerwoman",
+      "librarian",
+      "investigator",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "bureaucrat",
+      "thief",
+      "poisoner",
+      "monk",
+      "scarletwoman",
+      "imp",
+      "ravenkeeper",
+      "empath",
+      "fortuneteller",
+      "undertaker",
+      "oracle",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  }
+]

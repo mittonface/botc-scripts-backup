@@ -1,0 +1,102 @@
+[
+  {
+    "id": "_meta",
+    "name": "Banana pot potion",
+    "author": "BigBrainBen10",
+    "bootlegger": [
+      "The Pope only affects the Alchemist.",
+      "An Alchemist-marrionette has the empath ability instead.",
+      "An Alchemist-Xaan's effect is instead: on day X, all players chosen an odd amount of times the previous night (from any effect) have one barista buff (sober & healthy/ 2x ability), they know which. [X=#outsiders]."
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

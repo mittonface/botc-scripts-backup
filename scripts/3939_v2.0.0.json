@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Death by Sickness v2",
+    "author": "Sunquill"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "pukka"
+  }
+]

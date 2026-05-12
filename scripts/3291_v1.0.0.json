@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Winter Is Coming",
+    "author": "AlejoFBlack"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "ojo"
+  }
+]

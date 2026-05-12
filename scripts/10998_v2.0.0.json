@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Doc Oc",
+    "author": "Jared Purfield"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  }
+]

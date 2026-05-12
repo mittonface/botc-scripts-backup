@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hosting Evil",
+    "author": "Mav",
+    "bootlegger": [
+      "The demon is publicly known.",
+      "A wraith must be one of the minions.",
+      "The storyteller decides who the starting host is. Each night the Lleech can make a guess as to who the host may be. Once per game, when they guess correctly, they can move the host to a player of their choice.",
+      "If a widow is in play, they do not know who the Lleech host is.",
+      "Evil wins when there are 3 or less players alive & one of them is the demon."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

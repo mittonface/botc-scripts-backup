@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "",
+    "author": ""
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "alhadikhia"
+  }
+]

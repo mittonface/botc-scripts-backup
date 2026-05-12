@@ -1,0 +1,119 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Metaphysical Experience of Being Kazali Picked",
+    "author": "Requiem",
+    "firstNight": [
+      "dusk",
+      "kazali",
+      "boffin",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "xaan",
+      "godfather",
+      "amnesiac",
+      "librarian",
+      "chef",
+      "grandmother",
+      "dreamer",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "innkeeper",
+      "gambler",
+      "kazali",
+      "assassin",
+      "godfather",
+      "gossip",
+      "amnesiac",
+      "tinker",
+      "moonchild",
+      "grandmother",
+      "dreamer",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

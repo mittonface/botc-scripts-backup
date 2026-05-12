@@ -1,0 +1,117 @@
+[
+  {
+    "id": "_meta",
+    "name": "A DARK ZONE",
+    "author": "Axolator",
+    "firstNight": [
+      "dusk",
+      "yaggababble",
+      "minioninfo",
+      "demoninfo",
+      "xaan",
+      "godfather",
+      "pukka",
+      "amnesiac",
+      "steward",
+      "noble",
+      "villageidiot",
+      "nightwatchman",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "innkeeper",
+      "scarletwoman",
+      "exorcist",
+      "pukka",
+      "po",
+      "ojo",
+      "yaggababble",
+      "assassin",
+      "godfather",
+      "amnesiac",
+      "towncrier",
+      "villageidiot",
+      "nightwatchman",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  }
+]

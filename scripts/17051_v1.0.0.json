@@ -1,0 +1,121 @@
+[
+  {
+    "id": "_meta",
+    "name": "Funniest Puzzle to Solve (Tor Script)",
+    "author": "Valentina Turlakova",
+    "almanac": "https://www.bloodstar.xyz/p/Esperih/Matchmaker/almanac.html",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "lleech",
+      "poisoner",
+      "empath",
+      "ogre",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "poisoner",
+      "acrobat",
+      "monk",
+      "scarletwoman",
+      "legion",
+      "fanggu",
+      "vigormortis",
+      "lleech",
+      "assassin",
+      "professor",
+      "tor",
+      "empath",
+      "flowergirl",
+      "towncrier",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "tor"
+  }
+]

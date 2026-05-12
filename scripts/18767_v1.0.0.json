@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Perchance?",
+    "author": "Lucas &amp; Theta"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  }
+]

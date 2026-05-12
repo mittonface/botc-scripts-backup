@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Summer Camp",
+    "author": "Anon",
+    "bootlegger": [
+      "Once per game, one good player and one evil player receive a secret goal. If the evil player completes their goal, all evil players join a private nighttime “campfire” chat. If the good player completes their goal, any number of good players join a private nighttime chat. One evil player may also be invited to join the good players, but their alignment is not revealed during the chat."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

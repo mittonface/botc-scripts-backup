@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "bordellino v2",
+    "author": "marcotlo"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "fanggu"
+  }
+]

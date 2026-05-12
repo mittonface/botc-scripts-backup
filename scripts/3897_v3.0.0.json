@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Starstruck",
+    "author": "Dela"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hard Claim Hell",
+    "author": "shelter.",
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "preacher",
+      "snakecharmer",
+      "cerenovus",
+      "pixie",
+      "fortuneteller",
+      "balloonist",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "preacher",
+      "gambler",
+      "snakecharmer",
+      "cerenovus",
+      "pithag",
+      "exorcist",
+      "lycanthrope",
+      "ojo",
+      "assassin",
+      "gossip",
+      "farmer",
+      "fortuneteller",
+      "juggler",
+      "balloonist",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Escape Hatch",
+    "author": "TPHG"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "x squared = lie",
+    "author": "BigBrainBen10",
+    "bootlegger": [
+      "There will ALWAYS be 1 to 3 mathmatician(s). One of the extras is poisoned. if there are 2, split them into drunkness + special and poison + special. if there are 3, add a regular mathmatician to the case of 2 mathmaticians. either way, tell every mathmatician what they detect at the start of the game, even if there's 1.",
+      "For the Sweetheart's ability, replace \"drunk\" with \"poison\".",
+      "The Acrobat's effect is instead: \"at the start of the game, three players are shown to you; one of them is THE drunk. Each* night, choose three players; you will know how many of them are drunk or THE drunk.\""
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Gilded Garden",
+    "author": "Shrolu",
+    "bootlegger": [
+      "If Legion is in play, the Storyteller may announce Al-Hadikhia choices."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

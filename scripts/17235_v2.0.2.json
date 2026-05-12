@@ -1,0 +1,102 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/A02fmzf.png",
+    "name": "Wherein Everyone is a Witch-Cursed Recluse",
+    "author": "Etreides",
+    "hideTitle": true,
+    "bootlegger": [
+      "The Hermit can nominate as normal beyond their first nomination, despite having the Golem ability. Only their first nomination causes the nominee to die, if applicable."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  }
+]

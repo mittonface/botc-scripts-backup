@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "name": "Choice Game",
+    "author": "Prism"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "djinn"
+  }
+]

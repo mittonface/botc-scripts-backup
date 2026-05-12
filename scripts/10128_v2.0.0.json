@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Trial of the Great Witch v2",
+    "author": "Bundtie"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  }
+]

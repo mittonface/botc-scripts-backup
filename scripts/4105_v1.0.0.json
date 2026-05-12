@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "On the Brink of War",
+    "author": "Le Codex"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

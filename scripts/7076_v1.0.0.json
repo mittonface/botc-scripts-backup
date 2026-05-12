@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "",
+    "author": ""
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  }
+]

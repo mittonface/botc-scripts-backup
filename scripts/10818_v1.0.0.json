@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Who do You Work For?",
+    "author": "Karma"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]

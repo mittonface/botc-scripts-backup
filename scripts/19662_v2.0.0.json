@@ -1,0 +1,126 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sleeping Beauty Goes Drinking",
+    "author": "shmeur",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "witch",
+      "cerenovus",
+      "pixie",
+      "huntsman",
+      "damsel",
+      "amnesiac",
+      "librarian",
+      "dreamer",
+      "seamstress",
+      "noble",
+      "balloonist",
+      "villageidiot",
+      "nightwatchman",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "witch",
+      "cerenovus",
+      "imp",
+      "fanggu",
+      "nodashii",
+      "vigormortis",
+      "barber",
+      "huntsman",
+      "damsel",
+      "amnesiac",
+      "ravenkeeper",
+      "dreamer",
+      "seamstress",
+      "balloonist",
+      "villageidiot",
+      "nightwatchman",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  }
+]

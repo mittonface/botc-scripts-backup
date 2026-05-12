@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mine Sweeper",
+    "author": "EStet",
+    "bootlegger": [
+      "Executing a dead player does NOT satisfy the Vortox."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "JOFFIN ROFFIN BOFFIN COFFIN",
+    "author": "Alexis",
+    "bootlegger": [
+      "If a Cannibal eats the drunk Village Idiot, they gain the drunk Village Idiot ability.",
+      "Old Jinx for Scarlet Woman/Lil Monsta: \"If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight.\"",
+      "Old Jinx for Boffin/Drunk: \"If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead.\""
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

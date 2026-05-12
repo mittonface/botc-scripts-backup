@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Two In One",
+    "author": "theosunflowers",
+    "bootlegger": [
+      "Each player is directly across the Grimoire from an empty seat. ",
+      "Each player starts knowing their role and the role of the empty seat across from them. They act as if they were both characters, and learn information as if they were both characters as well.",
+      "Players can switch between their original seat and the seat across from them at any point, starting at the beginning of Day 1. This can happen as many times as they would like.",
+      "Demons and Minions do not learn each other. Demons do not get bluffs."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

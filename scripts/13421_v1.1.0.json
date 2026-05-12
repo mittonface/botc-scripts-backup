@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://cdn-icons-png.flaticon.com/256/14882/14882176.png",
+    "name": "Petrichor",
+    "author": "Alexis",
+    "hideTitle": true,
+    "background": "https://i.imgur.com/background-image.jpg",
+    "bootlegger": [
+      "Vortox/Poppy Grower: If a sober & healthy Poppy Grower dies and a Vortox is in play, Minions & Demons learn true information."
+    ],
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "...",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "...",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

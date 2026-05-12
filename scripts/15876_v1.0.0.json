@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Town Crying",
+    "author": "KC The Rogue"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

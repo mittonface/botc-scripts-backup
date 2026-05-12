@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bodyguards Galore",
+    "author": "Furhammer"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "lleech"
+  }
+]

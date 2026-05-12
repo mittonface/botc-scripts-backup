@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Carnival Cadaverous",
+    "author": "Luxray",
+    "bootlegger": [
+      "The Alchemist might not be poisoned by the No Dashii. This extends to Cannibals who eat the Alchemist.",
+      "If the Cannibal eats the self-drunk Village Idiot, the Cannibal is drunk.",
+      "If an evil Politician is made via a Barber swap, they can't turn good due to their own ability."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

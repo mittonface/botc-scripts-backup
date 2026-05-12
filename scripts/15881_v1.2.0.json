@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Seventh Finger",
+    "author": "Qaday",
+    "bootlegger": [
+      "Every Good player has the Magician ability.",
+      "If the Hatter dies, Legion wakes and chooses a living player to gain a Minion ability of that player's choice.",
+      "A player with the Spy ability does not get to see the Grimoire. However, they might register as the opposite alignment, or as a character of the opposite alignment, even if dead.",
+      "The Alchemist-Boffin chooses a player each night: they learn if that player is affected by the Boffin ability."
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/QtjBH0jW/Yaggity-Yag.png",
+    "name": "Yaggity Yag",
+    "author": "Vivid",
+    "hideTitle": true,
+    "background": "https://i.postimg.cc/hPjqvQwk/background5.jpg"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "legion"
+  }
+]

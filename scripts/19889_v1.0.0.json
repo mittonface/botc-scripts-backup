@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "multi?-ta/sc:king",
+    "author": "Coral 🪸",
+    "firstNight": [
+      "dusk",
+      "stormcatcher",
+      "kazali",
+      "minioninfo",
+      "demoninfo",
+      "king",
+      "preacher",
+      "snakecharmer",
+      "fearmonger",
+      "noble",
+      "balloonist",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "preacher",
+      "snakecharmer",
+      "monk",
+      "fearmonger",
+      "kazali",
+      "ravenkeeper",
+      "undertaker",
+      "balloonist",
+      "king",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

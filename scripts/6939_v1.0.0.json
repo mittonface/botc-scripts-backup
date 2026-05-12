@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Brewing on Hard Mode",
+    "author": "Orange"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  }
+]

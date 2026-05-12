@@ -1,0 +1,80 @@
+[
+  {
+    "id": "_meta",
+    "name": "Crashing Through the Cavalcade",
+    "author": "Nick B",
+    "bootlegger": [
+      "If the Cannibal has the Village Idiot ability, they are drunk if the recently killed executee is drunk.",
+      "If the Cannibal or Pixie has the Balloonist ability, on their first night they learn a player of a different character type than the player last learned by the Balloonist."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

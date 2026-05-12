@@ -1,0 +1,355 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Fresh Princess of Ravenswood Bluff",
+    "author": "Arachnid",
+    "hideTitle": false
+  },
+  {
+    "id": "grandmother",
+    "name": "Grandmother",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?",
+    "ability": "You start knowing a good player & their character. If the Demon kills them, you die too.",
+    "edition": "bmr",
+    "reminders": [
+      "Grandchild",
+      "Dead"
+    ],
+    "firstNight": 53,
+    "otherNight": 68,
+    "firstNightReminder": "Point to the grandchild player & show their character token.",
+    "otherNightReminder": "If the grandchild was killed by the Demon, the Grandmother dies too. :reminder:"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "butler",
+    "name": "Butler",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Yes, sir... No, sir... Certainly, sir.",
+    "jinxes": [
+      {
+        "id": "organgrinder",
+        "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+      }
+    ],
+    "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+    "edition": "tb",
+    "reminders": [
+      "Master"
+    ],
+    "firstNight": 52,
+    "otherNight": 85,
+    "firstNightReminder": "The Butler chooses a player. :reminder:",
+    "otherNightReminder": "The Butler chooses a player. :reminder:"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "villageidiot",
+    "name": "Village Idiot",
+    "team": "townsfolk",
+    "setup": true,
+    "flavor": "Roses are blue, and violets are red, Please reverse what I just said.",
+    "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+    "special": [
+      {
+        "name": "bag-duplicate",
+        "type": "selection"
+      }
+    ],
+    "reminders": [
+      "Drunk"
+    ],
+    "firstNight": 62,
+    "otherNight": 80,
+    "firstNightReminder": "Choose a Village Idiot to be drunk. Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player.",
+    "otherNightReminder": "Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player."
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "cultleader",
+    "name": "Cult Leader",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Thinking themselves wise, they became fools.",
+    "ability": "Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.",
+    "firstNight": 65,
+    "otherNight": 84,
+    "firstNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+    "otherNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment."
+  },
+  {
+    "id": "legion",
+    "name": "Legion",
+    "team": "demon",
+    "setup": true,
+    "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+    "jinxes": [
+      {
+        "id": "engineer",
+        "reason": "Legion and the Engineer cannot both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+      },
+      {
+        "id": "preacher",
+        "reason": "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+      },
+      {
+        "id": "minstrel",
+        "reason": "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+      },
+      {
+        "id": "hatter",
+        "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+      },
+      {
+        "id": "zealot",
+        "reason": "The Zealot might register as evil to Legion's ability."
+      }
+    ],
+    "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+    "special": [
+      {
+        "name": "bag-duplicate",
+        "type": "selection"
+      }
+    ],
+    "reminders": [
+      "Dead",
+      "About To Die"
+    ],
+    "firstNight": 0,
+    "otherNight": 35,
+    "otherNightReminder": "A player might die. :reminder:"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "princess",
+    "name": "Princess",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court.",
+    "ability": "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight.",
+    "reminders": [
+      "Doesn't Kill"
+    ],
+    "firstNight": 0,
+    "otherNight": 34,
+    "otherNightReminder": "If the Princess nominated the player who was executed today, the Demon wakes as normal, but no one dies to the Demon's ability."
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic",
+    "name": "Lunatic",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "I am the night... I think.",
+    "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
+    "edition": "bmr",
+    "reminders": [
+      "Chosen",
+      "Chosen",
+      "Chosen"
+    ],
+    "firstNight": 16,
+    "otherNight": 31,
+    "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
+    "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s)."
+  },
+  {
+    "id": "alchemist",
+    "name": "Alchemist",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth.",
+    "ability": "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently.",
+    "special": [
+      {
+        "name": "replace-character",
+        "type": "reveal"
+      }
+    ],
+    "firstNight": 10,
+    "otherNight": 0,
+    "remindersGlobal": [
+      "Is The Alchemist"
+    ],
+    "firstNightReminder": "Show the *YOU ARE* token and the character token of a Minion."
+  },
+  {
+    "id": "tinker",
+    "name": "Tinker",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment...",
+    "ability": "You might die at any time.",
+    "edition": "bmr",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 66,
+    "otherNightReminder": "The Tinker might die. :reminder:"
+  },
+  {
+    "id": "golem",
+    "name": "Golem",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Golem help? Golem smash! Golem help.",
+    "ability": "You may only nominate once per game. When you do, if the nominee is not the Demon, they die.",
+    "reminders": [
+      "May Not Nominate"
+    ],
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "eviltwin",
+    "name": "Evil Twin",
+    "team": "minion",
+    "setup": false,
+    "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!",
+    "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+    "edition": "snv",
+    "reminders": [
+      "Twin"
+    ],
+    "firstNight": 35,
+    "otherNight": 0,
+    "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa."
+  },
+  {
+    "id": "sweetheart",
+    "name": "Sweetheart",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "I will never forget her. Never.",
+    "ability": "When you die, 1 player is drunk from now on.",
+    "edition": "snv",
+    "reminders": [
+      "Drunk"
+    ],
+    "firstNight": 0,
+    "otherNight": 57,
+    "otherNightReminder": "If the Sweetheart died, a player became drunk immediately. If you haven't done this yet, do so now. :reminder:"
+  },
+  {
+    "id": "moonchild",
+    "name": "Moonchild",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it.",
+    "ability": "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.",
+    "edition": "bmr",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 67,
+    "otherNightReminder": "If the Moonchild is due to kill a good player, they die. :reminder:"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mutant",
+    "name": "Mutant",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "I am not a freak! I am a human being! Have mercy!",
+    "ability": "If you are “mad” about being an Outsider, you might be executed.",
+    "edition": "snv",
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "boomdandy",
+    "name": "Boomdandy",
+    "team": "minion",
+    "setup": false,
+    "flavor": "Tick... Tick... Tick... TOCK.",
+    "ability": "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies.",
+    "special": [
+      {
+        "name": "pointing",
+        "time": "day",
+        "type": "ability"
+      }
+    ],
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "boffin",
+    "name": "Boffin",
+    "team": "minion",
+    "setup": false,
+    "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
+    "jinxes": [
+      {
+        "id": "cultleader",
+        "reason": "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+      },
+      {
+        "id": "goon",
+        "reason": "If the Demon has the Goon ability, they can’t turn good due to this ability."
+      },
+      {
+        "id": "ogre",
+        "reason": "The Demon cannot have the Ogre ability."
+      },
+      {
+        "id": "politician",
+        "reason": "The Demon cannot have the Politician ability."
+      },
+      {
+        "id": "drunk",
+        "reason": "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+      },
+      {
+        "id": "alchemist",
+        "reason": "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+      },
+      {
+        "id": "villageidiot",
+        "reason": "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+      }
+    ],
+    "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+    "firstNight": 8,
+    "otherNight": 0,
+    "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep."
+  },
+  {
+    "id": "puzzlemaster",
+    "name": "Puzzlemaster",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t.",
+    "ability": "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info.",
+    "reminders": [
+      "Drunk",
+      "Guess Used"
+    ],
+    "firstNight": 0,
+    "otherNight": 0
+  }
+]

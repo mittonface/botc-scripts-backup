@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Assassins Teapot v2",
+    "author": "Mas"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Sparkling Water Controversy",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a Poppygrower is in play, the Widow chooses a character to poison. When the Poppygrower dies, the Widow sees the grim, and if no player was chosen, the Widow chooses again.",
+      "If a vote ties a previous majority with an active Organ Grinder, the Storyteller decides who is on the block between both players.",
+      "If a Vigormortis ability is active, any minions killed by a Vigormortis have their abilities."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

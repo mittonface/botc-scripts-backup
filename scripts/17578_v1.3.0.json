@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Concentric Circles",
+    "author": "Kinky Joe & Cath",
+    "bootlegger": [
+      "Play Notes: A drunk or poisoned player has no ability and the Storyteller is not obligated to give them information. Ogre is always their friend's alignment.",
+      "The Faux Paw does not register to the Klutz or Ogre.",
+      "The Damsel has the Choirboy ability (not setup text)."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Troubled Moon Rising",
+    "author": "Jared Purfield"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  }
+]

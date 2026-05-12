@@ -1,0 +1,134 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mind Your Step",
+    "author": "bhamber",
+    "firstNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "thief",
+      "minioninfo",
+      "snitch",
+      "demoninfo",
+      "preacher",
+      "lleech",
+      "empath",
+      "clockmaker",
+      "seamstress",
+      "steward",
+      "noble",
+      "balloonist",
+      "cultleader",
+      "spy",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "thief",
+      "preacher",
+      "vortox",
+      "lleech",
+      "sage",
+      "tinker",
+      "ravenkeeper",
+      "empath",
+      "seamstress",
+      "balloonist",
+      "cultleader",
+      "spy",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  }
+]

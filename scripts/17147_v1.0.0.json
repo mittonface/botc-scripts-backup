@@ -1,0 +1,120 @@
+[
+  {
+    "id": "_meta",
+    "name": "4 Iced Lattes",
+    "author": "Schnauzer",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "widow",
+      "godfather",
+      "preacher",
+      "chef",
+      "villageidiot",
+      "cultleader",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "innkeeper",
+      "gambler",
+      "acrobat",
+      "lycanthrope",
+      "scarletwoman",
+      "nodashii",
+      "preacher",
+      "assassin",
+      "godfather",
+      "sweetheart",
+      "plaguedoctor",
+      "moonchild",
+      "towncrier",
+      "villageidiot",
+      "cultleader",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "hindu"
+  }
+]

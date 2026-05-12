@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "It Was A Dark And Stormy Night",
+    "author": "procedingfishingboats",
+    "bootlegger": [
+      "Storm Catcher is a Townsfolk. Their ability is amended to: \"Once per game, you may publicly claim Storm Catcher and name a character. If in play, they can only die by execution, but evil players learn which player it is tonight.\""
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

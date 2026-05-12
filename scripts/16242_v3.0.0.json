@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Turbulent Duchy",
+    "author": "Manny"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "duchess"
+  }
+]

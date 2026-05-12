@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Two Worlds",
+    "author": "Nisio"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  }
+]

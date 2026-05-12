@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chef's entrée",
+    "author": "Mayor Kramer"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "matron"
+  }
+]

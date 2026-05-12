@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/5Qlb8hD.jpg",
+    "name": "Sold Down the River",
+    "author": "FearfulHunter",
+    "hideTitle": true,
+    "background": "https://i.imgur.com/EmPydRe.jpg",
+    "bootlegger": [
+      "The Spy knows what the lunatic knows.",
+      "If all living players are evil the game will continue, and if an evil is executed at that time then evil loses"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

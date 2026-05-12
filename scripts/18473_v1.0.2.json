@@ -1,0 +1,87 @@
+[
+  {
+    "id": "_meta",
+    "name": "Why is everyone knitting?",
+    "author": "BigBrainBen10",
+    "bootlegger": [
+      "",
+      "The pope also affects minions",
+      "For each mastermind alive when the demon is executed, the game goes on for an extra day.",
+      "a pit-hag cannot change people into or from an outsider or the mastermind",
+      "If a Pit-hag changed a player from character A to character B, all characters A become character B",
+      "Alchemists wth diffrent abilities count as diffrent characters for the rule above"
+    ],
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "amnesiac",
+      "grandmother",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "pithag",
+      "lunatic",
+      "imp",
+      "vortox",
+      "assassin",
+      "amnesiac",
+      "grandmother",
+      "ravenkeeper",
+      "dawn"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

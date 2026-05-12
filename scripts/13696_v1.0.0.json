@@ -1,0 +1,55 @@
+[
+  {
+    "id": "_meta",
+    "name": "Knightly Misinformation",
+    "author": "Nick Charles"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "sentinel"
+  }
+]

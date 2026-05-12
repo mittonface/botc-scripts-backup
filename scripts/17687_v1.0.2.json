@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://user-images.klutzbanana.com/k6ibzf8ysgzm96mchgb2z1br.png",
+    "name": "Trouble with Violets +",
+    "author": "Charlie303303",
+    "bootlegger": [
+      "The Monk acts on the first night."
+    ],
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "eviltwin",
+      "witch",
+      "cerenovus",
+      "washerwoman",
+      "librarian",
+      "investigator",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "butler",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "monk",
+      "witch",
+      "cerenovus",
+      "pithag",
+      "fanggu",
+      "nodashii",
+      "vortox",
+      "vigormortis",
+      "ravenkeeper",
+      "empath",
+      "fortuneteller",
+      "undertaker",
+      "butler",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Minion selection box",
+    "author": "Monkeyfist"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "kazali"
+  }
+]

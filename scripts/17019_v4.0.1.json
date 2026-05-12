@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Anomaly",
+    "author": "Luc",
+    "bootlegger": [
+      "(v4.01) Anomaly: There is exactly one Outsider in every game: the Hermit. Setup is otherwise normal. Even player counts only, no Travellers.",
+      "Duos: After setup, you know that seats 1&amp;2 are a Duo (they are mechanically able to register as the same alignment). This is also true of seats 3&amp;4, 5&amp;6, etc."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

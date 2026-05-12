@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Tortoise Shell",
+    "author": "Cold Hands",
+    "bootlegger": [
+      "The Fortune Teller gets a 0, 1, or 2 to represent the number of players they picked that register as the demon.",
+      "Players who are told to choose a player their character would not ordinarily be able to choose, such as The Exorcist picking the same person twice, they are Drunk for that night."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

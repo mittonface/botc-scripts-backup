@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ogrejoyed",
+    "author": "Orange"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whispers of Summons Abrew",
+    "author": "OverCrisp",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "summoner",
+      "demoninfo",
+      "damsel",
+      "washerwoman",
+      "librarian",
+      "fortuneteller",
+      "knight",
+      "nightwatchman",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "monk",
+      "scarletwoman",
+      "summoner",
+      "exorcist",
+      "imp",
+      "po",
+      "nodashii",
+      "assassin",
+      "gossip",
+      "damsel",
+      "tinker",
+      "fortuneteller",
+      "undertaker",
+      "nightwatchman",
+      "dawn"
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "po"
+  }
+]

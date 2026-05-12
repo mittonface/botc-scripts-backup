@@ -1,0 +1,48 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Purple Enchanter",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/purpleenchanter/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "toymaker"
+  }
+]

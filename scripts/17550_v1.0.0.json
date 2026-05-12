@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Demon Hunters (1.0)",
+    "author": "Mr. Business",
+    "bootlegger": [
+      "Each time an evil player dies, the demon changes character"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "SuperMutants",
+    "author": "Cam",
+    "bootlegger": [
+      "Summoner/Puzzlemaster Jinx - If the Summoner chooses a puzzledrunk player, the Storyteller might make a different player become an evil Demon instead."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

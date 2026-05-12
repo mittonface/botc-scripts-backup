@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "",
+    "author": ""
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "zombuul"
+  }
+]

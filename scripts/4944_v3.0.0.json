@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Pick me",
+    "author": ""
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  }
+]

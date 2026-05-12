@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Puppet On a String",
+    "author": "Greeny"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  }
+]

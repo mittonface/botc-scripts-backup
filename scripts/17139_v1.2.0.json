@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Grave Decisions",
+    "author": "KC The Rogue"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vortox"
+  }
+]

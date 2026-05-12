@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Disco Elysium",
+    "author": "Mevolas Rubenido"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "scapegoat"
+  }
+]

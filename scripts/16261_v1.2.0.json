@@ -1,0 +1,106 @@
+[
+  {
+    "id": "_meta",
+    "name": "Neanderthal Nation",
+    "author": "Firecode",
+    "bootlegger": [
+      "Any players who use a word with more than 1 syllable (names are allowed) may die"
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "bigwig"
+  }
+]

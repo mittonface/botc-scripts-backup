@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png",
+    "name": "Cursed Echoes",
+    "author": "Cam Com",
+    "almanac": "https://www.botcscripts.com/script/10743",
+    "hideTitle": true
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "sentinel"
+  }
+]

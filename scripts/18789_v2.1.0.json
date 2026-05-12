@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lil' Chaos Monsta",
+    "author": "Zyrain",
+    "bootlegger": [
+      "Evil players cannot be selected to hold the Lil' Monsta"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

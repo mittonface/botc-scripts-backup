@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "Entities",
+    "author": "gmanthony"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bishop"
+  }
+]

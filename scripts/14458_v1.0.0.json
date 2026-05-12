@@ -1,0 +1,86 @@
+[
+  {
+    "id": "_meta",
+    "name": "Creeping Liana",
+    "author": "Nick B",
+    "bootlegger": [
+      "Golem/Summoner: If the Golem nominates the Summoner before day 3, the Summoner does not die.",
+      "Sweetheart/Summoner: If the Summoner chooses a player made drunk by the Sweetheart, a new player becomes drunk."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  }
+]

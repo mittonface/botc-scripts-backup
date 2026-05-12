@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Wild Goose Chase",
+    "author": "Becca & Alexis",
+    "bootlegger": [
+      "The Huntsman ability will trigger on any player with a Damsel ability.",
+      "The Boffin can grant the Heretic or Hermit ability."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

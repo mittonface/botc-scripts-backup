@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "This is My Design",
+    "author": "crow",
+    "bootlegger": [
+      "Huntsman: Each Night* pick a player. The Damsel if chosen becomes out of play good character. If you choose a minion, you become drunk for the rest of the game."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Something Simple",
+    "author": "Vox"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "gnome"
+  }
+]

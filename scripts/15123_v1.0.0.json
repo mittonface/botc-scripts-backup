@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Boots & Cats",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/bootsncats/main/img/background.jpg",
+    "bootlegger": [
+      "If Legion and the Lycanthrope are both in-play, the Lycanthrope ability is replaced by: Each night*, choose an alive player. If Legion, they die & no one dies to the Legion ability tonight. There is a good player that registers as Legion to you."
+    ],
+    "isOfficial": false
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

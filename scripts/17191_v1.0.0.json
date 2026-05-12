@@ -1,0 +1,128 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Loser's Club",
+    "author": "Delinquent",
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "summoner",
+      "demoninfo",
+      "wizard",
+      "snakecharmer",
+      "eviltwin",
+      "fearmonger",
+      "huntsman",
+      "damsel",
+      "amnesiac",
+      "steward",
+      "balloonist",
+      "cultleader",
+      "highpriestess",
+      "general",
+      "dawn",
+      "leviathan"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "wizard",
+      "snakecharmer",
+      "fearmonger",
+      "summoner",
+      "lycanthrope",
+      "legion",
+      "vortox",
+      "huntsman",
+      "damsel",
+      "amnesiac",
+      "ravenkeeper",
+      "balloonist",
+      "cultleader",
+      "highpriestess",
+      "general",
+      "dawn",
+      "leviathan"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "leviathan"
+  }
+]

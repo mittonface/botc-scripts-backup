@@ -1,0 +1,77 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Babbling",
+    "author": "pnkfelix",
+    "version": "1.1.0"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "po"
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "_meta",
+    "name": "Charmed and Delighted",
+    "author": "Andrew",
+    "bootlegger": [
+      "The Storm Catcher favors the Snake Charmer",
+      "On the first night, the Snake Charmer acts before the Demon and Minion(s) learn their starting information.",
+      "The evil team will learn the Storm Catcher information during Minion and Demon info."
+    ],
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "poppygrower",
+      "snakecharmer",
+      "minioninfo",
+      "demoninfo",
+      "stormcatcher",
+      "lilmonsta",
+      "lleech",
+      "xaan",
+      "devilsadvocate",
+      "mezepheles",
+      "clockmaker",
+      "seamstress",
+      "steward",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "poppygrower",
+      "xaan",
+      "innkeeper",
+      "snakecharmer",
+      "devilsadvocate",
+      "mezepheles",
+      "scarletwoman",
+      "imp",
+      "lleech",
+      "lilmonsta",
+      "barber",
+      "sweetheart",
+      "undertaker",
+      "flowergirl",
+      "seamstress",
+      "juggler",
+      "general"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

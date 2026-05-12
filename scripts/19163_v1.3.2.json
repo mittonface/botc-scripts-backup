@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Kill Your Neighbors",
+    "author": "Rhimens",
+    "hideTitle": false,
+    "bootlegger": [
+      "The Recluse can misregister during setup. A Marionette might neighbor a Recluse. A Recluse can sit inside a Typhon line. (The Recluse will not modify character type counts.)"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

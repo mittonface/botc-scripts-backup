@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Thriving In Chaos",
+    "author": "Anonymous",
+    "bootlegger": [
+      "The lovers are a pair of 2 and know each other but do not learn alignments. They can be any combination of characters types, and die together. If they are among the last 3 people, they win, overriding good or evil victory. Evil lovers are also allowed to win with evil, and good lovers can win with good, should they die. Unaligned Lovers that die lose the ability to win together in death."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "_meta",
+    "name": "Science Whiz",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/sciencewhiz/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "sentinel"
+  }
+]

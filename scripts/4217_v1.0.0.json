@@ -1,0 +1,55 @@
+[
+  {
+    "id": "_meta",
+    "name": "mini vizi (+sentinel; demon gets 1 bluff)",
+    "author": "Max Shen"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

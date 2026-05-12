@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Cycle of Death",
+    "author": "Dryden",
+    "bootlegger": [
+      "Revived players return after all revival-causing effects have resolved.",
+      "When a player is revived, they return at night. They are drunk until dawn. If they have a night ability, they may act and will receive arbitrary information."
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

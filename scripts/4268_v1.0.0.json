@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Target creature becomes a Coward",
+    "author": "rook"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "gardener"
+  }
+]

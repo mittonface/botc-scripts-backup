@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Frappons Un Vierge",
+    "author": "procedingfishingboats",
+    "bootlegger": [
+      "Golem is a Townsfolk, Virgin is an Outsider. The Virgin's ability is ammended to execute good Travellers as well (Yes, execute, not exile)."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

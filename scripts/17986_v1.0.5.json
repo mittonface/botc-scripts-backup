@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Insomnia Alchemy Among The Poppies",
+    "author": "procedingfishingboats",
+    "bootlegger": [
+      "Ignore the Jinx between Alchemist and Wraith",
+      "The Wraith (or Alchemist-Wraith) cannot wake due to their ability until after the Demon recieves bluffs"
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Let's Have a Feast",
+    "author": "JSC"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  }
+]

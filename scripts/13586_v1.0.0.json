@@ -1,0 +1,102 @@
+[
+  {
+    "id": "_meta",
+    "name": "Inconspicuous Frankenstein",
+    "author": "Skrå!",
+    "bootlegger": [
+      "The Hermit does not pick with their Ogre ability. Instead, they become the alignment of the first person they target as their Drunk role.",
+      "The Hermit can't be shown the Grandmother or the Tealady.",
+      "If a Hermit nominated a player and the player did not die, they learn they may not nominate anymore the next night."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

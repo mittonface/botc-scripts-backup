@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "What. The. Hell. Just. Happened?!",
+    "author": "Chiz",
+    "bootlegger": [
+      "Ignore the Boffin-Heretic Jinx. Abilities given by the Boffin might be in-play."
+    ]
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

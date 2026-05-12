@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Me And My Scruples",
+    "author": "elzbth",
+    "bootlegger": [
+      "The Cerenovus may make a player mad as any character on the script.",
+      "The Harpy may select the same player twice in one night.",
+      "The Pixie may see a minion ability."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

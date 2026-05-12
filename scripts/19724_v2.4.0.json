@@ -1,0 +1,107 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/TYH01cZq/hadIcon.png",
+    "name": "Have A Drink",
+    "author": "Mattie",
+    "bootlegger": [
+      "The Poppy Grower's info is unaffected by the Vortox ability."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

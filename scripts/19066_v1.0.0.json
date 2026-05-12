@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "Evicted lord",
+    "author": "BigBrainBen10",
+    "bootlegger": [
+      "Both minions move when the demon moves.",
+      "When the Tea Lady protects, they also protect themselves.",
+      "In a 5-player game, the Tea Lady('s ability) only looks at and protects themselves and their clockwise neighbor.",
+      "The Snitch may give 1 or bluffs to each minion, but not 3"
+    ]
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  }
+]

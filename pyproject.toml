@@ -1,0 +1,9 @@
+[project]
+name = "botc-scripts-scraper"
+version = "0.1.0"
+description = "Bulk-download Blood on the Clocktower custom scripts from botcscripts.com."
+readme = "botc-scraper-plan.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32.0",
+]

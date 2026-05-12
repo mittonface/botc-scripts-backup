@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Second Guessing JP",
+    "author": "Jared Purfield"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "zenomancer"
+  }
+]

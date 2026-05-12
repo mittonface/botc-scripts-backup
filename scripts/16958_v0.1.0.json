@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dueling Wizards",
+    "author": "Pookenstein",
+    "bootlegger": [
+      "[Place 2 Wizard tokens in the bag. The Storyteller determines each Wizards' alignment after both have been drawn, and both learn their alignment at the start of Night 1.]",
+      "[One evil player and one good player is a Wizard.] Wizards cannot die while 5 or more players are alive, and register as the Demon. The evil Wizard gains starting information as if they were the starting Demon.",
+      "If a Wizard dies, their team loses.",
+      "A Wizard can make any number of wishes. Once a Wizard makes a wish, they cannot make another one until the start of the next Day. Wizards are safe from wishes they do not make. The effects of a wish are removed at the start of every Day."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

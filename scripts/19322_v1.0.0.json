@@ -1,0 +1,120 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://chillclocktower.com/living-script/assets/script_icon.png",
+    "name": "What Fresh Hell Is This?",
+    "author": "NWA Clocktower Club",
+    "almanac": "https://fleshandbone.app/campaign.php?view=B6qE1y8d",
+    "hideTitle": true,
+    "background": "https://fleshandbone.app/bg.php?g=20264",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "washerwoman",
+      "librarian",
+      "investigator",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "butler",
+      "nightwatchman",
+      "spy",
+      "dawn",
+      "leviathan"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "monk",
+      "scarletwoman",
+      "legion",
+      "imp",
+      "shabaloth",
+      "ravenkeeper",
+      "empath",
+      "fortuneteller",
+      "nightwatchman",
+      "butler",
+      "spy",
+      "dawn",
+      "leviathan"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "leviathan"
+  }
+]

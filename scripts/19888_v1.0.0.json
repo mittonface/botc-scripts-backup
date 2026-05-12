@@ -1,0 +1,137 @@
+[
+  {
+    "id": "_meta",
+    "name": "new person, same old mistakes",
+    "author": "Coral 🪸",
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "apprentice",
+      "boffin",
+      "minioninfo",
+      "demoninfo",
+      "lilmonsta",
+      "godfather",
+      "harpy",
+      "butler",
+      "seamstress",
+      "noble",
+      "shugenja",
+      "bountyhunter",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "gambler",
+      "harpy",
+      "princess",
+      "shabaloth",
+      "lilmonsta",
+      "assassin",
+      "godfather",
+      "gossip",
+      "professor",
+      "tinker",
+      "moonchild",
+      "towncrier",
+      "oracle",
+      "seamstress",
+      "bountyhunter",
+      "butler",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "fibbin"
+  }
+]

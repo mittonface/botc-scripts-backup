@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Outsider Overload",
+    "author": "Mateo Price"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "ojo"
+  }
+]

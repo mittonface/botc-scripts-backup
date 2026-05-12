@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Attack of the undead cows",
+    "author": "stepic"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

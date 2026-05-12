@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "name": "¿Quién da la vez?",
+    "author": "Rovortox",
+    "firstNight": [
+      "dusk",
+      "yaggababble",
+      "minioninfo",
+      "snitch",
+      "lunatic",
+      "demoninfo",
+      "king",
+      "marionette",
+      "lleech",
+      "cerenovus",
+      "mezepheles",
+      "amnesiac",
+      "washerwoman",
+      "highpriestess",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "innkeeper",
+      "cerenovus",
+      "mezepheles",
+      "lunatic",
+      "legion",
+      "vortox",
+      "lleech",
+      "yaggababble",
+      "gossip",
+      "barber",
+      "choirboy",
+      "amnesiac",
+      "king",
+      "highpriestess",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "barber"
+  }
+]

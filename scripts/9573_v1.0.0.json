@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Beggars, Sin, & Wine",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/beggarssinwine/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

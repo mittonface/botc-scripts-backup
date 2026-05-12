@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "Clock on the Clocktower",
+    "author": "Andrew",
+    "bootlegger": [
+      "The fiddler goes off when clocks change for the end or beginning of daylight saving time."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "fiddler"
+  },
+  {
+    "id": "djinn"
+  }
+]

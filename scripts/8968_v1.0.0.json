@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Frequently Bought Together",
+    "author": "HABBY!"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin",
+    "name": "Boffin",
+    "team": "minion",
+    "image": "https://i.postimg.cc/rp282BcZ/boffin.png",
+    "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability.  You both know which.",
+    "firstNight": 0.3,
+    "firstNightReminder": "Wake the Boffin and how them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has."
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  }
+]

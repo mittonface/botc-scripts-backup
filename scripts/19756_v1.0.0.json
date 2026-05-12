@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Panic!",
+    "author": "Milton",
+    "bootlegger": [
+      "If an execution would fail to happen, instead it happens but fails to kill.",
+      "Executions may fail on players whose token does not correspond to their alignment."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "fiddler"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Sound of Silence",
+    "author": "Ekin"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

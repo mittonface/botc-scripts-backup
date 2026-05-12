@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Wheel of Death",
+    "author": "",
+    "bootlegger": [
+      "Players dying at night are randomly determined among living players on The Wheel of Death.",
+      "Zenomancer goals take your name off The Wheel of Death for a number of days rather than provide information.",
+      "As long as there is at least one name on the wheel of death, and a players death would end the game, they are removed from the wheel of death.",
+      "Legion voting rules always apply if there is an evil (non-strict) majority."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

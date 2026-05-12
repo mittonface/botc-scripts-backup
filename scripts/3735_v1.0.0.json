@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/PHCAuKr.png",
+    "name": "Hats Off",
+    "author": "Aggie & Jams",
+    "background": "https://i.imgur.com/HDSYp7m.png",
+    "isOfficial": false
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Brave New World",
+    "author": "Marshall"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

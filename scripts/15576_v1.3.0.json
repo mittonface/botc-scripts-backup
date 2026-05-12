@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Advanced Conscription",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "The Hermit may have the Ogre ability.",
+      "Any Puzzledrunk player registers to the Puzzlemaster ability."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

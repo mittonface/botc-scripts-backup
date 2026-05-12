@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "One Good Apple",
+    "author": "sgb",
+    "bootlegger": [
+      "The Lunatic thinks they are a Minion. If Lil' Monsta & the Lunatic are alive, Minions wake one by one, until one of them chooses to take the Lil' Monsta token."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

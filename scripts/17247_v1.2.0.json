@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "Take Your Time, Take It Off, Take a Bow",
+    "author": "sgb",
+    "bootlegger": [
+      "Any player who doesn't wake in the night may use the Artist's ability. If they aren't the Artist, info they get is arbitrary."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

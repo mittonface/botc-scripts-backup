@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Saving Atlantis",
+    "author": "Ash",
+    "bootlegger": [
+      "Princess and Leviathan: On your first day, if you nominate and execute a player other than yourself, they register as evil to the Leviathan's ability.",
+      "Cannibal and Princess: If the Cannibal nominates and executes the Princess, the Cannibal uses the jinxed Princess ability.",
+      "Cannibal and Village Idiot: If a self-drunk Village Idiot is executed, then the Cannibal gains that Village Idiot's ability and drunk status simultaneously.",
+      "Monk and Leviathan: The player protected by the monk is safe from all evil abilities. Ignore the official jinx."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

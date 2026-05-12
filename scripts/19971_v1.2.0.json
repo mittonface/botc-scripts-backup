@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "The House of Poisoned Flora",
+    "author": "Luci Pher",
+    "bootlegger": [
+      "The Storm Catcher favours the Poppy Grower.",
+      "The Poppy Grower ignores poisoning. The optional Poppy Grower rule is not in play.",
+      "Ignore the Mathematician/Drunk jinx."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ultimate Chicken Hermit",
+    "author": "concavz",
+    "bootlegger": [
+      "The Hermit can be a Good Townsfolk, a Good Outsider, or an Evil Minion. They have 2 abilities of their given character type. ",
+      "If the Hermit is a Townsfolk, they think they are the character of an ability that they have. They learn that they are the Hermit when only 3 players are alive.",
+      "If the Hermit is a Minion, they must be the only Minion.",
+      "If a player tries to use an ability they don't have, treat the ability the player is trying to use as poisoned.",
+      "If the Summoner creates a Lil' Monsta, they may choose to make someone a Minion. Then, the Summoner chooses who babysits Lil' Monsta.",
+      "The King always learns during the night, even if the living outnumber the dead."
+    ]
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "ferryman"
+  },
+  {
+    "id": "sentinel"
+  }
+]

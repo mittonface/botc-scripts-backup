@@ -1,0 +1,114 @@
+[
+  {
+    "id": "_meta",
+    "name": "Are we the Baddies?",
+    "author": "South",
+    "almanac": "https://www.bloodstar.xyz/p/South/bounce/almanac.html",
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "alchemist",
+      "poppygrower",
+      "magician",
+      "minioninfo",
+      "snitch",
+      "lunatic",
+      "demoninfo",
+      "marionette",
+      "eviltwin",
+      "mezepheles",
+      "pixie",
+      "washerwoman",
+      "investigator",
+      "clockmaker",
+      "bountyhunter",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "poppygrower",
+      "innkeeper",
+      "mezepheles",
+      "lunatic",
+      "lycanthrope",
+      "zombuul",
+      "vortox",
+      "ojo",
+      "bountyhunter",
+      "dawn"
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vortox"
+  }
+]

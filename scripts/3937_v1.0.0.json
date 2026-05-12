@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://images.uesp.net/4/4c/SR-skill-Alteration.png",
+    "name": "School of Alteration",
+    "author": "Skaggs"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "scapegoat"
+  }
+]

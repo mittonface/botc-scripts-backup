@@ -1,0 +1,114 @@
+[
+  {
+    "id": "_meta",
+    "name": "Arbitrary",
+    "author": "Briar Willow",
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "poppygrower",
+      "magician",
+      "minioninfo",
+      "lunatic",
+      "summoner",
+      "demoninfo",
+      "marionette",
+      "lilmonsta",
+      "snakecharmer",
+      "organgrinder",
+      "chef",
+      "empath",
+      "villageidiot",
+      "bountyhunter",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "snakecharmer",
+      "organgrinder",
+      "summoner",
+      "lunatic",
+      "lycanthrope",
+      "legion",
+      "lilmonsta",
+      "plaguedoctor",
+      "empath",
+      "villageidiot",
+      "bountyhunter",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Teensy Graveyard",
+    "author": "PogoFox",
+    "bootlegger": [
+      "In a 5-player game, there may be +1 Outsider."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

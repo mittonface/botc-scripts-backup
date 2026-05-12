@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://cdn.discordapp.com/attachments/965922259443286036/1184865919885914112/Crown_v2.png?ex=658d8761&is=657b1261&hm=f1f24d261143db1eda93eded0dc904b9d89a8f5da2f2dc51bd386d6c5f1fc58c&",
+    "name": "We are the Royals",
+    "author": "Zeminus"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  }
+]

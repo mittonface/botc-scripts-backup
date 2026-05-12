@@ -1,0 +1,438 @@
+[
+  {
+    "id": "_meta",
+    "name": "Vote of No Confidence",
+    "author": "Arachnid",
+    "hideTitle": false
+  },
+  {
+    "id": "librarian",
+    "name": "Librarian",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member.",
+    "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
+    "edition": "tb",
+    "reminders": [
+      "Outsider",
+      "Wrong"
+    ],
+    "firstNight": 47,
+    "otherNight": 0,
+    "firstNightReminder": "Show the Outsider character token. Point to both the *OUTSIDER* and *WRONG* players."
+  },
+  {
+    "id": "pixie",
+    "name": "Pixie",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town.  Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me.",
+    "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.",
+    "reminders": [
+      "Mad",
+      "Has Ability"
+    ],
+    "firstNight": 42,
+    "otherNight": 0,
+    "firstNightReminder": "Show the Townsfolk character token marked *MAD*."
+  },
+  {
+    "id": "flowergirl",
+    "name": "Flowergirl",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Yesterday's violets have withered and died, but today my poppies bloom.",
+    "ability": "Each night*, you learn if a Demon voted today.",
+    "edition": "snv",
+    "reminders": [
+      "Demon Voted",
+      "Demon Not Voted"
+    ],
+    "firstNight": 0,
+    "otherNight": 74,
+    "otherNightReminder": "Either nod or shake your head."
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north.",
+    "ability": "Each night*, you learn how many dead players are evil.",
+    "edition": "snv",
+    "firstNight": 0,
+    "otherNight": 76,
+    "otherNightReminder": "Give a finger signal."
+  },
+  {
+    "id": "butler",
+    "name": "Butler",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Yes, sir... No, sir... Certainly, sir.",
+    "jinxes": [
+      {
+        "id": "organgrinder",
+        "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+      }
+    ],
+    "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+    "edition": "tb",
+    "reminders": [
+      "Master"
+    ],
+    "firstNight": 52,
+    "otherNight": 85,
+    "firstNightReminder": "The Butler chooses a player. :reminder:",
+    "otherNightReminder": "The Butler chooses a player. :reminder:"
+  },
+  {
+    "id": "imp",
+    "name": "Imp",
+    "team": "demon",
+    "setup": false,
+    "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me.",
+    "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
+    "edition": "tb",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 36,
+    "otherNightReminder": "The Imp chooses a player. :reminder: If the Imp chose themselves: Replace 1 alive Minion token with a spare Imp token. Put the old Imp to sleep. Wake the new Imp. Show the *YOU ARE* token, then show the Imp token."
+  },
+  {
+    "id": "pukka",
+    "name": "Pukka",
+    "team": "demon",
+    "setup": false,
+    "flavor": "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret.",
+    "ability": "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.",
+    "edition": "bmr",
+    "reminders": [
+      "Poisoned",
+      "Poisoned",
+      "Dead"
+    ],
+    "firstNight": 41,
+    "otherNight": 38,
+    "firstNightReminder": "The Pukka chooses a player. :reminder:",
+    "otherNightReminder": "The Pukka chooses a player. :reminder: The previously poisoned player dies then becomes healthy. :reminder:"
+  },
+  {
+    "id": "villageidiot",
+    "name": "Village Idiot",
+    "team": "townsfolk",
+    "setup": true,
+    "flavor": "Roses are blue, and violets are red, Please reverse what I just said.",
+    "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+    "special": [
+      {
+        "name": "bag-duplicate",
+        "type": "selection"
+      }
+    ],
+    "reminders": [
+      "Drunk"
+    ],
+    "firstNight": 62,
+    "otherNight": 80,
+    "firstNightReminder": "Choose a Village Idiot to be drunk. Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player.",
+    "otherNightReminder": "Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player."
+  },
+  {
+    "id": "snakecharmer",
+    "name": "Snake Charmer",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I.",
+    "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.",
+    "edition": "snv",
+    "reminders": [
+      "Poisoned"
+    ],
+    "firstNight": 31,
+    "otherNight": 19,
+    "firstNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
+    "otherNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:"
+  },
+  {
+    "id": "zombuul",
+    "name": "Zombuul",
+    "team": "demon",
+    "setup": false,
+    "flavor": "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon.",
+    "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",
+    "edition": "bmr",
+    "reminders": [
+      "Died Today",
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 37,
+    "otherNightReminder": "If no one died today, the Zombuul chooses a player. :reminder:"
+  },
+  {
+    "id": "cultleader",
+    "name": "Cult Leader",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Thinking themselves wise, they became fools.",
+    "ability": "Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.",
+    "firstNight": 65,
+    "otherNight": 84,
+    "firstNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+    "otherNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment."
+  },
+  {
+    "id": "fanggu",
+    "name": "Fang Gu",
+    "team": "demon",
+    "setup": true,
+    "flavor": "Your walls and your weapons are but smoke in dreams.",
+    "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
+    "edition": "snv",
+    "reminders": [
+      "Dead",
+      "Once"
+    ],
+    "firstNight": 0,
+    "otherNight": 41,
+    "otherNightReminder": "The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:"
+  },
+  {
+    "id": "psychopath",
+    "name": "Psychopath",
+    "team": "minion",
+    "setup": false,
+    "flavor": "Surprise!",
+    "ability": "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.",
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "seamstress",
+    "name": "Seamstress",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes.",
+    "ability": "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.",
+    "edition": "snv",
+    "reminders": [
+      "No Ability"
+    ],
+    "firstNight": 56,
+    "otherNight": 77,
+    "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+    "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:"
+  },
+  {
+    "id": "juggler",
+    "name": "Juggler",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear.",
+    "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
+    "edition": "snv",
+    "reminders": [
+      "Correct",
+      "Correct",
+      "Correct",
+      "Correct",
+      "Correct"
+    ],
+    "firstNight": 0,
+    "otherNight": 78,
+    "otherNightReminder": "Give a finger signal."
+  },
+  {
+    "id": "lunatic",
+    "name": "Lunatic",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "I am the night... I think.",
+    "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
+    "edition": "bmr",
+    "reminders": [
+      "Chosen",
+      "Chosen",
+      "Chosen"
+    ],
+    "firstNight": 16,
+    "otherNight": 31,
+    "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
+    "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s)."
+  },
+  {
+    "id": "cannibal",
+    "name": "Cannibal",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "I don’t like clowns. They taste funny.",
+    "jinxes": [
+      {
+        "id": "butler",
+        "reason": "If the Cannibal gains the Butler ability, the Cannibal learns this."
+      },
+      {
+        "id": "juggler",
+        "reason": "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+      },
+      {
+        "id": "zealot",
+        "reason": "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+      },
+      {
+        "id": "poppygrower",
+        "reason": "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+      },
+      {
+        "id": "princess",
+        "reason": "If the Cannibal nominated, executed, & killed the Princess today, the Demon doesn’t kill tonight."
+      }
+    ],
+    "ability": "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution.",
+    "reminders": [
+      "Poisoned",
+      "Lunch"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "otherNightReminder": "Wake the Cannibal and treat them like they have the ability of the most recently killed executee."
+  },
+  {
+    "id": "recluse",
+    "name": "Recluse",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!",
+    "ability": "You might register as evil & as a Minion or Demon, even if dead.",
+    "edition": "tb",
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "eviltwin",
+    "name": "Evil Twin",
+    "team": "minion",
+    "setup": false,
+    "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!",
+    "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+    "edition": "snv",
+    "reminders": [
+      "Twin"
+    ],
+    "firstNight": 35,
+    "otherNight": 0,
+    "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa."
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself.",
+    "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
+    "edition": "snv",
+    "firstNight": 0,
+    "otherNight": 58,
+    "otherNightReminder": "If the Demon killed the Sage, wake the Sage and point to 2 players, 1 of which is the Demon."
+  },
+  {
+    "id": "banshee",
+    "name": "Banshee",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
+    "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+    "reminders": [
+      "Has Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 59,
+    "otherNightReminder": "If the Banshee was killed by the Demon tonight, announce to all players that the Banshee has died. :reminder:"
+  },
+  {
+    "id": "mayor",
+    "name": "Mayor",
+    "team": "townsfolk",
+    "setup": false,
+    "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us.",
+    "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
+    "edition": "tb",
+    "firstNight": 0,
+    "otherNight": 0
+  },
+  {
+    "id": "vizier",
+    "name": "Vizier",
+    "team": "minion",
+    "setup": false,
+    "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+    "jinxes": [
+      {
+        "id": "investigator",
+        "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+      },
+      {
+        "id": "preacher",
+        "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+      },
+      {
+        "id": "courtier",
+        "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+      },
+      {
+        "id": "magician",
+        "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+      },
+      {
+        "id": "fearmonger",
+        "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+      },
+      {
+        "id": "politician",
+        "reason": "The Politician might register as evil to the Vizier."
+      },
+      {
+        "id": "alsaahir",
+        "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+      },
+      {
+        "id": "zealot",
+        "reason": "The Zealot might register as evil to the Vizier."
+      }
+    ],
+    "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+    "firstNight": 74,
+    "otherNight": 0,
+    "firstNightReminder": "Announce the Vizier player to the group."
+  },
+  {
+    "id": "damsel",
+    "name": "Damsel",
+    "team": "outsider",
+    "setup": false,
+    "flavor": "Don't touch the hair, honey.",
+    "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.",
+    "reminders": [
+      "Guess Used"
+    ],
+    "firstNight": 44,
+    "otherNight": 63,
+    "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+    "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token."
+  },
+  {
+    "id": "djinn",
+    "name": "Djinn",
+    "team": "fabled",
+    "setup": false,
+    "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ.",
+    "ability": "Use the Djinn's special rule. All players know what it is.",
+    "edition": "fabled"
+  }
+]

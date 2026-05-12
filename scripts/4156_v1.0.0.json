@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Church of Spies",
+    "author": "Andrew Nathenson"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "pukka"
+  }
+]

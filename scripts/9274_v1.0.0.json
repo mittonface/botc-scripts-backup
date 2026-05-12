@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ravenswood Rovers",
+    "author": "Mas"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

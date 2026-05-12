@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://release.botc.app/wc25/phantomdetectives/logo.webp",
+    "name": "The Phantom Detectives",
+    "author": "Schnauzer",
+    "almanac": "https://schnauzerclub.neocities.org/scripts/thephantomdetectives",
+    "hideTitle": true,
+    "background": "https://release.botc.app/wc25/background.webp",
+    "bootlegger": [
+      "Dead players (not Demons) keep their abilities. Each Townsfolk loses their ability at the start of night 1, then regains it on death."
+    ],
+    "isOfficial": false
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "judge"
+  }
+]

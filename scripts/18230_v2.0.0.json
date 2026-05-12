@@ -1,0 +1,129 @@
+[
+  {
+    "id": "_meta",
+    "name": "Petition to Change the Acrobat",
+    "author": "Thomassaurus",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "king",
+      "guardian_copy",
+      "marionette",
+      "lleech",
+      "poisoner",
+      "huntsman",
+      "damsel",
+      "chef",
+      "seamstress",
+      "noble",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "guardian_copy",
+      "poisoner",
+      "nodashii",
+      "vigormortis",
+      "ojo",
+      "lleech",
+      "sweetheart",
+      "choirboy",
+      "huntsman",
+      "damsel",
+      "ravenkeeper",
+      "flowergirl",
+      "oracle",
+      "seamstress",
+      "juggler",
+      "king",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "acrobat",
+    "name": "Acrobat",
+    "team": "townsfolk",
+    "image": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_acrobat.png",
+    "ability": "Each night, choose 2 players (not yourself): learn if exactly 1 of them is drunk or poisoned.",
+    "firstNight": 48,
+    "otherNight": 67,
+    "firstNightReminder": "The Acrobat chooses 2 players. Give a 'yes' or a 'no'.",
+    "otherNightReminder": "The Acrobat chooses 2 players. Give a 'yes' or a 'no'."
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

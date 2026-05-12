@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Art Attack",
+    "author": "Jared Purfield"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

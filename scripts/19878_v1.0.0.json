@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Great Texan Bathtub",
+    "author": "Josh🍳 & Adge",
+    "bootlegger": [
+      "If the Pit Hag creates a Lil' Monsta, the chosen player becomes an out of play Minion of their choice and must hold Lil' Monsta today. "
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "sentinel"
+  }
+]

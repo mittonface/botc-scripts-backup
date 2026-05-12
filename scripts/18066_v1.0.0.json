@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Count the Kills",
+    "author": "ah5",
+    "bootlegger": [
+      "The Lil' Monsta/Scarlet Woman jinx is replaced with: If Lil' Monsta dies with 5 or\nmore players alive, the Scarlet Woman babysits Lil' Monsta tonight."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

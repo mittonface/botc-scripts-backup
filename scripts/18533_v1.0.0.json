@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Going To Church",
+    "author": "SummerM",
+    "bootlegger": [
+      "A traveller Bishop must be in play at the start of the game. The Bishop cannot be exiled until after day 3. ",
+      "Each day that the Bishop is in play, the Story Teller must make 3 nominations."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

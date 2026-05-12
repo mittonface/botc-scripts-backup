@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Fate and Chaos",
+    "author": "Mateo Price",
+    "bootlegger": [
+      "All players have Fabled / Loric Characters attached to them. When the player dies, their Fabled / Loric becomes out of play. All players know eachother's Loric / Fabled.",
+      "Once a Fabled / Loric leaves play, its affects cease immeadiately.",
+      "Spirit of Ivory and Gardener cannot be in play.",
+      "When the Deus ex Fiasco dies, a mistake must be made by the same time the next day.",
+      "The Bootlegger adds 1 extra rule of the storyteller's choice.",
+      "The amneisac cannot affect the above rules."
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

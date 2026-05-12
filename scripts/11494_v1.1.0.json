@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/4wjmDbH.png",
+    "name": "Witchcraft",
+    "author": "Doomduck",
+    "hideTitle": true,
+    "background": "https://i.postimg.cc/HsdzKHz3/h-Lngm43-QSJ9hjg-FDYjcs-1-uspjc.webp"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

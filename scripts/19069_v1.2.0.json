@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Minion Assembly",
+    "author": "Vieti",
+    "bootlegger": [
+      "If Poppy Grower is in play, Kazali chooses which minion character is in play but not the minion players",
+      "If Poppygrower is in play, Wraith doesn't wake with evil. The Storyteller may instruct the Wraith to keep their eyes closed while evil players act (optional)",
+      "If the Exorcist chooses the player holding Lil’ Monsta, Lil’ Monsta cannot kill or move tonight"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

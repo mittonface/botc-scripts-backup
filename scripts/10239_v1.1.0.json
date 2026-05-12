@@ -1,0 +1,50 @@
+[
+  {
+    "id": "_meta",
+    "name": "Demon Mario Party",
+    "author": "Fabb",
+    "isOfficial": false
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  },
+  {
+    "id": "gardener"
+  }
+]

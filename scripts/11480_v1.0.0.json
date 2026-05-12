@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mutant Mayhem",
+    "author": "Unknown"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "leviathan"
+  }
+]

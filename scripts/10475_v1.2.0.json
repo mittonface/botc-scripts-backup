@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Trash Heap Has Spoken",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/trashheap/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "ojo"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Oh my Lord!",
+    "author": "Francesco P."
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bigwig"
+  }
+]

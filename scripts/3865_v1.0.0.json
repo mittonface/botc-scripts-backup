@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Inversion",
+    "author": "Shadowhawk"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vortox"
+  }
+]

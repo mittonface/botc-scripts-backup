@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://sublimaesthesia.com/botc/Delenn__B5-S2__The-Coming-of-Shadows__Logo.png",
+    "name": "The Coming of Shadows",
+    "author": "Delenn",
+    "hideTitle": true,
+    "background": "https://sublimaesthesia.com/botc/Delenn__B5-S2__The-Coming-of-Shadows__Background.png"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  }
+]

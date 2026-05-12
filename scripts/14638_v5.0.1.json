@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/zHYk5RK.png",
+    "name": "Never stopped to think V5",
+    "author": "Tom R",
+    "hideTitle": true,
+    "bootlegger": [
+      "If the Heretic is removed due to the Demon set up, an other outsider might become the Heretic.",
+      "The Demon cannot have the Drunk ability."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "_meta",
+    "name": "Danse Macabre",
+    "author": "Yoss",
+    "bootlegger": [
+      "The Voudon is in the bag at the start of the game, but is otherwise treated as traveller in all other respects.",
+      "The Summoner may not choose the Voudon player."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

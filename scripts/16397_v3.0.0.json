@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Kingdom Come",
+    "author": "Urban Minotaur",
+    "bootlegger": [
+      "The Vizier can only be in play if there are two or more Minions in the game."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Venom & Spirits",
+    "author": "Flyingludicolo",
+    "bootlegger": [
+      "The Alchemist with the Widow’s ability sees an incomplete Grimoire (tokens may be moved/replaced by bluffs), they select two players one of which is poisoned."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "djinn"
+  }
+]

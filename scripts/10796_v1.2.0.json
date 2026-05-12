@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Watch Out! v1.2",
+    "author": "Lydras"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "djinn"
+  }
+]

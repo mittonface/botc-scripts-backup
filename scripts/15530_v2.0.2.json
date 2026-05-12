@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "When the Shoe Fights Back V2",
+    "author": "Ginger🐧",
+    "bootlegger": [
+      "The Hermit will only have 3 outsider abilities. They will learn which ones.",
+      "The Hermit with the Damsel ability registers as the Damsel to the Huntsman both during setup and the rest of the game."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

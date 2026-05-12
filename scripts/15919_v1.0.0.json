@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Town That Actually Knows Each Others Professions",
+    "author": "Qaday",
+    "bootlegger": [
+      "When the Spy looks at the Grimoire, all Outsider tokens are replaced with townsfolk tokens (not any bluffs)."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

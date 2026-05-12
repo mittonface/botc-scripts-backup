@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Midsommar Night's Scream",
+    "author": "Schnauzer & Adam",
+    "bootlegger": [
+      "The Sentinel adds +1 Outsider in an Ojo game, and +0 or +1 Outsiders in a Summoner game. Otherwise, the Sentinel is not used."
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

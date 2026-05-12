@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bloodbath",
+    "author": "Tobert"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "doomsayer"
+  }
+]

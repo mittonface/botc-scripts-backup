@@ -1,0 +1,120 @@
+[
+  {
+    "id": "_meta",
+    "name": "Minesweeping",
+    "author": "Thought-Knot",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "king",
+      "xaan",
+      "witch",
+      "huntsman",
+      "damsel",
+      "grandmother",
+      "clockmaker",
+      "noble",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "witch",
+      "scarletwoman",
+      "fanggu",
+      "barber",
+      "sage",
+      "banshee",
+      "choirboy",
+      "huntsman",
+      "damsel",
+      "farmer",
+      "grandmother",
+      "ravenkeeper",
+      "juggler",
+      "king",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whose Side Are You On?",
+    "author": "Kyle"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "djinn"
+  }
+]

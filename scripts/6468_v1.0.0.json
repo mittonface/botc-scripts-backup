@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Base actions",
+    "author": "theCaprious"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "sentinel"
+  }
+]

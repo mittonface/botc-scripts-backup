@@ -1,0 +1,38 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lord of Teensy",
+    "author": "Eggnog",
+    "background": "https://i.imgur.com/hpXaMch.png"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

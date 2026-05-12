@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Goblin Mode",
+    "author": "Joakim Petersson"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "sentinel"
+  }
+]

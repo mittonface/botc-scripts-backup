@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "grep 'word' script.txt | sed 's/ability/bootleg",
+    "author": "Kevin"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "sentinel"
+  }
+]

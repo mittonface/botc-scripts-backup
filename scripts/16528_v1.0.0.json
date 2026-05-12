@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mind Massacre",
+    "author": "Skaza?"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bishop"
+  }
+]

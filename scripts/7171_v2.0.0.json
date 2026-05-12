@@ -1,0 +1,80 @@
+[
+  {
+    "id": "_meta",
+    "name": "Politics & Voting V2",
+    "author": "Fabb",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "alhadikhia"
+  }
+]

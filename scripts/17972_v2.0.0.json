@@ -1,0 +1,147 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Creator's Onslaught",
+    "author": "Lochie",
+    "bootlegger": [
+      "If the Poppy Grower dies whilst drunk or poisoned, Minions and Demons still learn who each other are that night."
+    ],
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "boffin",
+      "poppygrower",
+      "minioninfo",
+      "damsel",
+      "lunatic",
+      "demoninfo",
+      "yaggababble",
+      "preacher",
+      "xaan",
+      "harpy",
+      "pukka",
+      "pixie",
+      "dreamer",
+      "noble",
+      "balloonist",
+      "ogre",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "harlot",
+      "poppygrower",
+      "preacher",
+      "xaan",
+      "innkeeper",
+      "gambler",
+      "harpy",
+      "lunatic",
+      "exorcist",
+      "pukka",
+      "ojo",
+      "yaggababble",
+      "assassin",
+      "moonchild",
+      "dreamer",
+      "balloonist",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

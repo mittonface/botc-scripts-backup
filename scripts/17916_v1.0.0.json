@@ -1,0 +1,58 @@
+[
+  {
+    "id": "_meta",
+    "name": "Tor-n Apart",
+    "author": "MrRabbit",
+    "bootlegger": [
+      "The Storyteller doesn't tell the players when their character or alignment changes."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "sentinel"
+  }
+]

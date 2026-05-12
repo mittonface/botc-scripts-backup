@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mystery Quest",
+    "author": "Briar Willow"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "doomsayer"
+  },
+  {
+    "id": "sentinel"
+  }
+]

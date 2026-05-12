@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Masque of the Red Death",
+    "author": "Zirconix"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

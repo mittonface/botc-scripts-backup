@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "Wishing A Lil Dead",
+    "author": "Troy/Azaverilania",
+    "bootlegger": [
+      "Once per day, all players may publicly announce a wish, that may be granted, and may have a cost.",
+      "All wishes must follow a criteria announced by the storyteller at the start of the day.",
+      "The storyteller may choose to grant wishes however they want.",
+      "Every player is guaranteed one wish, but the storyteller does not have to tell the player whether or not their wish is granted."
+    ],
+    "isOfficial": false
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]

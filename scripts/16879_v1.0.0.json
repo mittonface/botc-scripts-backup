@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "This baby has strings attached",
+    "author": "Shane",
+    "bootlegger": [
+      "Only the Poisoner will learn who the Marionette is, regardless of who is holding Lil' Monsta"
+    ]
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

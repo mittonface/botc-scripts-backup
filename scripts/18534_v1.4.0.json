@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Swamp Witches",
+    "author": "bee"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

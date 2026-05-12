@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whose Line Is It Anyway?",
+    "author": "Acaila & Paradox"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "djinn"
+  }
+]

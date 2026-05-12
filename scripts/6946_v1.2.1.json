@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Warning Bells",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/warningbells/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "leviathan"
+  }
+]

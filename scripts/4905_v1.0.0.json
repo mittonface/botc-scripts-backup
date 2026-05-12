@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "name": "What did you just say?",
+    "author": "Amber"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "yaggababble"
+  }
+]

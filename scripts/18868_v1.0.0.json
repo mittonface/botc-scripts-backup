@@ -1,0 +1,62 @@
+[
+  {
+    "id": "_meta",
+    "name": "My Lord, My Lady",
+    "author": "boypower2566",
+    "bootlegger": [
+      "The Lord of Typhon receives a different demon token, but doesn't actually have that ability",
+      "Minions receive minion tokens in a Lord of Typhon game, rather than receiving good tokens and then being told they are minions afterwards."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

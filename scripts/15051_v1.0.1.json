@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Welcome to Court",
+    "author": "Lawst Dragon"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "ojo"
+  }
+]

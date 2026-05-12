@@ -1,0 +1,78 @@
+[
+  {
+    "id": "_meta",
+    "name": "Goat eyes",
+    "author": "BigBrainBen10",
+    "bootlegger": [
+      "if there are 7-9 players, there must be exactly 3 different good characters. 10-12, 4 different. 13-15, 5 different.",
+      "If the ojo misses, the demon kills no one",
+      "If the ojo hits, all players with that character die"
+    ]
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

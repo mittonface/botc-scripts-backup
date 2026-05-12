@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Small Town Blues",
+    "author": "Urban Minotaur",
+    "bootlegger": [
+      "This script is designed to be played with small player counts (7-9 players) but also works with more players.",
+      "To satisfy the Toymaker, the Demon must explicitly choose \"Toymaker\" the night they choose not to attack, and this does not count as a Po charge."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "toymaker"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Word",
+    "author": "slimy_asparagus"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "djinn"
+  }
+]

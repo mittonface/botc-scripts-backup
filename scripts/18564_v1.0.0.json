@@ -1,0 +1,59 @@
+[
+  {
+    "id": "_meta",
+    "name": "Tenuous Purgatory",
+    "author": "sgb",
+    "bootlegger": [
+      "If Lil' Monsta is summoned, the chosen player becomes the Devil's Advocate.",
+      "The Summoner doesn't get bluffs."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

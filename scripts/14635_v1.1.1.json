@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Princess is also the Dragon",
+    "author": "Luxray",
+    "bootlegger": [
+      "The Non-Boffin Hermit with the Damsel ability registers as the Damsel to the Huntsman during set-up and during the game.",
+      "If the Boffin gives the Demon the Hermit ability, it does not include the Heretic ability.",
+      "The Sweetheart ability cannot drunk players with the Heretic ability, and is the only ability that can droison the Poppy Grower."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

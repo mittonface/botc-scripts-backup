@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Script Item",
+    "author": "gnome_friend"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "kazali"
+  }
+]

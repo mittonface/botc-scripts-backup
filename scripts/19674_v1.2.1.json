@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Snakes & Bishop",
+    "author": "Maxsaurus",
+    "bootlegger": [
+      "The bishop is always in play and is secretly assigned to a player, in addition to their own character."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

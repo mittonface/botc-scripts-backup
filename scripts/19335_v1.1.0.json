@@ -1,0 +1,138 @@
+[
+  {
+    "id": "_meta",
+    "name": "Electioneering",
+    "author": "Tom O",
+    "firstNight": [
+      "dusk",
+      "lordoftyphon",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "xaan",
+      "organgrinder",
+      "amnesiac",
+      "washerwoman",
+      "chef",
+      "fortuneteller",
+      "dreamer",
+      "villageidiot",
+      "butler",
+      "spy",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "harlot",
+      "xaan",
+      "organgrinder",
+      "scarletwoman",
+      "imp",
+      "nodashii",
+      "lordoftyphon",
+      "barber",
+      "banshee",
+      "ravenkeeper",
+      "amnesiac",
+      "fortuneteller",
+      "dreamer",
+      "towncrier",
+      "villageidiot",
+      "butler",
+      "spy",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  }
+]

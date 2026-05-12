@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Tor-ror of it All",
+    "author": "Jo Mama",
+    "bootlegger": [
+      "The Cerenovus and Gambler both wake each night*.",
+      "The Librarian and Investigator learn names, but not roles. When they die, they learn what they themselves are. ",
+      "If a Player chooses someone that cannot be lawfully chosen (e.g. DA two nights in a row), they are not told to choose again. The ability does not work.",
+      "If the Golem does not have an ability anymore, their nomination does not count but is still run. Instead, the person with the highest number of eligible votes dies."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

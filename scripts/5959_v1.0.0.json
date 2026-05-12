@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Battle for Ravenswood Bluff",
+    "author": "Torinn"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  }
+]

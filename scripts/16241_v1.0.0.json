@@ -1,0 +1,70 @@
+[
+  {
+    "id": "_meta",
+    "name": "Minion Mad House",
+    "author": "Adam W",
+    "bootlegger": [
+      "All townsfolk are alchemists, all outsiders are drunks. Each minion ability can be held by at most 2 players."
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

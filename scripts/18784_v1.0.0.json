@@ -1,0 +1,56 @@
+[
+  {
+    "id": "_meta",
+    "name": "Attack of the Clones",
+    "author": "PogoFox",
+    "bootlegger": [
+      "There can be multiple of any of this script's characters in play.",
+      "The Demon does not receive any bluffs."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

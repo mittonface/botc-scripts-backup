@@ -1,0 +1,119 @@
+[
+  {
+    "id": "_meta",
+    "name": "The ability that i want to obtain?",
+    "author": "Nafsika",
+    "background": "https://lasectabotc.es/fondos/imagen/azXy4YGkZhIC7g___The%20Veil.jpg",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "minioninfo",
+      "yaggababble",
+      "demoninfo",
+      "sailor",
+      "engineer",
+      "lleech",
+      "amnesiac",
+      "dreamer",
+      "balloonist",
+      "nightwatchman",
+      "spy",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "engineer",
+      "pithag",
+      "imp",
+      "vigormortis",
+      "lleech",
+      "yaggababble",
+      "gossip",
+      "professor",
+      "amnesiac",
+      "farmer",
+      "moonchild",
+      "dreamer",
+      "balloonist",
+      "nightwatchman",
+      "spy",
+      "dawn"
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  }
+]

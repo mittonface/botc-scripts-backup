@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Buzzing",
+    "author": "Bees"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

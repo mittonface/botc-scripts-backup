@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "All-seeing Eye",
+    "author": "Riu Kujou"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "djinn"
+  }
+]

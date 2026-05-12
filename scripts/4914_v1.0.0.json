@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cry Wolf",
+    "author": "Druindo"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  }
+]

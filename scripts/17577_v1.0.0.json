@@ -1,0 +1,101 @@
+[
+  {
+    "id": "_meta",
+    "name": "Les Miserables",
+    "author": "Lauren",
+    "bootlegger": [
+      "If a Traveler travels out of their seat, it is not removed and remains an \"Empty Chair.\" ",
+      "Highly encouraged (but not enforced): Anyone claiming Dreamer and sharing info, preface it with \"I dreamed a dream\" ; Anyone claiming to be a twin pair or in a double claim, should refer to this as a \"Confrontation\"; The Chef number be referred to as X loaves of bread; Votes stolen by a thief should be referred to as \"bread\", The Harlot should be referred to as a \"Lovely Lady\"; If there is no death upon execution (whether caused by a Pacifist or not), the ST should state \"to love another person is to see the face of God\"; The Lil' Monsta should be referred to as the Little Cosette; If left alone in town, a player is welcome to sing \"On my own.\""
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

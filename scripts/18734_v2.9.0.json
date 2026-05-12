@@ -1,0 +1,99 @@
+[
+  {
+    "id": "_meta",
+    "name": "Al-Had Me at Hello",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a Poppygrower is in play, the Widow chooses a character to poison. When the Poppygrower dies, the Widow sees the grim, and if no player was chosen, the Widow chooses again.",
+      "If the Bounty Hunter claims Bounty Hunter when they nominate the Goblin, the Goblin has no ability for that nomination.",
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Slay the Dragon",
+    "author": "Luke Jones"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "judge"
+  }
+]

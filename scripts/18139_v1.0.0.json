@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The King's Folly",
+    "author": "strafe"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bigwig"
+  }
+]

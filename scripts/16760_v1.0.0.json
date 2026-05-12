@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Don't Count Your Ravens",
+    "author": "Hugo Vesper",
+    "bootlegger": [
+      "The Baron only adds 1 additional Outsider, rather than 2."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "toymaker"
+  }
+]

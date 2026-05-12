@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "WhosBrewing",
+    "author": "Zenitsu"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  }
+]

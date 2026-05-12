@@ -1,0 +1,141 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ho Ho Ho",
+    "author": "Zamith"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor",
+    "name": "Plague Doctor",
+    "team": "outsider",
+    "image": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png",
+    "setup": false,
+    "ability": "When you die, the Storyteller gains a Minion ability.",
+    "edition": "custom",
+    "reminders": [
+      "Storyteller Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "remindersGlobal": [],
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "lordoftyphon",
+    "name": "Lord of Typhon",
+    "team": "demon",
+    "image": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png",
+    "setup": true,
+    "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
+    "edition": "custom",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 28,
+    "remindersGlobal": [],
+    "firstNightReminder": "",
+    "otherNightReminder": "The Lord of Typhon points to a player. That player dies."
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "gnome",
+    "name": "Gnome",
+    "team": "traveler",
+    "image": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_gnome.png",
+    "setup": true,
+    "ability": "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them.",
+    "edition": "custom",
+    "reminders": [
+      "Amigo"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "angel"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Let's get this over with",
+    "author": "Mateo Price"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "apprentice"
+  }
+]

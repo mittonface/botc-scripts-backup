@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Bagman's Gambit",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/bagmansgambit/main/img/background.jpg",
+    "bootlegger": [
+      "If the Kazali chooses the Alsaahir on the First Night, a different good character might become the Alsaahir."
+    ],
+    "isOfficial": false
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

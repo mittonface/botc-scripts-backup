@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "Capgras's Solution",
+    "author": "iLogicL",
+    "bootlegger": [
+      "Minions can be duplicates.",
+      "Good players who nominate and execute a player of the same character learn their role.",
+      "Minions nominated and executed by someone of the same character keep their ability.",
+      "'Pit Hag' can make duplicates of good characters, minions made must be unique.",
+      "'Kalazi' can create duplicate minions.",
+      "Travellers are all the same character."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

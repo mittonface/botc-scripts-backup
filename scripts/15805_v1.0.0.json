@@ -1,0 +1,116 @@
+[
+  {
+    "id": "_meta",
+    "name": "Murder Mystery Dinner ver. 1.3",
+    "author": "Peter Trope King",
+    "bootlegger": [
+      "The Oracle is woken on night 1 to use their ability",
+      "Players may approach the Storyteller at any point during the day to make a guess as to their character. If successful, they can not die during that day."
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]

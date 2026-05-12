@@ -1,0 +1,533 @@
+[
+  {
+    "id": "_meta",
+    "name": "Shimmers in the fog",
+    "author": "Bart V",
+    "bootlegger": [],
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "minioninfo",
+      "summoner",
+      "demoninfo",
+      "poisoner",
+      "devilsadvocate",
+      "pixie",
+      "librarian",
+      "investigator",
+      "chef",
+      "fortuneteller",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "poisoner",
+      "monk",
+      "devilsadvocate",
+      "summoner",
+      "imp",
+      "fanggu",
+      "vortox",
+      "sweetheart",
+      "banshee",
+      "fortuneteller",
+      "undertaker",
+      "towncrier",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "librarian",
+    "name": "Librarian",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/librarian.png",
+    "setup": false,
+    "flavor": "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member.",
+    "jinxes": [],
+    "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Outsider",
+      "Wrong"
+    ],
+    "firstNight": 47,
+    "otherNight": 0,
+    "firstNightReminder": "Show the Outsider character token. Point to both the *OUTSIDER* and *WRONG* players.",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "investigator",
+    "name": "Investigator",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/investigator.png",
+    "setup": false,
+    "flavor": "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?",
+    "jinxes": [],
+    "ability": "You start knowing that 1 of 2 players is a particular Minion.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Minion",
+      "Wrong"
+    ],
+    "firstNight": 48,
+    "otherNight": 0,
+    "firstNightReminder": "Show the Minion character token. Point to both the *MINION* and *WRONG* players.",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "chef",
+    "name": "Chef",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/chef.png",
+    "setup": false,
+    "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange.",
+    "jinxes": [],
+    "ability": "You start knowing how many pairs of evil players there are.",
+    "edition": "trouble brewing",
+    "reminders": [],
+    "firstNight": 49,
+    "otherNight": 0,
+    "firstNightReminder": "Give a finger signal.",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "pixie",
+    "name": "Pixie",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/pixie.png",
+    "setup": false,
+    "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town.  Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me.",
+    "jinxes": [],
+    "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.",
+    "edition": "",
+    "reminders": [
+      "Mad",
+      "Has Ability"
+    ],
+    "firstNight": 42,
+    "otherNight": 0,
+    "firstNightReminder": "Show the Townsfolk character token marked *MAD*.",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/general.png",
+    "setup": false,
+    "flavor": "I don’t have time for quotes.",
+    "jinxes": [],
+    "ability": "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.",
+    "edition": "",
+    "reminders": [],
+    "firstNight": 69,
+    "otherNight": 87,
+    "firstNightReminder": "Give a thumb signal.",
+    "otherNightReminder": "Give a thumb signal."
+  },
+  {
+    "id": "fortuneteller",
+    "name": "Fortune Teller",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/fortuneteller.png",
+    "setup": false,
+    "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry.",
+    "jinxes": [],
+    "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Red Herring"
+    ],
+    "firstNight": 51,
+    "otherNight": 70,
+    "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+    "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*)."
+  },
+  {
+    "id": "towncrier",
+    "name": "Town Crier",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/towncrier.png",
+    "setup": false,
+    "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!",
+    "jinxes": [],
+    "ability": "Each night*, you learn if a Minion nominated today.",
+    "edition": "sects & violets",
+    "reminders": [
+      "Minions Not Nominated",
+      "Minion Nominated"
+    ],
+    "firstNight": 0,
+    "otherNight": 74,
+    "firstNightReminder": "",
+    "otherNightReminder": "Either nod or shake your head."
+  },
+  {
+    "id": "undertaker",
+    "name": "Undertaker",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/undertaker.png",
+    "setup": false,
+    "flavor": "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man.",
+    "jinxes": [],
+    "ability": "Each night*, you learn which character died by execution today.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Died Today"
+    ],
+    "firstNight": 0,
+    "otherNight": 71,
+    "firstNightReminder": "",
+    "otherNightReminder": "If a player was executed today, show their character token."
+  },
+  {
+    "id": "monk",
+    "name": "Monk",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/monk.png",
+    "setup": false,
+    "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe.",
+    "jinxes": [],
+    "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Safe"
+    ],
+    "firstNight": 0,
+    "otherNight": 20,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Monk chooses a player."
+  },
+  {
+    "id": "fisherman",
+    "name": "Fisherman",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/fisherman.png",
+    "setup": false,
+    "flavor": "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were.",
+    "jinxes": [],
+    "ability": "Once per game, during the day, visit the Storyteller for some advice to help your team win.",
+    "edition": "",
+    "reminders": [
+      "No Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "soldier",
+    "name": "Soldier",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/soldier.png",
+    "setup": false,
+    "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No.",
+    "jinxes": [],
+    "ability": "You are safe from the Demon.",
+    "edition": "trouble brewing",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "banshee",
+    "name": "Banshee",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/banshee.png",
+    "setup": false,
+    "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
+    "jinxes": [],
+    "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+    "edition": "",
+    "reminders": [
+      "Has Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 58,
+    "firstNightReminder": "",
+    "otherNightReminder": "If the Banshee was killed by the Demon tonight, announce to all players that the Banshee has died."
+  },
+  {
+    "id": "virgin",
+    "name": "Virgin",
+    "team": "townsfolk",
+    "image": "https://the-grim.app/icons/virgin.png",
+    "setup": false,
+    "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations.",
+    "jinxes": [],
+    "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "No Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "hermit",
+    "name": "Hermit",
+    "team": "outsider",
+    "image": "https://the-grim.app/icons/hermit.png",
+    "setup": true,
+    "flavor": "In the lost and forgotten places of the earth, the soul’s light beckons.",
+    "jinxes": [],
+    "ability": "You have all Outsider abilities. [-0 or -1 Outsider]",
+    "edition": "",
+    "reminders": [
+      "1",
+      "2",
+      "3"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "recluse",
+    "name": "Recluse",
+    "team": "outsider",
+    "image": "https://the-grim.app/icons/recluse.png",
+    "setup": false,
+    "flavor": "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!",
+    "jinxes": [],
+    "ability": "You might register as evil & as a Minion or Demon, even if dead.",
+    "edition": "trouble brewing",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "sweetheart",
+    "name": "Sweetheart",
+    "team": "outsider",
+    "image": "https://the-grim.app/icons/sweetheart.png",
+    "setup": false,
+    "flavor": "I will never forget her. Never.",
+    "jinxes": [],
+    "ability": "When you die, 1 player is drunk from now on.",
+    "edition": "sects & violets",
+    "reminders": [
+      "Drunk"
+    ],
+    "firstNight": 0,
+    "otherNight": 56,
+    "firstNightReminder": "",
+    "otherNightReminder": "If the Sweetheart died, a player became drunk immediately. If you haven't done this yet, do so now."
+  },
+  {
+    "id": "mutant",
+    "name": "Mutant",
+    "team": "outsider",
+    "image": "https://the-grim.app/icons/mutant.png",
+    "setup": false,
+    "flavor": "I am not a freak! I am a human being! Have mercy!",
+    "jinxes": [],
+    "ability": "If you are “mad” about being an Outsider, you might be executed.",
+    "edition": "sects & violets",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "poisoner",
+    "name": "Poisoner",
+    "team": "minion",
+    "image": "https://the-grim.app/icons/poisoner.png",
+    "setup": false,
+    "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!",
+    "jinxes": [],
+    "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Poisoned"
+    ],
+    "firstNight": 27,
+    "otherNight": 13,
+    "firstNightReminder": "The Poisoner chooses a player.",
+    "otherNightReminder": "The Poisoner chooses a player."
+  },
+  {
+    "id": "devilsadvocate",
+    "name": "Devil's Advocate",
+    "team": "minion",
+    "image": "https://the-grim.app/icons/devilsadvocate.png",
+    "setup": false,
+    "flavor": "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit.",
+    "jinxes": [],
+    "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die.",
+    "edition": "bad moon rising",
+    "reminders": [
+      "Survives Execution"
+    ],
+    "firstNight": 34,
+    "otherNight": 22,
+    "firstNightReminder": "The Devil's Advocate chooses a living player.",
+    "otherNightReminder": "The Devil's Advocate chooses a living player."
+  },
+  {
+    "id": "wraith",
+    "name": "Wraith",
+    "team": "minion",
+    "image": "https://the-grim.app/icons/wraith.png",
+    "setup": false,
+    "flavor": "",
+    "jinxes": [],
+    "ability": "You may choose to open your eyes at night. You wake when other evil players do.",
+    "edition": "",
+    "reminders": [],
+    "firstNight": 2,
+    "otherNight": 2,
+    "firstNightReminder": "Wake the Wraith whenever other evil players wake.",
+    "otherNightReminder": "Wake the Wraith whenever other evil players wake."
+  },
+  {
+    "id": "summoner",
+    "name": "Summoner",
+    "team": "minion",
+    "image": "https://the-grim.app/icons/summoner.png",
+    "setup": true,
+    "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+    "jinxes": [
+      {
+        "id": "clockmaker",
+        "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+      },
+      {
+        "id": "alchemist",
+        "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+      },
+      {
+        "id": "poppygrower",
+        "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+      },
+      {
+        "id": "marionette",
+        "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+      },
+      {
+        "id": "pithag",
+        "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+      },
+      {
+        "id": "hatter",
+        "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+      },
+      {
+        "id": "courtier",
+        "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+      },
+      {
+        "id": "engineer",
+        "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+      },
+      {
+        "id": "zombuul",
+        "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+      },
+      {
+        "id": "pukka",
+        "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+      },
+      {
+        "id": "legion",
+        "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+      },
+      {
+        "id": "kazali",
+        "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+      },
+      {
+        "id": "preacher",
+        "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+      },
+      {
+        "id": "lordoftyphon",
+        "reason": "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+      }
+    ],
+    "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+    "edition": "",
+    "reminders": [
+      "Night 1",
+      "Night 2",
+      "Night 3"
+    ],
+    "firstNight": 17,
+    "otherNight": 30,
+    "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+    "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token."
+  },
+  {
+    "id": "imp",
+    "name": "Imp",
+    "team": "demon",
+    "image": "https://the-grim.app/icons/imp.png",
+    "setup": false,
+    "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me.",
+    "jinxes": [],
+    "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 35,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Imp chooses a player.  If the Imp chose themselves: Replace 1 alive Minion token with a spare Imp token. Put the old Imp to sleep. Wake the new Imp. Show the *YOU ARE* token, then show the Imp token."
+  },
+  {
+    "id": "vortox",
+    "name": "Vortox",
+    "team": "demon",
+    "image": "https://the-grim.app/icons/vortox.png",
+    "setup": false,
+    "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find.",
+    "jinxes": [
+      {
+        "id": "banshee",
+        "reason": "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+      }
+    ],
+    "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+    "edition": "sects & violets",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 42,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Vortox chooses a player."
+  },
+  {
+    "id": "fanggu",
+    "name": "Fang Gu",
+    "team": "demon",
+    "image": "https://the-grim.app/icons/fanggu.png",
+    "setup": true,
+    "flavor": "Your walls and your weapons are but smoke in dreams.",
+    "jinxes": [],
+    "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
+    "edition": "sects & violets",
+    "reminders": [
+      "Dead",
+      "Once"
+    ],
+    "firstNight": 0,
+    "otherNight": 40,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Fang Gu chooses a player.  If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down."
+  }
+]

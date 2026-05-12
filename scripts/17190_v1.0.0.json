@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "name": "Neurotoxins",
+    "author": "Delinquent",
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "lleech",
+      "cerenovus",
+      "pukka",
+      "pixie",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "seamstress",
+      "noble",
+      "villageidiot",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "monk",
+      "cerenovus",
+      "scarletwoman",
+      "pukka",
+      "nodashii",
+      "vigormortis",
+      "lleech",
+      "sweetheart",
+      "banshee",
+      "empath",
+      "fortuneteller",
+      "towncrier",
+      "oracle",
+      "seamstress",
+      "villageidiot",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lleech"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "_meta",
+    "name": "Three-Ring Circus",
+    "author": "ktrav",
+    "bootlegger": [
+      "With 3 or 4 Players, There's -1 Minion",
+      "When the Marionette is the Only Minion with a Lil' Monsta, Marionette Always Holds Lil' Monsta",
+      "Demon Doesn't Learn the Marionette"
+    ]
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

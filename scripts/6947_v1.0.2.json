@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Color of the Sky",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/colorofthesky/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

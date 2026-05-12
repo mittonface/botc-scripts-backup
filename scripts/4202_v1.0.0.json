@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Tale of Heresy",
+    "author": "Alisa"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

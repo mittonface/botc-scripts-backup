@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ready, Aim, Fire",
+    "author": "SummerM",
+    "bootlegger": [
+      "A Gunslinger must be in play. The Gunslinger cannot be exiled until after at least one player has been killed by the Gunslinger.",
+      "Votes for Cults count for the Gunslinger ability."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

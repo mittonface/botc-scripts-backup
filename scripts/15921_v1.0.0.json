@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "3",
+    "author": "boypower2566",
+    "bootlegger": [
+      "Outsider and Minion Count is Arbitrary",
+      "Demons are not informed of Marionettes or Lunatics",
+      "There is no Evil Team Info",
+      "Both the Lunatic and the Demon receive demon tokens"
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

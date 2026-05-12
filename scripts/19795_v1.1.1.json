@@ -1,0 +1,75 @@
+[
+  {
+    "id": "_meta",
+    "name": "Publicity Crisis",
+    "author": "krangune",
+    "bootlegger": [
+      "The Storm Catcher Favours the Damsel"
+    ],
+    "firstNight": [
+      "dusk",
+      "stormcatcher",
+      "boffin",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "huntsman",
+      "damsel",
+      "clockmaker",
+      "balloonist",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "scarletwoman",
+      "imp",
+      "huntsman",
+      "damsel",
+      "balloonist",
+      "dawn"
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  },
+  {
+    "id": "sentinel"
+  }
+]

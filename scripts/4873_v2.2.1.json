@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Reaper Man v2.2.1",
+    "author": "Julian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "sentinel"
+  }
+]

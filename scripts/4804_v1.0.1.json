@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Deadly echoes",
+    "author": "Larry"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  }
+]

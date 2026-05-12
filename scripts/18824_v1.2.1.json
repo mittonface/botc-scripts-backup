@@ -1,0 +1,101 @@
+[
+  {
+    "id": "_meta",
+    "name": "Win Stupid Prizes",
+    "author": "Meeks",
+    "bootlegger": [
+      "If the Cannibal has the ability of the drunk Village Idiot, the Cannibal is drunk.",
+      "If another player gains the Balloonist ability, that night they learn a player of a different character type than the previously learned player.  "
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

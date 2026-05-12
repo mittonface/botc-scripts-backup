@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "Confessions of Octomom",
+    "author": "no joshii",
+    "bootlegger": [
+      "The Poppy Grower is stormcaught.",
+      "If there are more than two minions, extra minions must have the Evil Twin ability.",
+      "The Pixie must see either the Alchemist or the Poppy Grower.",
+      "The Alchemist must have the Evil Twin ability.",
+      "The Boffin must grant the Demon the Alchemist ability.",
+      "Good twins may take the place of their Evil Twins in a Typhon line."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "Fugue State",
+    "author": "SlimeRush",
+    "bootlegger": [
+      "The Fortune Teller gets a 0, 1, or 2 to represent the number of players they picked that register as the demon.",
+      "Players who choose a player their character would not ordinarily be able to choose, such as a Snake Charmer choosing the a dead player, they are Drunk for that night.",
+      "The Demon does not learn who the Lunatic is, nor who they choose at night.",
+      "Characters that think they are a different character (Drunk, Lunatic, etc.) learn that character when they die. "
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

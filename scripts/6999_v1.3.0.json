@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "One Night Scam v1.3",
+    "author": "Taulion"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "sentinel"
+  }
+]

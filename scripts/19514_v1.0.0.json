@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Knave is a Damsel.",
+    "author": "Touya",
+    "bootlegger": [
+      "The minion if they may choose, has to full claim to guess the Hermit-Damsel, before day 3.",
+      "If the huntsman chooses either Hermit or Damsel the other is drunk, the Hermit-Mutant and Saint ability's still work."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "knaves"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

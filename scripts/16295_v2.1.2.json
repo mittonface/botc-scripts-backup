@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Back to the Street",
+    "author": "Morwen",
+    "bootlegger": [
+      "Optional bootlegger rule: At the start of Day 1, the storyteller may announce \"This game is brought to you by the letter...\" and name a letter of the alphabet. At least one role beginning with that letter is guaranteed to be in the game."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

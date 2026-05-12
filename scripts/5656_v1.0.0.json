@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "ฉันรู้",
+    "author": "TheBob"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "leviathan"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "name": "Scotophobia",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/scotophobia/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  }
+]

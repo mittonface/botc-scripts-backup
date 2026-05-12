@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Eternal Bouquet",
+    "author": "Sylver"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

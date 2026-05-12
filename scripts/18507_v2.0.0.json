@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Pickle",
+    "author": "gmanthony",
+    "bootlegger": [
+      "At the beginning of the 1st night, the Storyteller wakes each Townsfolk player to make an Ogre pick, but only the Hermit can change alignments this way."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

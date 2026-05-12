@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Teensyville brewing",
+    "author": "98"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "imp"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Servant of Osiris",
+    "author": "Schnauzer"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "sentinel"
+  }
+]

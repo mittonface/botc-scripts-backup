@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Post-Coma Whiplash",
+    "author": "concavz",
+    "bootlegger": [
+      "Night 1 is directly followed by Night 2, which is directly followed by Night 3. Days 1 and 2 are skipped entirely.",
+      "Each night, instead of during the day, the Savant learns 2 things: 1 is true &amp; 1 is false.",
+      "The Artist and Fisherman may choose to use their ability at night.",
+      "Once a day, the General may privately ask for info from the Storyteller.",
+      "On Night 3, if the Snake Charmer charms a Minion, the Minion swaps characters and alignments &amp; is then poisoned."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

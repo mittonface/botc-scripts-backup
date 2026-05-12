@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://sublimaesthesia.com/botc/Delenn__B5-S1__Signs-and-Portents__Logo.png",
+    "name": "Signs and Portents",
+    "author": "Delenn",
+    "hideTitle": true,
+    "background": "https://sublimaesthesia.com/botc/Delenn__B5-S1__Signs-and-Portents__Background.png"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  }
+]

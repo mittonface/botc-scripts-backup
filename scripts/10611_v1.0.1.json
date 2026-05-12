@@ -1,0 +1,48 @@
+[
+  {
+    "id": "_meta",
+    "name": "Swords to Plowshares",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/swords2plowshares/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "sentinel"
+  }
+]

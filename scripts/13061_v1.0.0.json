@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "High Frequency",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/highfrequency/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "Growing Pains...",
+    "author": "Hodge"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "_meta",
+    "name": "Growing Pains...",
+    "author": "Hodge",
+    "bootlegger": [
+      "On night 2 the babysitter becomes a demon of their choice and acts, each night the demon chooses a new unique demon to become [+Lil Monsta].",
+      "If the demon becomes a Leviathan and one or more good characters have been executed, executing a good player causes evil to win",
+      "If the demon becomes a Leviathan after night 5, the next day counts as day 5 for the Leviathan's win condition."
+    ]
+  }
+]

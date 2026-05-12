@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "All Its Ruddy Splendor",
+    "author": "Emma"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

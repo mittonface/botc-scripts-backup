@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Enemy at the Gates",
+    "author": "Sky"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "djinn"
+  }
+]

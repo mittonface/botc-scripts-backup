@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "name": "Engineer This",
+    "author": "Cute Mage",
+    "bootlegger": [
+      "If the Lleech host dies and the Scarlet Woman is alive, healthy and sober, the Lleech lives and the Scarlet Woman becomes the new host.",
+      "The Engineer has been moved after all poisoning in the night order.",
+      "If there are 0 base Outsiders, add the Sentinel."
+    ],
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "lleech",
+      "xaan",
+      "poisoner",
+      "engineer",
+      "investigator",
+      "fortuneteller",
+      "steward",
+      "knight",
+      "ogre",
+      "general",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "poisoner",
+      "engineer",
+      "acrobat",
+      "scarletwoman",
+      "imp",
+      "nodashii",
+      "lleech",
+      "assassin",
+      "gossip",
+      "sweetheart",
+      "farmer",
+      "tinker",
+      "fortuneteller",
+      "oracle",
+      "general",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  }
+]

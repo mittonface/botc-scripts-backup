@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "name": "Good Ol' Fashioned Saloon Brawl v3",
+    "author": "realbradautry",
+    "bootlegger": [
+      "The Gambler might be a Minion. If a Minion Gambler guesses incorrectly, the guessed player dies that night instead; the Demon learns this and does not kill that night. (-1 minion)"
+    ]
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

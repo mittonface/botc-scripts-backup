@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Steven's Scary Hotel!",
+    "author": "bhamber",
+    "bootlegger": [
+      "Only 1 player can ever turn evil due to the Mezepheles ability."
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

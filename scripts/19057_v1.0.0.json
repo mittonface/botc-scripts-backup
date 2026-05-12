@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "What If Tiny King?",
+    "author": "Barnyard",
+    "bootlegger": [
+      "In 5-player games, the King learns info before final 3"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

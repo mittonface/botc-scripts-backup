@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whale-less Buffet",
+    "author": "Anonymous",
+    "bootlegger": [
+      "Each night, all living players pick any character of their type to become. If more than one copy of a character (dead or alive) is in play, one or more may be drunk. ",
+      "If an outsider selects the Drunk and is assigned a townsfolk role in play, that townsfolk is sober regardless of how many are in play."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "sentinel"
+  }
+]

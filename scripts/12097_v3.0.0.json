@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Identity Crisis",
+    "author": "Will"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "nodashii"
+  }
+]

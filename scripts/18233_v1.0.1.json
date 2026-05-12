@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Save it?",
+    "author": "Michael",
+    "bootlegger": [
+      "If the summoner dies before summoning the mastermind ability triggers.",
+      "If the summoner is the first ability to pick the goon at night, the summoner becomes the demon and the goon becomes evil."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

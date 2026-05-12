@@ -1,0 +1,152 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/X7y31scj/bsgrIcon.png",
+    "name": "Big Steel Guy's Revenge",
+    "author": "Mattie",
+    "bootlegger": [
+      "The Hatter's ability activates in its night order spot (even if it became healthy since dying).",
+      "The Xaan's ability activates immediately if it enters play during night X."
+    ],
+    "firstNight": [
+      "dusk",
+      "yaggababble",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "xaan",
+      "engineer",
+      "godfather",
+      "devilsadvocate",
+      "harpy",
+      "pukka",
+      "pixie",
+      "amnesiac",
+      "seamstress",
+      "balloonist",
+      "bountyhunter",
+      "general",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "harlot",
+      "sailor",
+      "xaan",
+      "innkeeper",
+      "engineer",
+      "devilsadvocate",
+      "pithag",
+      "harpy",
+      "pukka",
+      "ojo",
+      "yaggababble",
+      "godfather",
+      "amnesiac",
+      "tinker",
+      "moonchild",
+      "hatter",
+      "seamstress",
+      "balloonist",
+      "bountyhunter",
+      "general",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "One and Done",
+    "author": "Miles 2 Go"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  }
+]

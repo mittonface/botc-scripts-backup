@@ -1,0 +1,145 @@
+[
+  {
+    "id": "_meta",
+    "name": "Laplace’s Angel",
+    "author": "Coral 🪸",
+    "bootlegger": [
+      "Minions are Angel protected.",
+      "The Hermit counts as a Damsel to the Huntsman's ability &amp; the Pit-Hag-Damsel jinx."
+    ],
+    "firstNight": [
+      "dusk",
+      "angel",
+      "barista",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "snakecharmer",
+      "organgrinder",
+      "devilsadvocate",
+      "huntsman",
+      "damsel",
+      "noble",
+      "balloonist",
+      "general",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "barista",
+      "philosopher",
+      "snakecharmer",
+      "organgrinder",
+      "devilsadvocate",
+      "pithag",
+      "fanggu",
+      "nodashii",
+      "vortox",
+      "hatter",
+      "sweetheart",
+      "sage",
+      "huntsman",
+      "damsel",
+      "ravenkeeper",
+      "juggler",
+      "balloonist",
+      "general",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "angel"
+  }
+]

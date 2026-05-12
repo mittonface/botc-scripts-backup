@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Six-fingered Whale",
+    "author": "Myrion",
+    "bootlegger": [
+      "The Storyteller always announces what day it is, irrespective of whether Leviathan is in play."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

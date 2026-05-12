@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Dead Shall Rise Again",
+    "author": "SummerM",
+    "bootlegger": [
+      "The Voudon must be in play at the beginning of the game.",
+      "The Voudon cannot be exiled until at least the 4th day."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

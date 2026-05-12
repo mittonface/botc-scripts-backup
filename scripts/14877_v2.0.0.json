@@ -1,0 +1,117 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Growing",
+    "author": "Rovortox",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "poisoner",
+      "godfather",
+      "witch",
+      "washerwoman",
+      "librarian",
+      "investigator",
+      "empath",
+      "fortuneteller",
+      "clockmaker",
+      "seamstress",
+      "spy",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "poisoner",
+      "monk",
+      "witch",
+      "imp",
+      "shabaloth",
+      "fanggu",
+      "godfather",
+      "gossip",
+      "moonchild",
+      "ravenkeeper",
+      "empath",
+      "fortuneteller",
+      "undertaker",
+      "seamstress",
+      "spy",
+      "dawn"
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "fanggu"
+  }
+]

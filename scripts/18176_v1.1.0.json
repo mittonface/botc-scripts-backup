@@ -1,0 +1,112 @@
+[
+  {
+    "id": "_meta",
+    "name": "Speak, Evil",
+    "author": "ThePrettyOneVi",
+    "bootlegger": [
+      "Each living evil player may contribute up to one kill each day by publicly speaking the Yaggababble phrase."
+    ],
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "yaggababble",
+      "minioninfo",
+      "demoninfo",
+      "widow",
+      "mezepheles",
+      "damsel",
+      "amnesiac",
+      "steward",
+      "balloonist",
+      "shugenja",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "gambler",
+      "mezepheles",
+      "yaggababble",
+      "assassin",
+      "damsel",
+      "amnesiac",
+      "tinker",
+      "towncrier",
+      "oracle",
+      "balloonist",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

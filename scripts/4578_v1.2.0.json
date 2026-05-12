@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Court Has Assembled",
+    "author": "Etreides"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "duchess"
+  }
+]

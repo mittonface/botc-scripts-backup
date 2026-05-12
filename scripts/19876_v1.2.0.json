@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Sanitarium",
+    "author": "Winchester",
+    "bootlegger": [
+      "The Snake Charmer may target dead players. A Zombuul misregestering as dead if targeted will become a drunk living Snake Charmer or a dead Snake Charmer."
+    ]
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

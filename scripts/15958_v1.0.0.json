@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Leviathan Wakes",
+    "author": "Kenoboi",
+    "bootlegger": [
+      "The Cult Leader's ability reads: \"Each night, you learn the alignment of one of your alive neighbors.  If all good players choose to join your cult, you become that alignment and your team wins.\" ",
+      "The Pithag Heretic Jinx reads: \"A Pit-Hag cannot create a Heretic.\" This also applies to Hermit. ",
+      "If Riot is made drunk during day 3, Minions become Riot and the Riot activates as soon as Riot is sober.  ",
+      "The Leviathan is never announced."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

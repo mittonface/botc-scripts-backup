@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Moment of Truth",
+    "author": "Aaron"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "lleech"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sheoldred's Edict",
+    "author": "no joshii",
+    "bootlegger": [
+      "If no player dies for two consecutive day/night cycles, the game ends and both teams lose. The first night does not count.",
+      "Each night, if the storyteller believes that the demon is sinking kills to avoid what will be an otherwise inevitable game loss for evil by forcing a tie, deaths that night are arbitrary.",
+      "Changes from BMR: pacifist -> acrobat //////// innkeeper -> monk //////// courtier -> high priestess //////// minstrel -> alchemist //////// lunatic -> golem //////// mastermind -> poisoner"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

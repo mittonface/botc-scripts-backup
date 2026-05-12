@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/1RGDzhFT/The-Hand-The-Hat-The-Horns.png",
+    "name": "The Hand, The Hat, & The Horns",
+    "author": "Vivid",
+    "hideTitle": true,
+    "background": "https://i.postimg.cc/3JRHN06c/background4.jpg"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

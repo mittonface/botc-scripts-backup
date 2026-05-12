@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Kingdom Falls",
+    "author": ""
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  }
+]

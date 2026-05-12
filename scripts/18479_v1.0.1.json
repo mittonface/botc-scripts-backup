@@ -1,0 +1,96 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Scary Door",
+    "author": "Mc.Gnolan",
+    "bootlegger": [
+      "The Fortune Teller is told the number of players that registered to them as a demon each night. ",
+      "The Puzzlemaster must choose to use their guess at night as a 'Once per game' ability.",
+      "The Demon is not told that the Lunatic is in play",
+      "The Demon is not told that the Boffin is granting them a not-in-play good character's ability or which.",
+      "The Assassin can use their ability on the first night.",
+      "Any character that choses a player on their first must be \"Mad\" about having the Butler's ability"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "_meta",
+    "name": "Least used characters",
+    "author": "BigBrainBen10",
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "lordoftyphon",
+      "minioninfo",
+      "snitch",
+      "demoninfo",
+      "king",
+      "engineer",
+      "preacher",
+      "courtier",
+      "wizard",
+      "eviltwin",
+      "butler",
+      "cultleader",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "engineer",
+      "preacher",
+      "courtier",
+      "wizard",
+      "exorcist",
+      "princess",
+      "lordoftyphon",
+      "sage",
+      "professor",
+      "choirboy",
+      "king",
+      "cultleader",
+      "butler",
+      "dawn"
+    ]
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "godofug"
+  }
+]

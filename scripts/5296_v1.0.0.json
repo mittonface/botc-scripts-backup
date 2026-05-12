@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "",
+    "author": "Not Me"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  }
+]

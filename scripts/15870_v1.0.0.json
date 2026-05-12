@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "An Eldritch Memory",
+    "author": "Qaday",
+    "bootlegger": [
+      "The Cerenovous does not pick a good character. The Storyteller will choose what character the selected player is mad as.",
+      "Minions do not know that a Damsel is in play.",
+      "Each night, the General chooses a player. This doesn't do anything but open the possibility that they are a village idiot. ",
+      "The Alchemist with the Marionette ability will choose a player each night*. The Marionette, if in play and chosen, will become the good townsfolk they think they are and recieve correct information.",
+      "The Oracle will wake on the first night and learn a 0.",
+      "If a player were to wake up at night and choose a player they cannot (i.e. the Snake Charmer choosing a dead player), they will not be told they are not allowed to select the player, and will instead be drunk that night.",
+      "The Leviathan only wins from executions if 2 good players are killed from consecutive executions."
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

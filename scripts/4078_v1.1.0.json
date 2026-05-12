@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Choose Your Own Adventure",
+    "author": "Jake"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "thief"
+  }
+]

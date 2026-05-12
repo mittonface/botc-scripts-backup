@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Tribe has Spoken",
+    "author": "Renya the Good Witch",
+    "bootlegger": [
+      "Alchemist–Mezepheles:The first evil player to say the secret word changes alignment the following night. The player is not told their alignment has changed.",
+      "If a Legion player is turned good by Alchemist–Mezepheles while the Poppy Grower is alive and not poisoned, that player does not wake with the evil Legion, even if the Poppy Grower later becomes poisoned or dies.",
+      "If the Poppy Grower becomes drunk, poisoned, or leaves play, Minions & Demons learn who each other are that night.",
+      "Alchemist-Mezepheles: A lycanthrope faux pas may register as a evil for the purpose of their ability."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

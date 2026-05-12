@@ -1,0 +1,116 @@
+[
+  {
+    "id": "_meta",
+    "name": "Behind Closed Doors",
+    "author": "the Cat's Eye Nebula",
+    "bootlegger": [
+      "A drunk and/or poisoned player might think they have another character's ability.",
+      "The Evil Twin and Good Twin might learn their own character instead of their twin's.",
+      "If the Barber died today or tonight, the Storyteller might choose two players to swap characters instead of waking the Demon to.",
+      "Minions do not wake together to decide who babysits Lil' Monsta. Instead, the Storyteller either makes that decision or wakes a Minion to.",
+      "The Vizier might be poisoned at any time."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

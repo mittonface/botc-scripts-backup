@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "My Funny Valentine",
+    "author": "Stormblessed (N.W.)",
+    "bootlegger": [
+      "The Knight and the Princess learn if the Damsel is in play. If either publicly guesses the Damsel correctly (once), the other becomes evil and the good team wins."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

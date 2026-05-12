@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dying to Believe",
+    "author": "George"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

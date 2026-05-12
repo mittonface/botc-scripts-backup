@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Potluck",
+    "author": "Mr. Business",
+    "bootlegger": [
+      "On the 3rd night, a \"Potluck\" occurs. At the start of the 3rd night, all players can raise their hand if they want to join the potluck. Good players that join the potluck will submit their character to the pot. Evil players that join the potluck will individually wake to select a not-in-play character they are bluffing. If the character selected by an evil player is not-in-play, that role is added to the pot. Otherwise, they do not join the potluck. All players that entered the potluck will receive a new character from the pot. Evil players that joined the potluck only learn a new character (now an out-of-play bluff) and do not change characters. If a good player recieves an evil player's bluff as their new role, they are drunk."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

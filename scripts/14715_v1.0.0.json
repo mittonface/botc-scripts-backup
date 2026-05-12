@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Stakeout",
+    "author": "Schnauzer",
+    "almanac": "https://schnauzerclub.neocities.org/scripts/thestakeout",
+    "bootlegger": [
+      "The Storm Catcher favors the Mathematician.",
+      "The Storm Catcher favors the Alsaahir.",
+      "When 5 players live, storm caught characters are no longer safe.",
+      "(Optional) If the Drunk thinks they are storm caught, the evil team learn who & which character.",
+      "(Optional) Misregistering is always 'abnormal.' Registering correctly is never 'abnormal.'"
+    ]
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

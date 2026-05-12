@@ -1,0 +1,78 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cult of liars",
+    "author": "K. N. Linden",
+    "bootlegger": [
+      "There are no minions in the bag, instead there are that many extra outsiders.",
+      "The Cult leader wakes before the Bounty Hunter.",
+      "When the Plague Doctor dies, the demon gains a Minion ability instead."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

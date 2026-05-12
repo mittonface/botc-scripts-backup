@@ -1,0 +1,137 @@
+[
+  {
+    "id": "_meta",
+    "name": "beyond all ideas",
+    "author": "Coral 🪸",
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "wizard",
+      "godfather",
+      "pukka",
+      "pixie",
+      "damsel",
+      "amnesiac",
+      "fortuneteller",
+      "seamstress",
+      "balloonist",
+      "villageidiot",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "bonecollector",
+      "wizard",
+      "gambler",
+      "scarletwoman",
+      "legion",
+      "imp",
+      "pukka",
+      "ojo",
+      "assassin",
+      "godfather",
+      "damsel",
+      "amnesiac",
+      "fortuneteller",
+      "seamstress",
+      "juggler",
+      "balloonist",
+      "villageidiot",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bishop"
+  }
+]

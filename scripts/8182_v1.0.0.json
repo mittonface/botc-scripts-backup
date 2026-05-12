@@ -1,0 +1,121 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ginzan Onsen",
+    "author": "Nafsika",
+    "background": "https://lasectabotc.es/fondos/imagen/azXy4YGkZhIC7g___The%20Veil.jpg",
+    "firstNight": [
+      "dusk",
+      "poppygrower",
+      "minioninfo",
+      "magician",
+      "demoninfo",
+      "marionette",
+      "lunatic",
+      "lleech",
+      "godfather",
+      "devilsadvocate",
+      "cerenovus",
+      "pixie",
+      "amnesiac",
+      "seamstress",
+      "knight",
+      "noble",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "innkeeper",
+      "gambler",
+      "devilsadvocate",
+      "cerenovus",
+      "lunatic",
+      "fanggu",
+      "ojo",
+      "lleech",
+      "godfather",
+      "barber",
+      "amnesiac",
+      "farmer",
+      "towncrier",
+      "seamstress",
+      "dawn"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  }
+]

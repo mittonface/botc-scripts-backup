@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Zoinks Scoob!",
+    "author": "Jason Goode"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "wizard",
+    "name": "Wizard",
+    "team": "minion",
+    "image": [
+      "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_wizard.png"
+    ],
+    "setup": false,
+    "ability": "Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.",
+    "edition": "Expiremental",
+    "reminders": [
+      "Wish TBD"
+    ],
+    "firstNight": 29,
+    "otherNight": 15,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "boffin",
+    "name": "Boffin",
+    "team": "minion",
+    "image": [
+      "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png"
+    ],
+    "setup": false,
+    "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.",
+    "edition": "Expiremental",
+    "reminders": [
+      "Is the Boffin"
+    ],
+    "firstNight": 7,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  }
+]

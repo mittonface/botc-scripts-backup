@@ -1,0 +1,45 @@
+[
+  {
+    "id": "_meta",
+    "name": "Raise the Boards",
+    "author": "eben",
+    "background": "https://raw.githubusercontent.com/enthusiastick/raisetheboards/main/img/background.jpg",
+    "isOfficial": false
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  }
+]

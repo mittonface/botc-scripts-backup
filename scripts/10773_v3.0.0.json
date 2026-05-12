@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Thoughts to the max V0.3",
+    "author": "Sun"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "villageidiot",
+    "name": "Village Idiot",
+    "team": "townsfolk",
+    "image": "https://media.discordapp.net/attachments/708509594758152203/1200240167412314174/village_idiot.png?ex=65ceb043&is=65bc3b43&hm=e23c50757809fa924c853117d4fe73d089770e764325c9dabc08509a66a28d69&=&format=webp&quality=lossless&width=662&height=662",
+    "setup": true,
+    "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+    "reminders": [
+      "Drunk"
+    ],
+    "firstNight": 45.2,
+    "otherNight": 62.1,
+    "firstNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+    "otherNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil."
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  }
+]

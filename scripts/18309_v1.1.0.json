@@ -1,0 +1,132 @@
+[
+  {
+    "id": "_meta",
+    "name": "Free Loadout",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "Tor Rulings: Do not follow strict night order. The Oracle wakes each night. The Demon learns of the King, the Lunatic and the Marionette only when those roles die. If a player changes roles, they learn only that. The Demon does not learn their boffin ability. When in doubt, obfuscate role learning information.",
+      "As long as Vigormortis is in play, Vigormortis killed minions retain their abilities.",
+      "Nimrod (Loric): If the Sentinel added or removed an outsider, the first player to die learns this (yes or no)."
+    ],
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "king",
+      "marionette",
+      "poisoner",
+      "snakecharmer",
+      "pixie",
+      "empath",
+      "butler",
+      "steward",
+      "bountyhunter",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "snakecharmer",
+      "monk",
+      "lunatic",
+      "lycanthrope",
+      "legion",
+      "nodashii",
+      "vigormortis",
+      "sweetheart",
+      "farmer",
+      "tor",
+      "empath",
+      "oracle",
+      "king",
+      "bountyhunter",
+      "butler",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

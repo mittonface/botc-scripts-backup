@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Everybody Dies",
+    "author": "Villagebuster"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

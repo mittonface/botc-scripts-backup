@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Late Night Brew",
+    "author": "Essaria"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  }
+]

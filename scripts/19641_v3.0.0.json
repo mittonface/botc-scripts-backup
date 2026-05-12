@@ -1,0 +1,142 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/13BgSvXb/Skadoosh-Square.png",
+    "name": "Skadoosh.",
+    "author": "~Cam~",
+    "hideTitle": true,
+    "bootlegger": [
+      "Summoner-Lunatic Optional Rule; The Lunatic might think they are a Townsfolk. If they survive until night 3, they believe they become the Demon"
+    ],
+    "firstNight": [
+      "dusk",
+      "barista",
+      "minioninfo",
+      "lunatic",
+      "summoner",
+      "demoninfo",
+      "poisoner",
+      "courtier",
+      "snakecharmer",
+      "godfather",
+      "pixie",
+      "investigator",
+      "fortuneteller",
+      "seamstress",
+      "steward",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "barista",
+      "bonecollector",
+      "poisoner",
+      "courtier",
+      "innkeeper",
+      "snakecharmer",
+      "scarletwoman",
+      "summoner",
+      "lunatic",
+      "exorcist",
+      "po",
+      "assassin",
+      "godfather",
+      "farmer",
+      "tinker",
+      "fortuneteller",
+      "seamstress",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

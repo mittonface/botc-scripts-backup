@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "Ichiban'ue",
+    "author": "Hazel Quill"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "leviathan"
+  }
+]

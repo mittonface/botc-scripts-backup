@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "What's My Team Again?",
+    "author": "McBehrer"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  }
+]

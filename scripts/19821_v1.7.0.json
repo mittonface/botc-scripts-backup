@@ -1,0 +1,135 @@
+[
+  {
+    "id": "_meta",
+    "name": "Burgertown Bile",
+    "author": "South",
+    "almanac": "https://www.bloodstar.xyz/p/South/_Homebrew/almanac.html",
+    "firstNight": [
+      "dusk",
+      "lordoftyphon",
+      "thief",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "poisoner",
+      "godfather",
+      "cerenovus",
+      "pixie",
+      "librarian",
+      "investigator",
+      "empath",
+      "dreamer",
+      "noble",
+      "ogre",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "thief",
+      "bonecollector",
+      "poisoner",
+      "monk",
+      "cerenovus",
+      "scarletwoman",
+      "exorcist",
+      "princess",
+      "imp",
+      "lordoftyphon",
+      "godfather",
+      "hatter",
+      "farmer",
+      "ravenkeeper",
+      "empath",
+      "dreamer",
+      "oracle",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  }
+]

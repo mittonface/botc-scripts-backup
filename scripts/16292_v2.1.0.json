@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "You Know Nothing",
+    "author": "Julian (cb)",
+    "bootlegger": [
+      "If a player who thinks they are good wakes due to their ability, or a gained ability, they only wake on the first night that ability is active.",
+      "Players must publicly annouce they are visiting the Duchess.",
+      "Players who receive the Lunatic or Leviathan tokens might be either the Lunatic or Leviathan."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "djinn"
+  }
+]

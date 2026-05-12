@@ -1,0 +1,60 @@
+[
+  {
+    "id": "_meta",
+    "name": "Plotting Prodders Poking Peering Personages",
+    "author": "Dash",
+    "bootlegger": [
+      "If a player selects another player that does not match the criteria of their ability (e.g., \"living\" for Sailor, Snake Charmer, and DA and \"different than last night\" for DA), they become drunk until dusk.",
+      "Players learn when their character or alignment has changed, but not to what it has changed.",
+      "If a Pukka selects themself with their ability, they become drunk until dusk. This means that the \"previously poisoned player\" does not change until the Pukka selects a player other than themself."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "sentinel"
+  }
+]

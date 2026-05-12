@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "name": "Thor",
+    "author": "Robby",
+    "bootlegger": [
+      "The Demon does not get any bluffs. Instead, each player may privately request bluffs once per game at day, but only the Demon is guranteed to get correct info.",
+      "The Poppy Grower counts as an Outsider",
+      "The Oracle also wakes on Night 1."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "fibbin"
+  },
+  {
+    "id": "ferryman"
+  },
+  {
+    "id": "sentinel"
+  }
+]

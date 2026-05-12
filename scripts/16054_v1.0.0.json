@@ -1,0 +1,50 @@
+[
+  {
+    "id": "_meta",
+    "name": "Tip Of My Tongue",
+    "author": "Maid & Shadow Knight",
+    "bootlegger": [
+      "The Demon does not learn the Marionette.",
+      "Players that choose a player on the first night also have the Butler ability, and cannot choose themselves."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

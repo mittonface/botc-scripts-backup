@@ -1,0 +1,134 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://files.catbox.moe/vb0l2n.png",
+    "name": "Getting Picked in Kickball",
+    "author": "Alexis",
+    "hideTitle": true,
+    "background": "https://files.catbox.moe/a02pcd.jpg",
+    "bootlegger": [
+      "Evil players do not know each other. If a player publicly guesses (once per player) which players are Minion(s) and which is the Demon, their team wins."
+    ],
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "kickball",
+      "minioninfo",
+      "snitch",
+      "demoninfo",
+      "xaan",
+      "poisoner",
+      "cerenovus",
+      "fearmonger",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "dreamer",
+      "seamstress",
+      "steward",
+      "balloonist",
+      "nightwatchman",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "poisoner",
+      "cerenovus",
+      "fearmonger",
+      "nodashii",
+      "vortox",
+      "vigormortis",
+      "ojo",
+      "barber",
+      "ravenkeeper",
+      "empath",
+      "fortuneteller",
+      "undertaker",
+      "dreamer",
+      "seamstress",
+      "juggler",
+      "balloonist",
+      "nightwatchman",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

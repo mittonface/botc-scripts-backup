@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://release.botc.app/wc25/trainedkiller/logo.webp",
+    "name": "Trained Killer",
+    "author": "Ekin",
+    "hideTitle": true,
+    "background": "https://release.botc.app/wc25/background.webp",
+    "bootlegger": [
+      "Each night*, the Demon attacks the next living in-play character(s) in script order. Characters who survive might get reattacked."
+    ]
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  }
+]

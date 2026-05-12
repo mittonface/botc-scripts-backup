@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Levitation",
+    "author": "Hallow"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "sentinel"
+  }
+]

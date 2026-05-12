@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whose Line is it Anyway? 1.0.2",
+    "author": "Elise",
+    "bootlegger": [
+      "Players who do not wake on the first night start knowing a phrase. If they ever are or become the mezepheles or yagababble, that is their phrase.",
+      "The demon does not learn the king or the lunatic. Minions learn if and when they were preached only when they die."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

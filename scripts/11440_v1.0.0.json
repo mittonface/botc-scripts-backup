@@ -1,0 +1,101 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bloodtower Brawl",
+    "author": "Swampert",
+    "background": "https://wallpaperaccess.com/full/2773801.jpg"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "toymaker"
+  }
+]

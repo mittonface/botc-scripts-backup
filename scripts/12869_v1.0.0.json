@@ -1,0 +1,64 @@
+[
+  {
+    "id": "_meta",
+    "name": "Welcome to Clocktower",
+    "author": "Galaxy"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  }
+]

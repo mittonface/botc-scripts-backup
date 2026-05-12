@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sunglasses at Night",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a player is mad that the Wraith is the Wraith, they might die.",
+      "If a Vigormortis ability is active, any minions killed by a Vigormortis have their abilities.",
+      "A Monk protected player is unaffected by abilities of a player holding the Lil' Monsta.",
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk.",
+      "Play Note: Recommend waking the Wraith before an Evil turned Goon so they have an option to close their eyes before the Goon learns them."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

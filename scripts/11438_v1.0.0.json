@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "name": "Library of Alexandria",
+    "author": "Schnauzer",
+    "bootlegger": [
+      "Bad Translation: An evil Librarian might learn false information.",
+      "Already Mummified: A dead Kazali may not choose to live if chosen by the Al-Hadikhia."
+    ],
+    "firstNight": [
+      "dusk",
+      "kazali",
+      "minioninfo",
+      "demoninfo",
+      "engineer",
+      "snakecharmer",
+      "alchemist",
+      "cerenovus",
+      "fearmonger",
+      "organgrinder",
+      "ogre",
+      "knight",
+      "librarian",
+      "villageidiot",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "minstrel",
+      "innkeeper",
+      "engineer",
+      "snakecharmer",
+      "pithag",
+      "cerenovus",
+      "fearmonger",
+      "organgrinder",
+      "kazali",
+      "alhadikhia",
+      "farmer",
+      "banshee",
+      "oracle",
+      "villageidiot",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

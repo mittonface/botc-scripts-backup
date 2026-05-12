@@ -1,0 +1,108 @@
+[
+  {
+    "id": "_meta",
+    "name": "Turbulence Boiling",
+    "author": "Urban Minotaur",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "widow",
+      "godfather",
+      "devilsadvocate",
+      "cerenovus",
+      "clockmaker",
+      "steward",
+      "balloonist",
+      "bountyhunter",
+      "nightwatchman",
+      "cultleader",
+      "ogre",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "innkeeper",
+      "devilsadvocate",
+      "cerenovus",
+      "exorcist",
+      "fanggu",
+      "godfather",
+      "sage",
+      "juggler",
+      "balloonist",
+      "bountyhunter",
+      "nightwatchman",
+      "cultleader",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fanggu"
+  }
+]

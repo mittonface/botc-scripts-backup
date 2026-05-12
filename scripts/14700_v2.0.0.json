@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Here for a Good Time, Not a Long Time",
+    "author": "Junta",
+    "barColor": "#1e1925",
+    "isOfficial": true,
+    "description": "A script where players die early or are willing to sacrifice themselves early for info. This impulse is tempered by the presence of Boomdandy. Intended to have multiple nights of multiple deaths so town needs to get all their information quickly. Extra deaths are caused entirely by the townsfolk and minions, not the demons.\n\nTownsfolk: Gambler, Fisherman, & Cannibal are key components to the script. Gambler provides confirmation at the risk of death. Fisherman provides helpful town information and a willing sacrifice. Cannibal to enable sacrificial townsfolk.\n\nOutsiders: All quiet outsiders to foil town's information. Strong targets for the Fang Gu and hidden tentacles for the No Dashii. Barber to allow for the No Dashii to move or reset Assassin.\n\nMinions: Godfather to provide extra deaths to hide/obscure Gambler/Gossip. Poisoner to assist with possible No Dashii worlds. Assassin for additional kills. Boomdandy to speed up the game.\n\nDemons: Single kill demons only. No Dashii for additional misinformation. Imp for simplicity and mobility. Fang Gu for ultimate mobility and potential +1 Evil."
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

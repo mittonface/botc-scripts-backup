@@ -1,0 +1,134 @@
+[
+  {
+    "id": "_meta",
+    "name": "Death is Not the End in Ravenswood Bluff",
+    "author": "Cute Mage",
+    "bootlegger": [
+      "Good players who become a Traveller are just told that their alignment hasn't changed. If a Marionette becomes a Traveller, they are told their alignment hasn't changed and they aren't told who the Demon is. If a Marionette becomes the Apprentice, they think they gain a Townsfolk ability, but are actually the Apprentice Marionette.",
+      "If the Demon would become a Traveller, a living Minion becomes the Demon."
+    ],
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "witch",
+      "pixie",
+      "investigator",
+      "chef",
+      "seamstress",
+      "noble",
+      "villageidiot",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "cacklejack",
+      "harlot",
+      "bonecollector",
+      "witch",
+      "imp",
+      "nodashii",
+      "farmer",
+      "ravenkeeper",
+      "seamstress",
+      "juggler",
+      "villageidiot",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

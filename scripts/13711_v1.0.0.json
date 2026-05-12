@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Xoanon",
+    "author": "mole",
+    "hideTitle": true,
+    "bootlegger": [
+      "The Hermit may believe they are a townsfolk, minion, or demon. Demons only learn the Hermit as a Lunatic if the Hermit was shown a demon token, otherwise, the demon does not know the Hermit."
+    ]
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "yaggababble"
+  }
+]

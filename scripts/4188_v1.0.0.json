@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Are you trying to Win or Lose?",
+    "author": "Silph"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "leviathan"
+  }
+]

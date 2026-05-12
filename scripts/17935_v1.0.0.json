@@ -1,0 +1,606 @@
+[
+  {
+    "id": "_meta",
+    "name": "Monkeys with Bazookas",
+    "author": "KrullenMark",
+    "bootlegger": [],
+    "firstNight": [
+      "dusk",
+      "lordoftyphon",
+      "boffin",
+      "poppygrower",
+      "minioninfo",
+      "demoninfo",
+      "engineer",
+      "wizard",
+      "damsel",
+      "amnesiac",
+      "clockmaker",
+      "dreamer",
+      "highpriestess",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "engineer",
+      "wizard",
+      "monk",
+      "lycanthrope",
+      "shabaloth",
+      "po",
+      "vortox",
+      "lordoftyphon",
+      "damsel",
+      "amnesiac",
+      "dreamer",
+      "highpriestess",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "clockmaker",
+    "name": "Clockmaker",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/clockmaker.png",
+    "setup": false,
+    "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work.",
+    "jinxes": [],
+    "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
+    "edition": "sects & violets",
+    "reminders": [],
+    "firstNight": 54,
+    "otherNight": 0,
+    "firstNightReminder": "Give a finger signal.",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "highpriestess",
+    "name": "High Priestess",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/highpriestess.png",
+    "setup": false,
+    "flavor": "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep.",
+    "jinxes": [],
+    "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+    "edition": "",
+    "reminders": [],
+    "firstNight": 68,
+    "otherNight": 86,
+    "firstNightReminder": "Point to a player.",
+    "otherNightReminder": "Point to a player."
+  },
+  {
+    "id": "chambermaid",
+    "name": "Chambermaid",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/chambermaid.png",
+    "setup": false,
+    "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss.",
+    "jinxes": [],
+    "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
+    "edition": "bad moon rising",
+    "reminders": [],
+    "firstNight": 70,
+    "otherNight": 88,
+    "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
+    "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal."
+  },
+  {
+    "id": "dreamer",
+    "name": "Dreamer",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/dreamer.png",
+    "setup": false,
+    "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke.",
+    "jinxes": [],
+    "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
+    "edition": "sects & violets",
+    "reminders": [],
+    "firstNight": 55,
+    "otherNight": 72,
+    "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+    "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character."
+  },
+  {
+    "id": "monk",
+    "name": "Monk",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/monk.png",
+    "setup": false,
+    "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe.",
+    "jinxes": [],
+    "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
+    "edition": "trouble brewing",
+    "reminders": [
+      "Safe"
+    ],
+    "firstNight": 0,
+    "otherNight": 20,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Monk chooses a player."
+  },
+  {
+    "id": "lycanthrope",
+    "name": "Lycanthrope",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/lycanthrope.png",
+    "setup": false,
+    "flavor": "Beneath the thin veneer of civilisation lies a howling madness.",
+    "jinxes": [],
+    "ability": "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil.",
+    "edition": "",
+    "reminders": [
+      "Faux Paw",
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 33,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Lycanthrope chooses a player"
+  },
+  {
+    "id": "engineer",
+    "name": "Engineer",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/engineer.png",
+    "setup": false,
+    "flavor": "If it bends, great. If it breaks, well, it probably needed fixing anyway.",
+    "jinxes": [],
+    "ability": "Once per game, at night, choose which Minions or which Demon is in play.",
+    "edition": "",
+    "reminders": [
+      "No Ability"
+    ],
+    "firstNight": 22,
+    "otherNight": 10,
+    "firstNightReminder": "The Engineer might choose Minions or Demons.  If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+    "otherNightReminder": "The Engineer might choose Minions or Demons.  If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters."
+  },
+  {
+    "id": "artist",
+    "name": "Artist",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/artist.png",
+    "setup": false,
+    "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui.",
+    "jinxes": [],
+    "ability": "Once per game, during the day, privately ask the Storyteller any yes/no question.",
+    "edition": "sects & violets",
+    "reminders": [
+      "No Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "cannibal",
+    "name": "Cannibal",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/cannibal.png",
+    "setup": false,
+    "flavor": "I don’t like clowns. They taste funny.",
+    "jinxes": [
+      {
+        "id": "butler",
+        "reason": "If the Cannibal gains the Butler ability, the Cannibal learns this."
+      },
+      {
+        "id": "juggler",
+        "reason": "If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct."
+      },
+      {
+        "id": "zealot",
+        "reason": "If the Cannibal gains the Zealot ability, the Cannibal learns this."
+      },
+      {
+        "id": "poppygrower",
+        "reason": "If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night."
+      }
+    ],
+    "ability": "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution.",
+    "edition": "",
+    "reminders": [
+      "Poisoned",
+      "Lunch"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": "Wake the Cannibal and treat them like they have the ability of the most recently killed executee."
+  },
+  {
+    "id": "amnesiac",
+    "name": "Amnesiac",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/amnesiac.png",
+    "setup": false,
+    "flavor": "Wait. What. Who? Oh, ok. Wait. What?",
+    "jinxes": [],
+    "ability": "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.",
+    "edition": "",
+    "reminders": [
+      "?",
+      "?",
+      "?"
+    ],
+    "firstNight": 45,
+    "otherNight": 63,
+    "firstNightReminder": "Run the Amnesiac's ability, if applicable.",
+    "otherNightReminder": "Run the Amnesiac's ability, if applicable."
+  },
+  {
+    "id": "tealady",
+    "name": "Tea Lady",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/tealady.png",
+    "setup": false,
+    "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you.",
+    "jinxes": [],
+    "ability": "If both your alive neighbors are good, they can't die.",
+    "edition": "bad moon rising",
+    "reminders": [
+      "Cannot Die",
+      "Cannot Die"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "mayor",
+    "name": "Mayor",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/mayor.png",
+    "setup": false,
+    "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us.",
+    "jinxes": [],
+    "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
+    "edition": "trouble brewing",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "poppygrower",
+    "name": "Poppy Grower",
+    "team": "townsfolk",
+    "image": "https://localhost:8000/icons/poppygrower.png",
+    "setup": false,
+    "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark.",
+    "jinxes": [],
+    "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night.",
+    "edition": "",
+    "reminders": [
+      "Evil Wakes"
+    ],
+    "firstNight": 11,
+    "otherNight": 8,
+    "firstNightReminder": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
+    "otherNightReminder": "If the Poppy Grower died today or tonight, wake the Minions, show the *THIS IS THE DEMON* info token and point to the Demon. Put them to sleep. Wake the Demon, show the *THESE ARE YOUR MINIONS* info token and point to the Minions. Put the Demon to sleep."
+  },
+  {
+    "id": "hermit",
+    "name": "Hermit",
+    "team": "outsider",
+    "image": "https://localhost:8000/icons/hermit.png",
+    "setup": true,
+    "flavor": "In the lost and forgotten places of the earth, the soul’s light beckons.",
+    "jinxes": [],
+    "ability": "You have all Outsider abilities. [-0 or -1 Outsider]",
+    "edition": "",
+    "reminders": [
+      "1",
+      "2",
+      "3"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "heretic",
+    "name": "Heretic",
+    "team": "outsider",
+    "image": "https://localhost:8000/icons/heretic.png",
+    "setup": false,
+    "flavor": "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman.",
+    "jinxes": [
+      {
+        "id": "godfather",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "baron",
+        "reason": "The Baron might only add 1 Outsider, not 2."
+      },
+      {
+        "id": "pithag",
+        "reason": "A Pit-Hag cannot create a Heretic."
+      },
+      {
+        "id": "spy",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "widow",
+        "reason": "Only 1 jinxed character can be in play."
+      },
+      {
+        "id": "lleech",
+        "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+      },
+      {
+        "id": "boffin",
+        "reason": "The Demon cannot have the Heretic ability."
+      }
+    ],
+    "ability": "Whoever wins, loses & whoever loses, wins, even if you are dead.",
+    "edition": "",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "damsel",
+    "name": "Damsel",
+    "team": "outsider",
+    "image": "https://localhost:8000/icons/damsel.png",
+    "setup": false,
+    "flavor": "Don't touch the hair, honey.",
+    "jinxes": [],
+    "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.",
+    "edition": "",
+    "reminders": [
+      "Guess Used"
+    ],
+    "firstNight": 44,
+    "otherNight": 62,
+    "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+    "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token."
+  },
+  {
+    "id": "plaguedoctor",
+    "name": "Plague Doctor",
+    "team": "outsider",
+    "image": "https://localhost:8000/icons/plaguedoctor.png",
+    "setup": false,
+    "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+    "jinxes": [
+      {
+        "id": "eviltwin",
+        "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+      },
+      {
+        "id": "fearmonger",
+        "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+      },
+      {
+        "id": "goblin",
+        "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+      },
+      {
+        "id": "spy",
+        "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+      },
+      {
+        "id": "scarletwoman",
+        "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+      },
+      {
+        "id": "boomdandy",
+        "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+      },
+      {
+        "id": "baron",
+        "reason": "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+      },
+      {
+        "id": "marionette",
+        "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+      }
+    ],
+    "ability": "When you die, the Storyteller gains a Minion ability.",
+    "edition": "",
+    "reminders": [
+      "Storyteller Ability"
+    ],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "psychopath",
+    "name": "Psychopath",
+    "team": "minion",
+    "image": "https://localhost:8000/icons/psychopath.png",
+    "setup": false,
+    "flavor": "Surprise!",
+    "jinxes": [],
+    "ability": "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.",
+    "edition": "",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "wizard",
+    "name": "Wizard",
+    "team": "minion",
+    "image": "https://localhost:8000/icons/wizard.png",
+    "setup": false,
+    "flavor": "Every man and every woman is a star. Love is the law, love under will.",
+    "jinxes": [],
+    "ability": "Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.",
+    "edition": "",
+    "reminders": [
+      "?",
+      "?"
+    ],
+    "firstNight": 30,
+    "otherNight": 16,
+    "firstNightReminder": "Run the Wizard's ability, if applicable.",
+    "otherNightReminder": "Run the Wizard's ability, if applicable."
+  },
+  {
+    "id": "mastermind",
+    "name": "Mastermind",
+    "team": "minion",
+    "image": "https://localhost:8000/icons/mastermind.png",
+    "setup": false,
+    "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned.",
+    "jinxes": [
+      {
+        "id": "alhadikhia",
+        "reason": "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+      }
+    ],
+    "ability": "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",
+    "edition": "bad moon rising",
+    "reminders": [],
+    "firstNight": 0,
+    "otherNight": 0,
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "boffin",
+    "name": "Boffin",
+    "team": "minion",
+    "image": "https://localhost:8000/icons/boffin.png",
+    "setup": false,
+    "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
+    "jinxes": [
+      {
+        "id": "cultleader",
+        "reason": "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+      },
+      {
+        "id": "goon",
+        "reason": "If the Demon has the Goon ability, they can’t turn good due to this ability."
+      },
+      {
+        "id": "ogre",
+        "reason": "The Demon cannot have the Ogre ability."
+      },
+      {
+        "id": "politician",
+        "reason": "The Demon cannot have the Politician ability."
+      },
+      {
+        "id": "drunk",
+        "reason": "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+      },
+      {
+        "id": "alchemist",
+        "reason": "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+      },
+      {
+        "id": "villageidiot",
+        "reason": "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+      }
+    ],
+    "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+    "edition": "",
+    "reminders": [],
+    "firstNight": 8,
+    "otherNight": 0,
+    "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "po",
+    "name": "Po",
+    "team": "demon",
+    "image": "https://localhost:8000/icons/po.png",
+    "setup": false,
+    "flavor": "Would you like a flower? I'm so lonely.",
+    "jinxes": [],
+    "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
+    "edition": "bad moon rising",
+    "reminders": [
+      "Dead",
+      "Dead",
+      "Dead",
+      "3 Attacks"
+    ],
+    "firstNight": 0,
+    "otherNight": 39,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Po may choose a player OR chooses 3 players if they chose no-one last night."
+  },
+  {
+    "id": "shabaloth",
+    "name": "Shabaloth",
+    "team": "demon",
+    "image": "https://localhost:8000/icons/shabaloth.png",
+    "setup": false,
+    "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh.",
+    "jinxes": [],
+    "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
+    "edition": "bad moon rising",
+    "reminders": [
+      "Dead",
+      "Dead",
+      "Alive"
+    ],
+    "firstNight": 0,
+    "otherNight": 38,
+    "firstNightReminder": "",
+    "otherNightReminder": "A previously chosen player might be resurrected.  The Shabaloth chooses 2 players."
+  },
+  {
+    "id": "vortox",
+    "name": "Vortox",
+    "team": "demon",
+    "image": "https://localhost:8000/icons/vortox.png",
+    "setup": false,
+    "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find.",
+    "jinxes": [
+      {
+        "id": "banshee",
+        "reason": "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+      }
+    ],
+    "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+    "edition": "sects & violets",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 0,
+    "otherNight": 42,
+    "firstNightReminder": "",
+    "otherNightReminder": "The Vortox chooses a player."
+  },
+  {
+    "id": "lordoftyphon",
+    "name": "Lord of Typhon",
+    "team": "demon",
+    "image": "https://localhost:8000/icons/lordoftyphon.png",
+    "setup": true,
+    "flavor": "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds.",
+    "jinxes": [],
+    "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
+    "edition": "",
+    "reminders": [
+      "Dead"
+    ],
+    "firstNight": 2,
+    "otherNight": 43,
+    "firstNightReminder": "Replace neighbors of the Lord of Typhon with Minions, wake them, tell them their new alignment and character, then do minion info.",
+    "otherNightReminder": "The Lord of Typhon chooses a player."
+  }
+]

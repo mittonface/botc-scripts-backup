@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Too Much Paperwork",
+    "author": "SummerM",
+    "bootlegger": [
+      "The Bureaucrat must be in play at the start of the game.",
+      "The Bureaurcrat cannot be exhiled until at least day 4."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

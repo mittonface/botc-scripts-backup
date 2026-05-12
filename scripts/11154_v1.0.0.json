@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Army Versus the Dead",
+    "author": "Johnathon Gass"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "legion"
+  }
+]

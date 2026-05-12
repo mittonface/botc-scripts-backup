@@ -1,0 +1,146 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.ibb.co/L21w8Ht/impulsecontrollogo2.png",
+    "name": "Impulse Control",
+    "author": "seaplus",
+    "hideTitle": true,
+    "background": "https://i.ibb.co/4n3XZSZp/black.png",
+    "bootlegger": [
+      "+0 or +1 good demon, and -0 or -1 evil demon. +1 outsider if a good demon is added. +1 minion if an evil demon is removed.",
+      "A good demon does not know the minions and does not get bluffs.",
+      "An evil demon acts before a good demon."
+    ],
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "philosopher",
+      "snakecharmer",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "poisoner",
+      "eviltwin",
+      "harpy",
+      "pixie",
+      "librarian",
+      "fortuneteller",
+      "noble",
+      "balloonist",
+      "shugenja",
+      "villageidiot",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "harlot",
+      "philosopher",
+      "poisoner",
+      "snakecharmer",
+      "monk",
+      "harpy",
+      "scarletwoman",
+      "lunatic",
+      "lycanthrope",
+      "imp",
+      "vortox",
+      "assassin",
+      "sweetheart",
+      "ravenkeeper",
+      "fortuneteller",
+      "balloonist",
+      "villageidiot",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "_meta",
+    "name": "Leviathan's Ballot Box",
+    "author": "senbit",
+    "bootlegger": [
+      "When the Leviathan is in play, the Storyteller does not announce its presence.",
+      "When the Vortox is in play, the evil team does not win even if no execution occurs on the first day.",
+      "The Vortox may forfeit its ability at night up to once per game."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

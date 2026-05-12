@@ -1,0 +1,136 @@
+[
+  {
+    "id": "_meta",
+    "name": "Burgertown Bile Vanilla",
+    "author": "South",
+    "almanac": "https://www.bloodstar.xyz/p/South/_Homebrew/almanac.html",
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "wizard",
+      "cerenovus",
+      "pixie",
+      "librarian",
+      "investigator",
+      "empath",
+      "dreamer",
+      "noble",
+      "ogre",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "bonecollector",
+      "poisoner",
+      "wizard",
+      "monk",
+      "cerenovus",
+      "scarletwoman",
+      "exorcist",
+      "princess",
+      "imp",
+      "fanggu",
+      "vigormortis",
+      "plaguedoctor",
+      "farmer",
+      "ravenkeeper",
+      "empath",
+      "dreamer",
+      "oracle",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "ferryman"
+  }
+]

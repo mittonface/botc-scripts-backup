@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://towerscripts.com/image/script/script_67287b5f661cd",
+    "name": "It's Not a Cult I Swear",
+    "tags": [],
+    "type": "ravenswood-bluff",
+    "owner": 671134517859188700,
+    "author": "Mark Zeleznick",
+    "overview": "",
+    "synopsis": "With a storm caught cult leader, and many ways for neighbors to misregister alignments, can the cult leader win really be trusted by town.",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

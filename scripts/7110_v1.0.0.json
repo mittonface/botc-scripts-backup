@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cult of Squid",
+    "author": "Sir Felneus"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  }
+]

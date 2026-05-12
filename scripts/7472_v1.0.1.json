@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Can I Sit Next to You",
+    "author": "George"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

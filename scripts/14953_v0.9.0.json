@@ -1,0 +1,102 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/bXlFZth.png",
+    "name": "Dyson Sphere",
+    "author": "Nyctophonik",
+    "hideTitle": true
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

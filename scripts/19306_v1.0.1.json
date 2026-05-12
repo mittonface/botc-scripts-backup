@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "name": "Kill. Nominate. Accuse. Vote. Execute.",
+    "author": "boypower2566",
+    "bootlegger": [
+      "Only 1 other Bootlegger rule applies during a game, players know which one it is.",
+      "Knaves: There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
+      "Super Knaves: There are 2 Storytellers: 0-2 of them lie, those who don't lie tell the truth.",
+      "Parlor Knaves: There are 3 Storytellers: At least one tells the truth, at least one lies. ",
+      "Indecisive Knaves: There are 3 Storytellers: One tells the truth, One lies, One can do either.",
+      "Shuffling Knaves: There are 2 Storytellers: one lies & one tells the truth. Up to twice per game, at dusk, they might switch.",
+      "Lone Knave: There is 1 Storyteller, they either lie or tell the truth, Once per game, at dusk, they might swap.",
+      "Poisoned Knaves: There are 2 Storytellers: one lies & one tells the truth, Once per game, at the beginning of the night, the Demon may choose a Storyteller, they swap."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "knaves"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

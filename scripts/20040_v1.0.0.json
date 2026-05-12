@@ -1,0 +1,130 @@
+[
+  {
+    "id": "_meta",
+    "name": "Claim Freely; Risk Everything",
+    "author": "Rhimens",
+    "hideTitle": false,
+    "bootlegger": [
+      "If the Alchemist Pit-Hag attempts to change the Demon into a non-Demon character (ending the game), the Alchemist is drunk that night.",
+      "If the Poppy Grower dies or the ability leaves play, Minions & Demons learn each other. This happens even if the Poppy Grower is drunk/poisoned. If another instance of the Poppy Grower ability is in play, Minions & Demons do not learn each other until none of them are active."
+    ],
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "marionette",
+      "snakecharmer",
+      "eviltwin",
+      "cerenovus",
+      "pixie",
+      "dreamer",
+      "seamstress",
+      "shugenja",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "poppygrower",
+      "snakecharmer",
+      "cerenovus",
+      "pithag",
+      "lunatic",
+      "fanggu",
+      "vortox",
+      "vigormortis",
+      "ojo",
+      "barber",
+      "ravenkeeper",
+      "dreamer",
+      "oracle",
+      "seamstress",
+      "dawn"
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

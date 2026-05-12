@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lorem ipsum dolor sit amet",
+    "author": "Team Cheese"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "zombuul"
+  }
+]

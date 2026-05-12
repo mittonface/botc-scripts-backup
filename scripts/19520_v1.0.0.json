@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "Tor-n Between Two Worlds",
+    "author": "Cute Mage",
+    "bootlegger": [
+      "If the Vigormortis dies and a living Scarlet Woman becomes the new Vigormortis, any Minions killed by the previous Vigormortis count as being killed by the Scarlet Woman.",
+      "If the Lleech would die and a Scarlet Woman would become the new Lleech, instead the Lleech lives and hosts the Scarlet Woman.",
+      "The Minions in a Lord of Typhon game aren't told that their role changed in setup. This is because of the Tor."
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Fortune Favours the Imp",
+    "author": "The_Imago"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "sentinel"
+  }
+]

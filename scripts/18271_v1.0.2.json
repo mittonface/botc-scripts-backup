@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cursed Calliope",
+    "author": "Shrolu",
+    "firstNight": [
+      "minioninfo",
+      "demoninfo",
+      "godfather",
+      "pukka",
+      "nightwatchman",
+      "spy",
+      "fortuneteller",
+      "librarian",
+      "noble",
+      "chef",
+      "empath",
+      "steward"
+    ],
+    "otherNight": [
+      "innkeeper",
+      "acrobat",
+      "scarletwoman",
+      "imp",
+      "pukka",
+      "assassin",
+      "godfather",
+      "tinker",
+      "nightwatchman",
+      "spy",
+      "ravenkeeper",
+      "fortuneteller",
+      "ravenkeeper",
+      "turncoat",
+      "empath",
+      "undertaker",
+      "judge",
+      "beggar",
+      "bishop"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  }
+]

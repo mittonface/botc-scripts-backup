@@ -1,0 +1,106 @@
+[
+  {
+    "id": "_meta",
+    "name": "Five Stages of Grief",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If a Poppygrower is in play, the Widow chooses a character to poison. When the Poppygrower dies, the Widow sees the grim, and if no player was chosen, the Widow chooses again.",
+      "If the Vigormortis attacks itself & a Scarlet Woman becomes the new Vigormortis, one of the original Vigormortis Townsfolk neighbors is poisoned.",
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk.",
+      "If the Knight has their ability, the players they have seen cannot become the Demon."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

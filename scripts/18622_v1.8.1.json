@@ -1,0 +1,106 @@
+[
+  {
+    "id": "_meta",
+    "name": "Diamond Hands",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "If the most recently killed executee is the drunk Village Idiot, the Cannibal's Village Idiot ability is drunk.",
+      "If Legion is summoned, all evil players and the majority of all players become evil Legion.",
+      "If the Exorcist chooses a living Legion, good players cannot die from Legion tonight.",
+      "The Alchemist-Summoner can only choose Pukka on the 2nd night."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

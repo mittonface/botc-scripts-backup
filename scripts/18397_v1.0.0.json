@@ -1,0 +1,156 @@
+[
+  {
+    "id": "_meta",
+    "name": "Good Vibes Only",
+    "author": "WasherOtt",
+    "bootlegger": [
+      "If a good character's ability would confirm mechanical information about the game, it may fail. If it fails, the player learns this"
+    ],
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "lordoftyphon",
+      "kazali",
+      "apprentice",
+      "barista",
+      "boffin",
+      "philosopher",
+      "yaggababble",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "engineer",
+      "preacher",
+      "xaan",
+      "cerenovus",
+      "pixie",
+      "amnesiac",
+      "butler",
+      "highpriestess",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "cacklejack",
+      "barista",
+      "philosopher",
+      "engineer",
+      "preacher",
+      "xaan",
+      "cerenovus",
+      "lunatic",
+      "vortox",
+      "lordoftyphon",
+      "yaggababble",
+      "kazali",
+      "gossip",
+      "banshee",
+      "amnesiac",
+      "butler",
+      "highpriestess",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/c8QjWHR.png",
+    "name": "Election Day",
+    "author": "Red Mist"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "ferryman"
+  }
+]

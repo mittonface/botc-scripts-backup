@@ -1,0 +1,118 @@
+[
+  {
+    "id": "_meta",
+    "name": "Blood Moon",
+    "author": "seaplus",
+    "bootlegger": [
+      "The Evil Twin is always in play. [-1 Demon, +1 Outsider, +1 Evil Lycanthrope]"
+    ],
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "xaan",
+      "godfather",
+      "eviltwin",
+      "cerenovus",
+      "pixie",
+      "damsel",
+      "librarian",
+      "chef",
+      "seamstress",
+      "villageidiot",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "xaan",
+      "innkeeper",
+      "acrobat",
+      "cerenovus",
+      "lycanthrope",
+      "godfather",
+      "hatter",
+      "damsel",
+      "farmer",
+      "oracle",
+      "seamstress",
+      "villageidiot",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

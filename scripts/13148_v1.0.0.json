@@ -1,0 +1,72 @@
+[
+  {
+    "id": "_meta",
+    "name": "Watch out what you say",
+    "author": "inniakis",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "empath",
+      "dreamer",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dawn",
+      "poisoner",
+      "scarletwoman",
+      "fanggu",
+      "sweetheart",
+      "moonchild",
+      "dreamer",
+      "empath",
+      "oracle",
+      "chambermaid",
+      "dusk"
+    ]
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  },
+  {
+    "id": "duchess"
+  }
+]

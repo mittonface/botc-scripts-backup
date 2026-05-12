@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Now you see me...",
+    "author": "tali"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  }
+]

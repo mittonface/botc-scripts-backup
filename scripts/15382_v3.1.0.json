@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Manually Summoned Monsters",
+    "author": "Schnauzer"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  }
+]

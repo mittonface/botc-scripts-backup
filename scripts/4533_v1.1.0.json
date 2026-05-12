@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Dark & Stormy Knight",
+    "author": "The_Imago"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "sentinel"
+  }
+]

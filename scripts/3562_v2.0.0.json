@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Knights of the Round Table",
+    "author": "Cam"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "imp"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "_meta",
+    "name": "You Cannot Die",
+    "author": "Mr. Business",
+    "bootlegger": [
+      "More than half of all townsfolk are Sailors. The demon only learns 2 bluffs",
+      "A death caused by a psychopath does not prevent the Zombuul from waking up the following night"
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

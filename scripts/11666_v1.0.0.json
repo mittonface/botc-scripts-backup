@@ -1,0 +1,40 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Fun Script to Play with Your Friends",
+    "author": "Conrad"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "legion"
+  }
+]

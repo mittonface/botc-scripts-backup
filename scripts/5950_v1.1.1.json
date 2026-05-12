@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bad Brew v1.1.1",
+    "author": "Nick"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "fanggu"
+  }
+]

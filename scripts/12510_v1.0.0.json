@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://cdn-icons-png.flaticon.com/256/11193/11193657.png",
+    "name": "Travelling Circus",
+    "author": "Alexis",
+    "hideTitle": true,
+    "background": "https://i.imgur.com/background-image.jpg",
+    "bootlegger": [
+      "There is a traveller ability in play, all players know which."
+    ],
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "...",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "...",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "djinn"
+  }
+]

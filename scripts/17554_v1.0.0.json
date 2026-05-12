@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Say Less",
+    "author": "Mr. Business",
+    "bootlegger": [
+      "There may be more than 1 Witch"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

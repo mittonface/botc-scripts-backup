@@ -1,0 +1,84 @@
+[
+  {
+    "id": "_meta",
+    "name": "Undertow",
+    "author": "Tom O",
+    "bootlegger": [
+      "All players always learn that the Leviathan is in play on day 1, even if the Leviathan is drunk or poisoned.",
+      "The Alchemist does not know which ability they have.",
+      "The Poisoner and Snake Charmer may not choose themselves. If the Snake Charmer chooses a dead player, that choice has no effect."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

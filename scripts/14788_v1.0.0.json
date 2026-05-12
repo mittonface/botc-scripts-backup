@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_meta",
+    "name": "Unhallowed Words",
+    "author": "Paradox"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "sentinel"
+  }
+]

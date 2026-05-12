@@ -1,0 +1,116 @@
+[
+  {
+    "id": "_meta",
+    "name": "Words with Friends",
+    "author": "Schnauzer",
+    "firstNight": [
+      "dusk",
+      "yaggababble",
+      "magician",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "godfather",
+      "preacher",
+      "pukka",
+      "amnesiac",
+      "butler",
+      "noble",
+      "balloonist",
+      "villageidiot",
+      "ogre",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "djinn"
+  }
+]

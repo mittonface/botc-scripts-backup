@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Public Library",
+    "author": "Autumn"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "ojo"
+  }
+]

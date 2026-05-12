@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cult of Pythagoras",
+    "author": "Aleister"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "sentinel"
+  }
+]
