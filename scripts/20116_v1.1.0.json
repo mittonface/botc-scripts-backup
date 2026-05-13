@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "There's a Snake In My Boot",
+    "author": "Hannah",
+    "bootlegger": [
+      "If the Poppy Grower is in play, the Boffin and Demon wake up separately on the first night."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
