@@ -96,9 +96,14 @@ def manifest_entry(result: dict[str, Any], filename: str) -> dict[str, Any]:
 
 
 def write_manifest(output_dir: str, manifest: list[dict[str, Any]]) -> str:
+    # Sort by pk descending so the site lists newest scripts first. The frontend
+    # renders manifest entries in array order, and incremental scrapes would
+    # otherwise append new pks at the end (Python dict-merge preserves the
+    # first dict's key order).
+    sorted_manifest = sorted(manifest, key=lambda e: e.get("pk") or 0, reverse=True)
     manifest_path = os.path.join(output_dir, "manifest.json")
     with open(manifest_path, "w", encoding="utf-8") as manifest_file:
-        json.dump(manifest, manifest_file, ensure_ascii=False)
+        json.dump(sorted_manifest, manifest_file, ensure_ascii=False)
         manifest_file.write("\n")
     return manifest_path
 

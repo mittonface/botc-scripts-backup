@@ -30,9 +30,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build site
-        run: |
-          cp scripts/manifest.json site/static/manifest.json
-          hugo --source site --destination ../public --baseURL "https://scripts.ottawaplaysbotc.com/"
+        run: hugo --source site --destination ../public --baseURL "https://scripts.ottawaplaysbotc.com/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

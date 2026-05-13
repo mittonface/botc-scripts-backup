@@ -1481,7 +1481,10 @@
   async function init() {
     countEl.textContent = 'Loading…';
     try {
-      const res = await fetch('/manifest.json');
+      // Fetched from /scripts/manifest.json (single source of truth — the
+      // file the scraper writes). site/static/scripts is a symlink to
+      // ../../scripts, so Hugo serves the live manifest at this URL.
+      const res = await fetch('/scripts/manifest.json');
       ALL_SCRIPTS = await res.json();
       ALL_SCRIPTS.forEach(s => { s.charSet = new Set(s.characters); });
       render();

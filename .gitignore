@@ -3,4 +3,6 @@ __pycache__/
 *.py[cod]
 public/
 site/data/manifest.json
+site/static/manifest.json
 site/.hugo_build.lock
+.playwright-mcp/
