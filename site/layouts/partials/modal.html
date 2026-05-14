@@ -8,64 +8,66 @@
 >
   <div class="modal" id="modal">
     <div class="modal-header">
+      <button
+        type="button"
+        class="modal-close"
+        id="modal-close"
+        aria-label="Close dialog"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18" />
+          <line x1="6" y1="6" x2="18" y2="18" />
+        </svg>
+      </button>
       <h2 class="modal-title" id="modal-title"></h2>
       <div class="modal-meta" id="modal-meta"></div>
-      <div class="modal-actions">
+    </div>
+    <div class="modal-body" id="modal-body">
+      <div class="modal-loading">Loading…</div>
+    </div>
+    <div class="modal-footer">
+      <div class="modal-actions" role="group" aria-label="Script actions">
         <button
           type="button"
           class="modal-btn"
           id="modal-scripttool"
-          aria-label="Open in official Script Tool"
-          title="Open in Script Tool"
+          aria-label="Open this script in the official Script Tool"
         >
-          <svg viewBox="0 0 24 24">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
             <path
               d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
             />
             <polyline points="15 3 21 3 21 9" />
             <line x1="10" y1="14" x2="21" y2="3" />
           </svg>
+          <span class="modal-btn-label">Open in Script Tool</span>
         </button>
         <button
           type="button"
           class="modal-btn"
           id="modal-copy"
-          aria-label="Copy JSON to clipboard"
-          title="Copy JSON"
+          aria-label="Copy script JSON to clipboard"
         >
-          <svg viewBox="0 0 24 24">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
             <rect x="9" y="9" width="13" height="13" rx="2" />
             <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
           </svg>
+          <span class="modal-btn-label">Copy JSON</span>
         </button>
         <a
           class="modal-btn"
           id="modal-download"
-          aria-label="Download JSON file"
-          title="Download JSON"
+          aria-label="Download script JSON file"
           download
         >
-          <svg viewBox="0 0 24 24">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
             <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
             <polyline points="7 10 12 15 17 10" />
             <line x1="12" y1="15" x2="12" y2="3" />
           </svg>
+          <span class="modal-btn-label">Download</span>
         </a>
-        <button
-          type="button"
-          class="modal-btn"
-          id="modal-close"
-          aria-label="Close"
-        >
-          <svg viewBox="0 0 24 24">
-            <line x1="18" y1="6" x2="6" y2="18" />
-            <line x1="6" y1="6" x2="18" y2="18" />
-          </svg>
-        </button>
       </div>
-    </div>
-    <div class="modal-body" id="modal-body">
-      <div class="modal-loading">Loading…</div>
     </div>
   </div>
 </div>

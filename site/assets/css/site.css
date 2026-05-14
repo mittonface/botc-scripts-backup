@@ -723,7 +723,7 @@ footer {
   font-weight: 700;
   color: var(--parchment);
   line-height: 1.25;
-  padding-right: 108px;
+  padding-right: 44px;
 }
 
 .modal-meta {
@@ -741,50 +741,123 @@ footer {
   opacity: 0.6;
 }
 
+/* Footer — anchors the action verbs at the bottom, always reachable */
+.modal-footer {
+  flex-shrink: 0;
+  padding: 12px 20px;
+  border-top: 1px solid var(--mist);
+  background: rgba(11, 14, 20, 0.55);
+}
+
 .modal-actions {
-  position: absolute;
-  top: 20px;
-  right: 20px;
   display: flex;
-  gap: 6px;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: flex-end;
 }
 
 .modal-btn {
-  background: var(--mist);
-  border: 1px solid var(--fog);
-  border-radius: 8px;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 5px;
   color: var(--bone);
-  width: 34px;
-  height: 34px;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  transition:
-    background 0.15s,
-    color 0.15s,
-    border-color 0.15s;
+  gap: 8px;
+  padding: 6px 11px;
+  font-family: "Cinzel", serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
   text-decoration: none;
-  flex-shrink: 0;
+  line-height: 1;
+  opacity: 0.72;
+  transition:
+    background 0.16s,
+    color 0.16s,
+    border-color 0.16s,
+    opacity 0.16s;
 }
 .modal-btn:hover {
-  background: var(--fog);
-  color: var(--parchment);
-  border-color: rgba(200, 150, 44, 0.5);
+  background: var(--mist);
+  border-color: rgba(200, 150, 44, 0.4);
+  color: var(--gold-hi);
+  opacity: 1;
 }
 .modal-btn:focus-visible {
   outline: none;
   box-shadow: var(--focus-ring);
   border-color: var(--gold);
+  color: var(--gold-hi);
+  opacity: 1;
 }
 .modal-btn svg {
-  width: 15px;
-  height: 15px;
+  width: 13px;
+  height: 13px;
   stroke: currentColor;
   fill: none;
   stroke-width: 2;
   stroke-linecap: round;
   stroke-linejoin: round;
+  display: block;
+  flex-shrink: 0;
+  opacity: 0.85;
+}
+.modal-btn-label {
+  white-space: nowrap;
+}
+
+/* "Copied!" confirmation state */
+.modal-btn.copied,
+.modal-btn.copied:hover {
+  color: var(--gold-hi);
+  border-color: rgba(200, 150, 44, 0.5);
+  background: rgba(200, 150, 44, 0.1);
+  opacity: 1;
+}
+
+/* Close button: discreet, icon-only — X is universally understood */
+.modal-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: var(--bone);
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.45;
+  transition:
+    opacity 0.15s,
+    background 0.15s,
+    color 0.15s,
+    border-color 0.15s;
+}
+.modal-close:hover {
+  opacity: 1;
+  background: var(--mist);
+  color: var(--parchment);
+}
+.modal-close:focus-visible {
+  outline: none;
+  opacity: 1;
+  box-shadow: var(--focus-ring);
+  border-color: var(--gold);
+}
+.modal-close svg {
+  width: 14px;
+  height: 14px;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
   display: block;
 }
 
@@ -986,6 +1059,29 @@ footer {
   }
   .modal-title {
     font-size: 16px;
-    padding-right: 96px;
+    padding-right: 40px;
+  }
+  .modal-footer {
+    padding: 12px 14px;
+  }
+  /* Stack vertically — gives each verb a comfortable tap target and lets
+     the long "Open in Script Tool" label breathe. */
+  .modal-actions {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+  }
+  .modal-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 11px 12px;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    border-color: var(--mist);
+    opacity: 0.9;
+  }
+  .modal-btn svg {
+    width: 14px;
+    height: 14px;
   }
 }

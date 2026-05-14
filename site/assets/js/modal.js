@@ -3,8 +3,10 @@ import { state } from "./state.js";
 import { buildScriptToolUrl } from "./script-tool.js";
 import { esc, formatId, makeFocusTrap } from "./utils.js";
 
-const COPY_SVG = `<svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
-const COPY_SVG_OK = `<svg viewBox="0 0 24 24" style="stroke:var(--gold-hi)"><polyline points="20 6 9 17 4 12"/></svg>`;
+const COPY_SVG = `<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
+const COPY_SVG_OK = `<svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>`;
+const COPY_DEFAULT_HTML = `${COPY_SVG}<span class="modal-btn-label">Copy JSON</span>`;
+const COPY_OK_HTML = `${COPY_SVG_OK}<span class="modal-btn-label">Copied!</span>`;
 
 let overlay;
 let modalTitle;
@@ -142,11 +144,13 @@ async function copyCurrentScript() {
     await navigator.clipboard.writeText(
       JSON.stringify(state.currentScriptData, null, 2),
     );
-    modalCopy.innerHTML = COPY_SVG_OK;
-    modalCopy.setAttribute("aria-label", "Copied!");
+    modalCopy.innerHTML = COPY_OK_HTML;
+    modalCopy.classList.add("copied");
+    modalCopy.setAttribute("aria-label", "Copied to clipboard");
     setTimeout(() => {
-      modalCopy.innerHTML = COPY_SVG;
-      modalCopy.setAttribute("aria-label", "Copy JSON to clipboard");
+      modalCopy.innerHTML = COPY_DEFAULT_HTML;
+      modalCopy.classList.remove("copied");
+      modalCopy.setAttribute("aria-label", "Copy script JSON to clipboard");
     }, 1800);
   } catch {
     /* clipboard unavailable */
