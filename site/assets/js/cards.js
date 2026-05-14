@@ -32,14 +32,6 @@ export function initCards(options) {
     const card = event.target.closest(".card");
     if (card) onOpenScript(card);
   });
-
-  grid.addEventListener("keydown", (event) => {
-    if (event.key !== "Enter" && event.key !== " ") return;
-    const card = event.target.closest(".card");
-    if (!card) return;
-    event.preventDefault();
-    onOpenScript(card);
-  });
 }
 
 export function setCountText(text) {
@@ -53,10 +45,9 @@ function buildCard(script) {
       ? `<span class="badge badge-teensyville">Teensyville</span>`
       : `<span class="badge badge-full">Full</span>`;
 
-  return `<article
+  return `<button
+    type="button"
     class="card"
-    tabindex="0"
-    role="listitem"
     data-filename="${esc(script.filename)}"
     data-name="${esc(script.name)}"
     data-author="${esc(script.author)}"
@@ -64,23 +55,24 @@ function buildCard(script) {
     data-type="${esc(script.script_type)}"
     aria-label="${esc(script.name)} by ${esc(script.author)}"
   >
-    <div class="card-name">${esc(script.name)}</div>
-    <div class="card-author">${esc(script.author)}</div>
-    <div class="card-footer">
+    <span class="card-name">${esc(script.name)}</span>
+    <span class="card-author" title="${esc(script.author)}">${esc(script.author)}</span>
+    <span class="card-footer">
       ${typeBadge}
       <span class="badge badge-version">v${esc(script.version)}</span>
-      ${charCount > 0 ? `<span class="card-char-count">${charCount} chars</span>` : ""}
-    </div>
-  </article>`;
+      ${charCount > 0 ? `<span class="card-char-count" aria-label="${charCount} characters">${charCount} chars</span>` : ""}
+    </span>
+  </button>`;
 }
 
 function updateCount() {
   const total = state.filtered.length;
   const shown = Math.min(state.renderedCount, total);
-  countEl.textContent =
+  const next =
     total === 0
       ? "No scripts match"
       : `Showing ${shown.toLocaleString()} of ${total.toLocaleString()} script${total !== 1 ? "s" : ""}`;
+  if (next !== countEl.textContent) countEl.textContent = next;
 }
 
 function renderMore() {

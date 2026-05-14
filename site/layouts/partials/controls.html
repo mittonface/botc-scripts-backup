@@ -17,11 +17,15 @@
       <input
         id="search"
         type="search"
-        placeholder="Search by name or author… (press / to focus)"
+        placeholder="Search by name or author…"
         autocomplete="off"
         spellcheck="false"
-        aria-label="Search scripts by name"
+        aria-label="Search scripts by name or author"
+        aria-describedby="search-hint"
       />
+      <span id="search-hint" class="search-hint"
+        >Press <kbd>/</kbd> to focus</span
+      >
     </div>
     <div class="filter-row">
       <span class="filter-label" aria-hidden="true">Type</span>

@@ -53,16 +53,18 @@ export function initCharFilter() {
 
     if (event.key === "ArrowDown") {
       event.preventDefault();
-      focusedIndex = Math.min(focusedIndex + 1, dropdownItems.length - 1);
+      focusedIndex =
+        focusedIndex >= dropdownItems.length - 1 ? 0 : focusedIndex + 1;
       updateDropdownFocus();
     } else if (event.key === "ArrowUp") {
       event.preventDefault();
-      focusedIndex = Math.max(focusedIndex - 1, 0);
+      focusedIndex =
+        focusedIndex <= 0 ? dropdownItems.length - 1 : focusedIndex - 1;
       updateDropdownFocus();
     } else if (event.key === "Enter") {
       event.preventDefault();
-      if (focusedIndex >= 0 && dropdownItems[focusedIndex])
-        addChar(dropdownItems[focusedIndex].id);
+      const index = focusedIndex >= 0 ? focusedIndex : 0;
+      if (dropdownItems[index]) addChar(dropdownItems[index].id);
     } else if (event.key === "Escape") {
       closeDropdown();
     }

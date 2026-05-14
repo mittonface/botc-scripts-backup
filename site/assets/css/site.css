@@ -13,8 +13,11 @@
   --mist: #252e40;
   --fog: #2e3a52;
   --bone: #c8c0b0;
+  --bone-dim: #8a8475;
+  --bone-faint: #6b6657;
   --parchment: #e8dfc8;
   --gold: #c8962c;
+  --gold-dim: #b88625;
   --gold-hi: #e8b84b;
   --gold-glow: rgba(200, 150, 44, 0.18);
   --radius: 6px;
@@ -31,6 +34,18 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 /* ── Skip link ────────────────────────────────────────────── */
@@ -162,8 +177,7 @@ footer {
   font-family: "Cinzel", serif;
   font-size: 10px;
   letter-spacing: 0.14em;
-  color: var(--bone);
-  opacity: 0.3;
+  color: var(--bone-dim);
   line-height: 1.9;
 }
 
@@ -206,7 +220,7 @@ footer {
 .search-icon {
   position: absolute;
   left: 14px;
-  top: 50%;
+  top: 22px;
   transform: translateY(-50%);
   pointer-events: none;
   color: var(--gold);
@@ -230,12 +244,23 @@ footer {
     box-shadow 0.2s;
 }
 #search::placeholder {
-  color: var(--bone);
-  opacity: 0.3;
+  color: var(--bone-dim);
 }
 #search:focus {
   border-color: var(--gold);
   box-shadow: var(--focus-ring);
+}
+
+.search-hint {
+  display: block;
+  margin-top: 4px;
+  color: var(--gold-dim);
+  font-family: "Cinzel", serif;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+}
+.search-hint kbd {
+  font: inherit;
 }
 
 /* Filter row */
@@ -251,8 +276,7 @@ footer {
   font-size: 10px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--gold);
-  opacity: 0.55;
+  color: var(--gold-dim);
   white-space: nowrap;
   user-select: none;
 }
@@ -327,8 +351,7 @@ footer {
     box-shadow 0.2s;
 }
 #char-search::placeholder {
-  color: var(--bone);
-  opacity: 0.3;
+  color: var(--bone-dim);
 }
 #char-search:focus {
   border-color: var(--gold);
@@ -408,7 +431,7 @@ footer {
   font-size: 10px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  opacity: 0.4;
+  color: var(--bone-dim);
 }
 
 /* Character tags */
@@ -433,10 +456,12 @@ footer {
 .char-tag-remove {
   background: none;
   border: none;
-  padding: 0 1px;
+  padding: 4px 6px;
+  min-width: 24px;
+  min-height: 24px;
   cursor: pointer;
   color: inherit;
-  opacity: 0.5;
+  opacity: 0.8;
   font-size: 12px;
   line-height: 1;
   transition: opacity 0.15s;
@@ -489,7 +514,7 @@ footer {
 .char-tag.unknown {
   background: var(--dusk);
   border-color: var(--fog);
-  color: var(--bone);
+  color: var(--bone-dim);
 }
 
 .char-clear-btn {
@@ -500,16 +525,17 @@ footer {
   font-family: "Cinzel", serif;
   font-size: 10px;
   letter-spacing: 0.1em;
-  padding: 2px 10px;
+  padding: 6px 12px;
+  min-height: 24px;
   cursor: pointer;
-  opacity: 0.45;
+  opacity: 1;
   transition:
     opacity 0.15s,
     border-color 0.15s,
     color 0.15s;
 }
 .char-clear-btn:hover {
-  opacity: 0.9;
+  opacity: 1;
   border-color: var(--gold);
   color: var(--gold-hi);
 }
@@ -531,8 +557,7 @@ footer {
   font-family: "Cinzel", serif;
   font-size: 11px;
   letter-spacing: 0.12em;
-  color: var(--gold);
-  opacity: 0.55;
+  color: var(--gold-dim);
 }
 
 /* ── List ─────────────────────────────────────────────────── */
@@ -546,6 +571,7 @@ footer {
 
 /* ── Rows ─────────────────────────────────────────────────── */
 .card {
+  appearance: none;
   background: transparent;
   border: none;
   border-top: 1px solid var(--mist);
@@ -559,6 +585,7 @@ footer {
   text-align: left;
   width: 100%;
   color: inherit;
+  font: inherit;
   font-family: inherit;
   font-size: inherit;
   transition: background 0.12s;
@@ -601,8 +628,7 @@ footer {
 .card-author {
   font-size: 14px;
   font-style: italic;
-  color: var(--bone);
-  opacity: 0.4;
+  color: var(--bone-dim);
   flex-shrink: 0;
   width: 160px;
   overflow: hidden;
@@ -630,8 +656,7 @@ footer {
 .badge-version {
   background: var(--dusk);
   border: 1px solid var(--fog);
-  color: var(--bone);
-  opacity: 0.6;
+  color: var(--bone-dim);
 }
 
 .badge-full {
@@ -650,8 +675,7 @@ footer {
   font-family: "Cinzel", serif;
   font-size: 10px;
   letter-spacing: 0.06em;
-  color: var(--bone);
-  opacity: 0.3;
+  color: var(--bone-dim);
 }
 
 /* ── Empty state ──────────────────────────────────────────── */
@@ -659,8 +683,7 @@ footer {
   display: none;
   text-align: center;
   padding: 80px 20px;
-  color: var(--bone);
-  opacity: 0.4;
+  color: var(--bone-dim);
 }
 #empty .empty-icon {
   font-size: 40px;
@@ -746,8 +769,7 @@ footer {
 .modal-author {
   font-style: italic;
   font-size: 15px;
-  color: var(--bone);
-  opacity: 0.6;
+  color: var(--bone-dim);
 }
 
 /* Footer — anchors the action verbs at the bottom, always reachable */
@@ -782,7 +804,7 @@ footer {
   text-transform: uppercase;
   text-decoration: none;
   line-height: 1;
-  opacity: 0.72;
+  opacity: 0.85;
   transition:
     background 0.16s,
     color 0.16s,
@@ -842,7 +864,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0.45;
+  opacity: 0.7;
   transition:
     opacity 0.15s,
     background 0.15s,
@@ -918,7 +940,7 @@ footer {
   color: var(--parchment);
 }
 .modal-char-stat-label {
-  opacity: 0.5;
+  color: var(--bone-dim);
 }
 
 .modal-loading {
@@ -927,8 +949,7 @@ footer {
   font-family: "Cinzel", serif;
   font-size: 13px;
   letter-spacing: 0.15em;
-  color: var(--gold);
-  opacity: 0.5;
+  color: var(--gold-dim);
 }
 
 .modal-error {
@@ -987,8 +1008,7 @@ footer {
   color: var(--c-loric);
 }
 .role-heading.unknown {
-  color: var(--bone);
-  opacity: 0.5;
+  color: var(--bone-dim);
 }
 
 .char-grid {
@@ -1044,8 +1064,7 @@ footer {
 .char-chip.unknown {
   background: var(--dusk);
   border-color: var(--fog);
-  color: var(--bone);
-  opacity: 0.65;
+  color: var(--bone-dim);
 }
 
 /* ── Responsive ───────────────────────────────────────────── */
@@ -1100,5 +1119,37 @@ footer {
   .modal-btn svg {
     width: 14px;
     height: 14px;
+  }
+}
+
+@media (forced-colors: active) {
+  .modal-btn,
+  .filter-btn,
+  .char-clear-btn,
+  .modal-close,
+  .char-tag {
+    border-color: ButtonBorder;
+  }
+  .filter-btn[aria-pressed="true"] {
+    background: Highlight;
+    color: HighlightText;
+    border-color: Highlight;
+  }
+  .card:focus-visible,
+  .modal-btn:focus-visible,
+  .filter-btn:focus-visible {
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

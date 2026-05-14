@@ -60,6 +60,7 @@ export async function loadScript(card) {
   modalMeta.innerHTML = `<span class="modal-author">${esc(author)}</span>${typeBadge}<span class="badge badge-version">v${esc(version)}</span>`;
 
   modalBody.innerHTML = '<div class="modal-loading">Loading…</div>';
+  modalBody.setAttribute("aria-busy", "true");
   openModal();
 
   state.currentScriptData = null;
@@ -71,12 +72,15 @@ export async function loadScript(card) {
     modalBody.innerHTML = renderCharacters(data);
   } catch {
     modalBody.innerHTML = `<div class="modal-error">Could not load script data.</div>`;
+  } finally {
+    modalBody.setAttribute("aria-busy", "false");
   }
 }
 
 function openModal() {
   overlay.classList.add("open");
   overlay.setAttribute("aria-hidden", "false");
+  overlay.removeAttribute("inert");
   document.body.style.overflow = "hidden";
   removeFocusTrap = makeFocusTrap(document.getElementById("modal"));
   requestAnimationFrame(() => document.getElementById("modal-close").focus());
@@ -85,6 +89,7 @@ function openModal() {
 function closeModal() {
   overlay.classList.remove("open");
   overlay.setAttribute("aria-hidden", "true");
+  overlay.setAttribute("inert", "");
   document.body.style.overflow = "";
 
   if (removeFocusTrap) {
@@ -132,7 +137,7 @@ function renderCharacters(entries) {
       .map((name) => `<span class="char-chip ${role.id}">${esc(name)}</span>`)
       .join("");
     parts.push(
-      `<div class="role-group"><div class="role-heading ${role.id}">${getRole(role.id).label}</div><div class="char-grid">${chips}</div></div>`,
+      `<div class="role-group"><h3 class="role-heading ${role.id}">${getRole(role.id).label}</h3><div class="char-grid">${chips}</div></div>`,
     );
   }
   return parts.join("");
