@@ -1,0 +1,87 @@
+<div id="controls" role="search" aria-label="Filter and search scripts">
+  <div class="controls-inner">
+    <div class="search-wrap">
+      <svg
+        class="search-icon"
+        aria-hidden="true"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <circle cx="11" cy="11" r="8" />
+        <line x1="21" y1="21" x2="16.65" y2="16.65" />
+      </svg>
+      <input
+        id="search"
+        type="search"
+        placeholder="Search by name or author… (press / to focus)"
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search scripts by name"
+      />
+    </div>
+    <div class="filter-row">
+      <span class="filter-label" aria-hidden="true">Type</span>
+      <span class="filter-sep" aria-hidden="true"></span>
+      <button
+        type="button"
+        class="filter-btn"
+        data-type="all"
+        aria-pressed="true"
+      >
+        All
+      </button>
+      <button
+        type="button"
+        class="filter-btn"
+        data-type="Full"
+        aria-pressed="false"
+      >
+        Full
+      </button>
+      <button
+        type="button"
+        class="filter-btn"
+        data-type="Teensyville"
+        aria-pressed="false"
+      >
+        Teensyville
+      </button>
+    </div>
+    <div class="char-filter-section">
+      <div class="filter-row">
+        <span class="filter-label" aria-hidden="true">Characters</span>
+        <span class="filter-sep" aria-hidden="true"></span>
+        <div class="char-input-wrap">
+          <input
+            id="char-search"
+            type="text"
+            placeholder="Add character filter…"
+            autocomplete="off"
+            spellcheck="false"
+            aria-label="Search for a character to filter by"
+            aria-haspopup="listbox"
+            aria-expanded="false"
+            aria-controls="char-dropdown"
+            aria-autocomplete="list"
+            role="combobox"
+          />
+          <div
+            id="char-dropdown"
+            class="char-dropdown"
+            role="listbox"
+            aria-label="Matching characters"
+          ></div>
+        </div>
+      </div>
+      <div
+        id="char-tags"
+        class="char-tags-row"
+        aria-label="Active character filters"
+      ></div>
+    </div>
+  </div>
+</div>
