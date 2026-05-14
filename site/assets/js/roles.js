@@ -5,6 +5,7 @@ export const ROLES = [
   { id: "demon", label: "Demon", color: "var(--c-demon)" },
   { id: "traveller", label: "Traveller", color: "var(--c-traveller)" },
   { id: "fabled", label: "Fabled", color: "var(--c-fabled)" },
+  { id: "loric", label: "Loric", color: "var(--c-loric)" },
   { id: "unknown", label: "Other", color: "var(--bone)" },
 ];
 

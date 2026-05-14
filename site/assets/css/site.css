@@ -20,12 +20,13 @@
   --radius: 6px;
   --focus-ring: 0 0 0 3px rgba(200, 150, 44, 0.45);
 
-  --c-townsfolk: #4a90d9;
-  --c-outsider: #5ba88b;
-  --c-minion: #d4782a;
-  --c-demon: #c03030;
+  --c-townsfolk: #2856a8;
+  --c-outsider: #6cb8ea;
+  --c-minion: #e07878;
+  --c-demon: #9c2424;
   --c-traveller: #9b65c8;
-  --c-fabled: #c8a020;
+  --c-fabled: #dcc028;
+  --c-loric: #5aa868;
 }
 
 html {
@@ -390,6 +391,9 @@ footer {
 .char-option-dot.fabled {
   background: var(--c-fabled);
 }
+.char-option-dot.loric {
+  background: var(--c-loric);
+}
 .char-option-dot.unknown {
   background: var(--bone);
   opacity: 0.5;
@@ -448,24 +452,24 @@ footer {
 }
 
 .char-tag.townsfolk {
-  background: rgba(74, 144, 217, 0.12);
-  border-color: rgba(74, 144, 217, 0.3);
-  color: #82b8e8;
+  background: rgba(40, 86, 168, 0.12);
+  border-color: rgba(40, 86, 168, 0.3);
+  color: #6a95d4;
 }
 .char-tag.outsider {
-  background: rgba(91, 168, 139, 0.12);
-  border-color: rgba(91, 168, 139, 0.3);
-  color: #7ecab0;
+  background: rgba(108, 184, 234, 0.12);
+  border-color: rgba(108, 184, 234, 0.3);
+  color: #a0d0f0;
 }
 .char-tag.minion {
-  background: rgba(212, 120, 42, 0.12);
-  border-color: rgba(212, 120, 42, 0.3);
-  color: #e0a070;
+  background: rgba(224, 120, 120, 0.12);
+  border-color: rgba(224, 120, 120, 0.3);
+  color: #ee9c9c;
 }
 .char-tag.demon {
-  background: rgba(192, 48, 48, 0.15);
-  border-color: rgba(192, 48, 48, 0.35);
-  color: #e07070;
+  background: rgba(156, 36, 36, 0.15);
+  border-color: rgba(156, 36, 36, 0.35);
+  color: #c45252;
 }
 .char-tag.traveller {
   background: rgba(155, 101, 200, 0.12);
@@ -473,9 +477,14 @@ footer {
   color: #c0a0e0;
 }
 .char-tag.fabled {
-  background: rgba(200, 160, 32, 0.12);
-  border-color: rgba(200, 160, 32, 0.3);
-  color: #e0c870;
+  background: rgba(220, 192, 40, 0.12);
+  border-color: rgba(220, 192, 40, 0.3);
+  color: #ecdc70;
+}
+.char-tag.loric {
+  background: rgba(90, 168, 104, 0.12);
+  border-color: rgba(90, 168, 104, 0.3);
+  color: #8cc898;
 }
 .char-tag.unknown {
   background: var(--dusk);
@@ -974,6 +983,9 @@ footer {
 .role-heading.fabled {
   color: var(--c-fabled);
 }
+.role-heading.loric {
+  color: var(--c-loric);
+}
 .role-heading.unknown {
   color: var(--bone);
   opacity: 0.5;
@@ -995,24 +1007,24 @@ footer {
 }
 
 .char-chip.townsfolk {
-  background: rgba(74, 144, 217, 0.1);
-  border-color: rgba(74, 144, 217, 0.28);
-  color: #82b8e8;
+  background: rgba(40, 86, 168, 0.1);
+  border-color: rgba(40, 86, 168, 0.28);
+  color: #6a95d4;
 }
 .char-chip.outsider {
-  background: rgba(91, 168, 139, 0.1);
-  border-color: rgba(91, 168, 139, 0.28);
-  color: #7ecab0;
+  background: rgba(108, 184, 234, 0.1);
+  border-color: rgba(108, 184, 234, 0.28);
+  color: #a0d0f0;
 }
 .char-chip.minion {
-  background: rgba(212, 120, 42, 0.1);
-  border-color: rgba(212, 120, 42, 0.28);
-  color: #e0a070;
+  background: rgba(224, 120, 120, 0.1);
+  border-color: rgba(224, 120, 120, 0.28);
+  color: #ee9c9c;
 }
 .char-chip.demon {
-  background: rgba(192, 48, 48, 0.12);
-  border-color: rgba(192, 48, 48, 0.32);
-  color: #e07070;
+  background: rgba(156, 36, 36, 0.12);
+  border-color: rgba(156, 36, 36, 0.32);
+  color: #c45252;
 }
 .char-chip.traveller {
   background: rgba(155, 101, 200, 0.1);
@@ -1020,9 +1032,14 @@ footer {
   color: #c0a0e0;
 }
 .char-chip.fabled {
-  background: rgba(200, 160, 32, 0.1);
-  border-color: rgba(200, 160, 32, 0.28);
-  color: #e0c870;
+  background: rgba(220, 192, 40, 0.1);
+  border-color: rgba(220, 192, 40, 0.28);
+  color: #ecdc70;
+}
+.char-chip.loric {
+  background: rgba(90, 168, 104, 0.1);
+  border-color: rgba(90, 168, 104, 0.28);
+  color: #8cc898;
 }
 .char-chip.unknown {
   background: var(--dusk);
