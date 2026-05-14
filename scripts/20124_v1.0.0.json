@@ -1,0 +1,127 @@
+[
+  {
+    "id": "_meta",
+    "name": "An Unpleasant Tenor",
+    "author": "Kinky Joe",
+    "bootlegger": [
+      "The Fearmonger may choose no one, and if so, no announcement is made.",
+      "The Magician ability works, even if drunk or poisoned."
+    ],
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "yaggababble",
+      "magician",
+      "minioninfo",
+      "demoninfo",
+      "preacher",
+      "godfather",
+      "witch",
+      "fearmonger",
+      "pukka",
+      "amnesiac",
+      "grandmother",
+      "shugenja",
+      "villageidiot",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "preacher",
+      "acrobat",
+      "witch",
+      "fearmonger",
+      "scarletwoman",
+      "exorcist",
+      "pukka",
+      "nodashii",
+      "yaggababble",
+      "godfather",
+      "amnesiac",
+      "tinker",
+      "grandmother",
+      "villageidiot",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

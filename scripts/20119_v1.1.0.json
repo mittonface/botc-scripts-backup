@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Accidental Discharge",
+    "author": "Kinky Joe & Josian",
+    "bootlegger": [
+      "Misfire (Loric): A drunk or poisoned player might misfire mechanically (i.e. function adversely to the ability).",
+      "The ability granted to the Demon from the Boffin might Misfire.",
+      "If the Vigormortis attacks itself &amp; a Scarlet Woman becomes the new Vigormortis, one of the original Vigormortis Townsfolk neighbors is poisoned.",
+      "If a Vigormortis ability is active, any minions killed by a Vigormortis have their abilities."
+    ]
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
