@@ -25,11 +25,14 @@ export function initFilters() {
   });
 
   document.addEventListener("keydown", (event) => {
-    const tag = document.activeElement.tagName;
-    if (event.key === "/" && tag !== "INPUT" && tag !== "TEXTAREA") {
-      event.preventDefault();
-      searchEl.focus();
-      searchEl.select();
-    }
+    if (event.key !== "/") return;
+    if (event.metaKey || event.ctrlKey || event.altKey) return;
+    const target = event.target;
+    const tag = target.tagName;
+    if (tag === "INPUT" || tag === "TEXTAREA" || target.isContentEditable)
+      return;
+    event.preventDefault();
+    searchEl.focus();
+    searchEl.select();
   });
 }
