@@ -1,0 +1,107 @@
+[
+  {
+    "id": "_meta",
+    "name": "Meet Me at Midnight",
+    "author": "Meeks",
+    "bootlegger": [
+      "Village Idiots cannot choose themselves for their ability.",
+      "Revert the Summoner/Legion jinx to the previous version: \"If the Summoner creates Legion, most players (including all evil players) become evil Legion.\""
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

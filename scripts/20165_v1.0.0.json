@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Brian and Caroline's Lab",
+    "author": "Cam",
+    "bootlegger": [
+      "If a player is simultaneously drunk & poisoned, they are treated as sober & healthy but might die."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

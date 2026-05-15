@@ -1,0 +1,119 @@
+[
+  {
+    "id": "_meta",
+    "name": "One of us is sane.",
+    "author": "iLogicL",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "poppygrower",
+      "minioninfo",
+      "summoner",
+      "demoninfo",
+      "snakecharmer",
+      "washerwoman",
+      "empath",
+      "fortuneteller",
+      "noble",
+      "shugenja",
+      "bountyhunter",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "snakecharmer",
+      "pithag",
+      "summoner",
+      "imp",
+      "fanggu",
+      "vortox",
+      "ojo",
+      "barber",
+      "ravenkeeper",
+      "empath",
+      "fortuneteller",
+      "undertaker",
+      "bountyhunter",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "knaves"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "_meta",
+    "name": "Draft Night",
+    "author": "seaplus",
+    "bootlegger": [
+      "1 Minion starts in play. X-1 good players become a not-in-play Minion of their choice when given Lil' Monsta. [X = normal Minion count]"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
