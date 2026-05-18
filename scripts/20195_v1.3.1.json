@@ -1,0 +1,124 @@
+[
+  {
+    "id": "_meta",
+    "name": "Induced Turbulence",
+    "author": "Tom O",
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "magician",
+      "minioninfo",
+      "demoninfo",
+      "lleech",
+      "engineer",
+      "preacher",
+      "organgrinder",
+      "devilsadvocate",
+      "pixie",
+      "fortuneteller",
+      "seamstress",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "harlot",
+      "philosopher",
+      "engineer",
+      "preacher",
+      "organgrinder",
+      "devilsadvocate",
+      "vortox",
+      "lleech",
+      "sweetheart",
+      "plaguedoctor",
+      "banshee",
+      "fortuneteller",
+      "seamstress",
+      "juggler",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "sentinel"
+  }
+]
