@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "One-Night Clocktower",
+    "author": "PogoFox",
+    "bootlegger": [
+      "Only the first Night happens when playing with this script.  The Storyteller skips all other nights.  If there are any deaths due to the Demon's ability that would have happened during a skipped night, those deaths are announced after players come back for public conversations after their private chats the next day.  For instance: Night 1 happens, then Day 1 (private chats, public conversations, nominations, execution), then Night 2 is skipped, then players split for private chats during Day 2, then players come back together for public conversations and the Storyteller announces that a player has died (this is the death that would have happened during Night 2), then the public conversations of Day 2 commence before nominations.",
+      "If the Imp is in play, the Imp must tell the Storyteller privately, while players are having private chats, which player they choose to die during the skipped Night."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

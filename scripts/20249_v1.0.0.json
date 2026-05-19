@@ -1,0 +1,70 @@
+[
+  {
+    "id": "_meta",
+    "name": "Glass House",
+    "author": "PogoFox",
+    "bootlegger": [
+      "There will be multiple Saints in the game, but only one of every other character.",
+      "The Demon receives no bluffs.",
+      "There are extra outsiders in the game for each player count, as follows:",
+      "5:+2; 6:+1; 7:+3; 8:+2; 9:+2; 10:+4; 11:+3; 12:+3; 13:+5; 14:+5; 15:+5."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
