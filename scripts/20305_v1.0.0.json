@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Yes Dashii",
+    "author": "ivaaanma",
+    "bootlegger": [
+      "Before each game the Storyteller rolls a D20. 1-15, the Amnesiac gets a random ability. 16-20, the Amnesiac becomes the Yes Dashii.",
+      "Yes Dashii: Each night*, choose a player. If they are the Demon, their living neighbors become permanently sober and healthy.",
+      "If the Amnesiac becomes poisoned/drunk: the Yes Dashii effect ceases.",
+      "If the Demon changes: the protected neighbors update to match the current Demon.",
+      "If the Demon resurrects/transfers: the effect follows the active Demon."
+    ]
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

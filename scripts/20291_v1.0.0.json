@@ -1,0 +1,101 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Lost Script - 9",
+    "author": "PogoFox",
+    "bootlegger": [
+      "Each player has one of 15 scripts.  Exactly one script held by a player is the true script.",
+      "The Storyteller is bound by the true script when giving information.  So, any 'lies' they may tell to a drunk or poisoned player about in-play characters, or bluffs they give to The Demon, will be characters that appear on the true script.",
+      "The Amnesiac forgot which script is the true script!  The Amnesiac's ability in this game is:  Each night, choose a player.  You learn whether they are holding the true script.",
+      "Players cannot swap scripts with each other.",
+      "Players must let other players look at their script upon request."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

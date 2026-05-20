@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hooray, All Minions",
+    "author": "seaplus",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "alchemist",
+      "yaggababble",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "lleech",
+      "xaan",
+      "poisoner",
+      "devilsadvocate",
+      "eviltwin",
+      "witch",
+      "cerenovus",
+      "fearmonger",
+      "mezepheles",
+      "pukka",
+      "damsel",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "poisoner",
+      "devilsadvocate",
+      "witch",
+      "cerenovus",
+      "fearmonger",
+      "mezepheles",
+      "scarletwoman",
+      "legion",
+      "pukka",
+      "lleech",
+      "yaggababble",
+      "barber",
+      "damsel",
+      "tor",
+      "dawn"
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "tor"
+  }
+]
