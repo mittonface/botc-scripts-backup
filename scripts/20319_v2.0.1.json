@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Lil' Bit of Poison",
+    "author": "Cam Com",
+    "bootlegger": [
+      "On a Minstrel night, Lil' Monsta can change babysitters, but cannot kill.",
+      "Lil' Monsta's babysitter \"wakes\" at night, even if Lil' Monsta doesn't kill that night.",
+      "Poppy Grower activates when killed by the Pukka.",
+      "The Marionette does not participate in a Hatter swap. Other evils cannot swap into a Marionette."
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

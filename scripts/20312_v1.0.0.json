@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Goblin Roulette",
+    "author": "Monstrox",
+    "bootlegger": [
+      "I Claim Goblin! Each non-Demon player is either Goblin, Alcheist-Goblin or thinks they are one of those!",
+      "All Outsiders are the Hermit, Alchemists receive true info.",
+      "The Vortox ability is changed, from \"Each day, if no one is executed, Evil wins\" to \"Each day, if an Alchemist-Goblin or Goblin is not executed, Evil wins.\" All other Demons also have this ability.",
+      "This is just a funny script, mainly meant for a group to practice reading eachother socially and meta-ing the ST."
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
