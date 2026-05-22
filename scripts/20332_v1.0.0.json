@@ -1,0 +1,65 @@
+[
+  {
+    "id": "_meta",
+    "name": "Snake Hunt",
+    "author": "PogoFox",
+    "bootlegger": [
+      "At the end of each day, each player must choose another player publicly, going clockwise, starting from a random player.  If a player's character chooses a player at night, this public end-of-day choice counts as their night's choice.  If a player's character does not choose a player at night, their end-of-day choice has no effect.  If multiple Snake Charmers choose the same player that registers as a Demon, the first Snake Charmer to choose that player triggers the rest of their ability.",
+      "At night, the Storyteller will only wake players whose characters/alignments have changed to inform them, and wake a player who has just become The Demon so they can choose one player privately.",
+      "There are more Snake Charmers than Soldiers in play.  The number of Soldiers is equal to the number of Outsiders plus or minus 1.",
+      "Soldiers cannot be poisoned by the Demon.",
+      "A Recluse can register as a Demon to a Snake Charmer, and can register differently to each Snake Charmer that chose them in a night.",
+      "The night a Pukka is chosen by a healthy Snake Charmer, the old Pukka's already-poisoned target still dies from the poison (but their most recent end-of-day target is not poisoned), and the new Pukka privately chooses a new player to be poisoned.",
+      "The night a Lleech is chosen by a healthy Snake Charmer, the old Lleech's new end-of-day target does not die, and the new Lleech privately chooses a player to be their host.",
+      "The poisoning caused by a Snake Charmer only lasts for two nights (the night of the poisoning, and the next night until dawn)."
+    ]
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

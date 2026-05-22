@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Midnight Mojito",
+    "author": "Dev",
+    "colour": "#2a3e5a",
+    "barColor": "#1e1925",
+    "isOfficial": true
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  }
+]
