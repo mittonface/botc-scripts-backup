@@ -1,0 +1,115 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://towerscripts.com/image/script/script_66c6428d63b4d",
+    "name": "Pro Skater",
+    "author": "Cam",
+    "firstNight": [
+      "dusk",
+      "lordoftyphon",
+      "minioninfo",
+      "demoninfo",
+      "king",
+      "marionette",
+      "organgrinder",
+      "cerenovus",
+      "pixie",
+      "empath",
+      "fortuneteller",
+      "seamstress",
+      "noble",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "organgrinder",
+      "cerenovus",
+      "scarletwoman",
+      "imp",
+      "lordoftyphon",
+      "choirboy",
+      "empath",
+      "fortuneteller",
+      "towncrier",
+      "oracle",
+      "seamstress",
+      "juggler",
+      "king",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]
