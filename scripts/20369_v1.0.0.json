@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Dark Dimension - Night Script",
+    "author": "PogoFox",
+    "bootlegger": [
+      "The game is played with both the Day Script and the Night Script of \"The Dark Dimension.\"  When players draw their characters, they draw a character from the Night Script.  The Storyteller will then privately assign each player a Day Script character as well, of the same alignment as their Night Script character (but not necessarily the same character type).  Players will learn their Day Script character privately from the Storyteller during Day 1.  For the entirety of the game, the Night Script is in effect at night and only at night, and the Day Script is in effect during the day and only the day.  For example, a player who is the Tea Lady by day does not protect their neighbors at night, since there is no Tea Lady on the Night Script, and a No Dashii only poisons their Townsfolk neighbors at night since there is no No Dashii on the Day Script.",
+      "In games of 7 or more players, the player who learns they are the Day Script Demon on Day 1 also learns 3 Day Script bluffs.",
+      "If a player (such as the Goon) changes alignment, both their Day Script and their Night Script characters change alignment at the same time.",
+      "Travellers are assigned both a Day Script and a Night Script Traveller character, both the same alignment, when they join the game."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

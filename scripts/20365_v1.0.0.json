@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "Shifting Allegiances",
+    "author": "name.exe",
+    "bootlegger": [
+      "The amnesiac can be any character type",
+      "When the Kazali chooses minions, they are asked if they would like to change the alignment of the amnesiac (if there is one in play) instead of picking a minion"
+    ]
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
