@@ -1,0 +1,142 @@
+[
+  {
+    "id": "_meta",
+    "name": "Draft Night",
+    "author": "seaplus",
+    "bootlegger": [
+      "1 Minion starts in play. X-1 good players become a not-in-play evil Minion of their choice when given Lil' Monsta. [X = normal Lil' Monsta Minion count]"
+    ],
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "engineer",
+      "snakecharmer",
+      "lilmonsta",
+      "poisoner",
+      "godfather",
+      "organgrinder",
+      "witch",
+      "cerenovus",
+      "harpy",
+      "mezepheles",
+      "pixie",
+      "balloonist",
+      "highpriestess",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "engineer",
+      "exorcist",
+      "snakecharmer",
+      "lilmonsta",
+      "poisoner",
+      "organgrinder",
+      "witch",
+      "cerenovus",
+      "harpy",
+      "mezepheles",
+      "assassin",
+      "godfather",
+      "gossip",
+      "barber",
+      "undertaker",
+      "balloonist",
+      "highpriestess",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
