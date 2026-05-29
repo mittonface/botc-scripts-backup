@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Undead or Undying",
+    "author": "Malle",
+    "firstNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "lleech",
+      "xaan",
+      "witch",
+      "damsel",
+      "empath",
+      "villageidiot",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "sailor",
+      "xaan",
+      "gambler",
+      "witch",
+      "zombuul",
+      "lleech",
+      "barber",
+      "damsel",
+      "empath",
+      "villageidiot",
+      "dawn"
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "voudon"
+  }
+]
