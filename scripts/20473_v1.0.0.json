@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dead On The Walktower",
+    "author": "ilvereth",
+    "bootlegger": [
+      "Wizard wishes and Amnesiac abilities (if in play) must be related to death and/or survival. The scope is up to Storyteller discretion"
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "ventriloquist"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
