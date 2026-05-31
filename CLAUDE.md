@@ -35,7 +35,7 @@ uv run python scraper.py --force --delay 0.5
 **Data flow:**
 
 1. `scraper.py` paginates through `botcscripts.com/api/scripts/` (20 results/page, ~476 pages), writing each script to `scripts/{pk}_v{version}.json` and rebuilding `scripts/manifest.json`.
-2. `site/static/scripts` is a checked-in symlink to `../../scripts`, so Hugo serves the script files and manifest directly — no copy step at build time.
+2. `site/hugo.toml` mounts `../scripts` to `static/scripts` via a Hugo module mount, so Hugo serves the script files and manifest directly from the top-level `scripts/` directory — no copy step at build time. (Previously a `static/scripts` symlink; Hugo on Linux refuses to follow symlinks pointing outside the source root, so the module mount replaced it.)
 3. `make site` runs Hugo; the frontend is a single-page app that fetches `manifest.json` on load, then fetches individual script JSONs on demand when a card is opened.
 
 **Frontend layout** (post-`presentation-layer-refactor`):

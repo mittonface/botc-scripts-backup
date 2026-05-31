@@ -3,3 +3,14 @@ locale = 'en-us'
 title = 'BotC Scripts'
 
 [taxonomies]
+
+[module]
+[[module.mounts]]
+source = "assets"
+target = "assets"
+[[module.mounts]]
+source = "static"
+target = "static"
+[[module.mounts]]
+source = "../scripts"
+target = "static/scripts"
