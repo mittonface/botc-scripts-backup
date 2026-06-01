@@ -1,0 +1,120 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://towerscripts.com/image/script/script_66c6428d63b4d",
+    "name": "Cam's So Vain",
+    "author": "Cam",
+    "firstNight": [
+      "dusk",
+      "lordoftyphon",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "poisoner",
+      "pukka",
+      "amnesiac",
+      "empath",
+      "fortuneteller",
+      "grandmother",
+      "noble",
+      "general",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "scarletwoman",
+      "legion",
+      "pukka",
+      "lordoftyphon",
+      "ojo",
+      "amnesiac",
+      "farmer",
+      "tinker",
+      "moonchild",
+      "grandmother",
+      "empath",
+      "fortuneteller",
+      "oracle",
+      "general",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]
