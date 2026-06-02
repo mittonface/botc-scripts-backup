@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "The King's Ball",
+    "author": "Zachary"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]

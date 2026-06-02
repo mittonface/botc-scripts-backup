@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "name": "Demonization Level 1",
+    "author": "d34thp0odle",
+    "bootlegger": [
+      "Demon doesn't learn Lunatics. He sees their picks as a Lunatics in a fixed order.",
+      "Boffin can give an in-play abilitiy and to more than one demon (Recluses)",
+      "Balloonist [at least 1 Outs.], Poppy Grower [+1 Outs.], Huntsman [Demon gets no Bluffs], Hermit [+/- 0 Outs. ]"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

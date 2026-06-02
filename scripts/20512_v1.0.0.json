@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Asking For A Friend",
+    "author": "Jobs",
+    "bootlegger": [
+      "If the Poppy Grower leaves play, or dies while drunk or poisoned, Minions & Demons learn each other that night."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
