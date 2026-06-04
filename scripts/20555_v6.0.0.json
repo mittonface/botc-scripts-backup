@@ -1,0 +1,80 @@
+[
+  {
+    "id": "_meta",
+    "name": "Waiting Room",
+    "author": "Luxray",
+    "bootlegger": [
+      "Recluse cannot misregister to the King.",
+      "If both Marionette and Damsel are in play, the Demon learns that the Damsel is in play."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

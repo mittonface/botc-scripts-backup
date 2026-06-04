@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "name": "Masquerading",
+    "author": "Brockwell",
+    "bootlegger": [
+      "Optional Rule: If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "I Forgot Who My Friends Are",
+    "author": "Joe",
+    "bootlegger": [
+      "The Amnesiac might be any character type.",
+      "The Amnesiac starts knowing which character type they are. They learn this truthfully, even if drunk, poisoned, and/or the Vortox is in play.",
+      "If the Amnesiac is a demon; the storyteller announces this at the start of day one, and the Amnesiac might learn clues about their ability at night.",
+      "The Alchemist might have the Amnesiac ability.",
+      "If the Philosopher chooses Amnesiac and an evil Amnesiac is in play, the Amnesiac does not become drunk."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
