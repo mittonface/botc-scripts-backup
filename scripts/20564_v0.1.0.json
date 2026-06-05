@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "name": "My Heart Will Go On",
+    "author": "SilentInAWay",
+    "bootlegger": [
+      "On night 4, the ship hits the iceberg and the game changes.",
+      "Outsiders chosen by Leviathan in the night learn an evil player.",
+      "Silence of the Deep (Minion) -- Each night, choose a player: they register as evil tonight and tomorrow day. While you have your ability, information from other players' abilities is withheld."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
