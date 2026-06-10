@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Fortune Teller got a YES",
+    "author": "Slade",
+    "bootlegger": [
+      "All starting evil are Demons. Demon abilites do not kill. If The Boss dies, good wins. Each night, together, evils (except Legion) choose who is The Boss",
+      "Each night* the Boss regains it's ability to kill. Each other demon keeps its other powers. The first night the boss will not be given any bluffs. ",
+      "Fang Gu can turn one living outsider into a Fang Gu, the Fang Gu only dies doing this if it's The Boss",
+      "Leach poisons its host and die if and only if its host dead",
+      "Ojo If not the Boss the Ojo picks a character, if in play the story teller will point to them if not then the story teller can pick anyone.",
+      "Pukka poisons a target every night and if not the boss it's previously poisoned target becomes sober when it chooses a new target ",
+      "Kazali if in the bag no other evil tokens are in the bag. The Kazali get to pick which players and which demons. It starts the first night and day as The Boss"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
