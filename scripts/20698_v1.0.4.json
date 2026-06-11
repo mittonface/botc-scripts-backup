@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "Stop Falling For It!",
+    "author": "Sjet, Sungbin",
+    "bootlegger": [
+      "The Poppy Grower does not know they are the Poppy Grower. They believe they are a different good character, but they are actually the Poppy Grower. The Poppy Grower is always in play, and the Storm Catcher always selects the Poppy Grower.",
+      "The Kazali chooses Minion players and characters, but who becomes which character is arbitrary. After the Kazali finishes choosing, put the Kazali to sleep before creating the Minions.",
+      "The Typhon learns who the Minions are at the start of the game."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]
