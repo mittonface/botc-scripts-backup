@@ -1,0 +1,50 @@
+[
+  {
+    "id": "_meta",
+    "name": "Arcane Delirium",
+    "author": "seaplus",
+    "bootlegger": [
+      "Ignore the Marionette/Lil' Monsta jinx. The Marionette starts next to the Wizard.",
+      "The Marionette and good players holding Lil' Monsta do not learn the Marionette."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Missed Connections",
+    "author": "Banana Boy",
+    "barColor": "#1e1925",
+    "isOfficial": true,
+    "description": "This script is built around the idea that most characters, good or evil, are looking for someone other than just the demon. A lot of the tension should be around the mechanical powers the Good team has through coordination against the cost of the Evil team finding their targets first.\n\n\nBoth teams have alternate win opportunities, but they will need to decide how to deal with the Heretic, with both having options to remove them from the board should they so choose, but only via character change.\n\n\nWe all have a perfect person out there for us. Will you find yours?"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  }
+]
