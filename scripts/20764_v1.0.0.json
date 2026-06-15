@@ -1,0 +1,56 @@
+[
+  {
+    "id": "_meta",
+    "name": "Teensy Violets",
+    "author": "SharkSurfer52",
+    "bootlegger": [
+      "The Vigormortis might or might not subtract an Outsider",
+      "If the Fang Gu is the starting Demon, the Outsider that it adds must replace the Minion token in the bag. The Sentinel may not remove this Outsider."
+    ]
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
