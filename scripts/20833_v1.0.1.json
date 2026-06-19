@@ -1,0 +1,53 @@
+[
+  {
+    "id": "_meta",
+    "name": "Slutty Slayer",
+    "author": "Blue Will",
+    "bootlegger": [
+      "If the psychopath is mad as the Slayer, they can express their first kill in the form of a Slayer shot",
+      "The exorcist wakes Night 1.\nIf the Exorcist chooses the Yagababble, the Yagababble cannot kill that night or the following day."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
