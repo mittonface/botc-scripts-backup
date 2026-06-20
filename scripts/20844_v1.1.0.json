@@ -1,0 +1,143 @@
+[
+  {
+    "id": "_meta",
+    "name": "Infinite Spiral",
+    "author": "NotDeathsHead",
+    "bootlegger": [
+      "The Alchemist does not learn what Minion ability they have."
+    ],
+    "firstNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "alchemist",
+      "tor",
+      "minioninfo",
+      "demoninfo",
+      "wizard",
+      "mezepheles",
+      "pixie",
+      "amnesiac",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "clockmaker",
+      "steward",
+      "villageidiot",
+      "bountyhunter",
+      "nightwatchman",
+      "cultleader",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "harlot",
+      "wizard",
+      "mezepheles",
+      "scarletwoman",
+      "lycanthrope",
+      "imp",
+      "vigormortis",
+      "amnesiac",
+      "tinker",
+      "moonchild",
+      "tor",
+      "empath",
+      "fortuneteller",
+      "villageidiot",
+      "bountyhunter",
+      "nightwatchman",
+      "cultleader",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
