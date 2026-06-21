@@ -1,0 +1,105 @@
+[
+  {
+    "id": "_meta",
+    "name": "ME WANT HAT",
+    "author": "Angy",
+    "bootlegger": [
+      "The player with the Ug hat is sober and healthy, regardless of other's abilities. The Recluse will not register as a Minion or Demon to the player with the Ug hat.",
+      "When a player loses the Ug hat, they get to choose who to give it to.",
+      "Have fun fighting and convincing each other for the hat!"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "godofug"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

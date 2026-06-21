@@ -1,0 +1,113 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hell Yeah, All Minions",
+    "author": "seaplus",
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "marionette",
+      "xaan",
+      "poisoner",
+      "organgrinder",
+      "devilsadvocate",
+      "eviltwin",
+      "witch",
+      "cerenovus",
+      "harpy",
+      "pukka",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "xaan",
+      "poisoner",
+      "organgrinder",
+      "devilsadvocate",
+      "witch",
+      "cerenovus",
+      "harpy",
+      "scarletwoman",
+      "imp",
+      "pukka",
+      "nodashii",
+      "vigormortis",
+      "dawn"
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "pope"
+  }
+]

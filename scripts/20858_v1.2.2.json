@@ -1,0 +1,105 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/9fH1mgHF/Enzo.png",
+    "name": "Agent of Chaos",
+    "author": "Angelo",
+    "almanac": "https://www.botcscripts.com/script/7773",
+    "bootlegger": [
+      "Only one of the Hermit and Politician characters may be in play."
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
