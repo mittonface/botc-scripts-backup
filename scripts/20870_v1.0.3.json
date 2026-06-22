@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Beauty and the Beasts",
+    "author": "LivFreeOrPie / Bill Pz",
+    "bootlegger": [
+      "The Lycanthrope does not create a \"Faux Paw.\" No good players register as evil due to the Lycanthrope. "
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
