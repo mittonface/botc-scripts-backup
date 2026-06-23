@@ -1,0 +1,43 @@
+[
+  {
+    "id": "_meta",
+    "name": "Royal Kings Court",
+    "author": "beastboy",
+    "bootlegger": [
+      "The Vizier can only be in play if there are two or more Minions in the game."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "duchess"
+  }
+]
