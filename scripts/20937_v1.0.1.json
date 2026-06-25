@@ -1,0 +1,67 @@
+[
+  {
+    "id": "_meta",
+    "name": "Teensy Buffet",
+    "author": "seaplus",
+    "bootlegger": [
+      "In random order, the Storyteller gives each player 3 characters they choose from."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

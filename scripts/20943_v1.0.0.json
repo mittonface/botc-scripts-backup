@@ -1,0 +1,121 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trust Is Just A Word - Güven Sadece Bir Kelimedir",
+    "author": "Kea"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "_meta",
+    "name": "Vortox True Information",
+    "author": "b_Z",
+    "bootlegger": [
+      "Vortox/Poisoner: If a player is poisoned/drunk, they can receive true information.",
+      "Vigormortis/Scarletwoman: A scarlet woman Vigormortis retains the old minion kill and poisoning of townsfolk"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
