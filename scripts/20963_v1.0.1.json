@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Nobody Fucking Move",
+    "author": "Brockwell",
+    "bootlegger": [
+      "Optional ruling: The Alchemist has a not-in-play Minion ability, and learns which. If the Vortox is in play, this information is false."
+    ]
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "sentinel"
+  }
+]
