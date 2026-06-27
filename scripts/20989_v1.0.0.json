@@ -1,0 +1,63 @@
+[
+  {
+    "id": "_meta",
+    "name": "Bag on Head",
+    "author": "davcap",
+    "bootlegger": [
+      "All players have the same Zenomancer goal: guess your character before you die. (One attempt per game)",
+      "The Fortune Teller receives a \"0\" when both players chosen do not register as the Demon, and a \"1\" when either player chosen registers as the Demon.",
+      "The Chambermaid may choose themself, but might get incorrect info.",
+      "The Sailor and Lycanthrope may choose a dead player. If the Lycanthrope chooses a dead player, it cannot stop the Demon from killing. ",
+      "The Demon does not learn who the Lunatic is or who they choose.",
+      "If an outsider becomes the Fang Gu, they do not learn this."
+    ]
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
