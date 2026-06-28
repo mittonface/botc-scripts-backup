@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "name": "Untrepid Heroes",
+    "author": "seaplus",
+    "bootlegger": [
+      "A player with a goal may start a questing party and become its leader. When a player completes a quest instead of the leader, they join the party (once).",
+      "Players in a party cannot be drunk or poisoned.",
+      "At night after a party leader dies, the party is disbanded and the players in the party are drunk unti dusk."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

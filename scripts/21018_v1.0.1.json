@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "BOTC Speedrun any%",
+    "author": "sec",
+    "bootlegger": [
+      "You can only gamble publicly during the day.",
+      "Heretic/Lleech Jinx: If the Heretic is the Lleech host, the Heretic is poisoned when the Lleech dies."
+    ],
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "philosopher",
+      "alchemist",
+      "yaggababble",
+      "minioninfo",
+      "demoninfo",
+      "lleech",
+      "wizard",
+      "snakecharmer",
+      "pukka",
+      "damsel",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "wizard",
+      "gambler",
+      "snakecharmer",
+      "pukka",
+      "lleech",
+      "yaggababble",
+      "damsel",
+      "tinker",
+      "dawn"
+    ]
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

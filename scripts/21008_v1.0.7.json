@@ -1,0 +1,51 @@
+[
+  {
+    "id": "_meta",
+    "name": "Beauty of Executions",
+    "author": "Majkl11",
+    "bootlegger": [
+      "Nominator isn't killed by Virgin immediately: after nomination ends.",
+      "The Investigator learns an out-of-play minion",
+      "If no execution occurs in top 3: if there is Mayor and Vortox, Mayor ability overrides."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
