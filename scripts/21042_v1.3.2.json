@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hard Claim Hell",
+    "author": "shelter.",
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "preacher",
+      "snakecharmer",
+      "godfather",
+      "cerenovus",
+      "pixie",
+      "huntsman",
+      "damsel",
+      "empath",
+      "balloonist",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "preacher",
+      "innkeeper",
+      "gambler",
+      "snakecharmer",
+      "cerenovus",
+      "exorcist",
+      "lycanthrope",
+      "ojo",
+      "assassin",
+      "godfather",
+      "huntsman",
+      "damsel",
+      "empath",
+      "balloonist",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "ojo"
+  }
+]

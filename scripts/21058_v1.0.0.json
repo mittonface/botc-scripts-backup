@@ -1,0 +1,63 @@
+[
+  {
+    "id": "_meta",
+    "name": "Snakes on a Plane",
+    "author": "Shari",
+    "bootlegger": [
+      "If you are mad about being a snake charmer you may be executed. ",
+      "The leech host may die if leech is mad it's the snake charmer, the host will not die if it's mad it's the snake charmer. ",
+      "As long as there is a living Poppy Grower evil team won't know each other. "
+    ]
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
