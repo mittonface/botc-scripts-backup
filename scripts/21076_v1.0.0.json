@@ -1,0 +1,156 @@
+[
+  {
+    "id": "_meta",
+    "name": "Pull The Trigger?",
+    "author": "Barry McStay",
+    "bootlegger": [
+      "On night 1, multiple players might learn a secret phrase.",
+      "Players who choose to make a wish may be told \"Your wish is my command\"."
+    ],
+    "firstNight": [
+      "dusk",
+      "barista",
+      "bureaucrat",
+      "yaggababble",
+      "tor",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "lleech",
+      "wizard",
+      "snakecharmer",
+      "fearmonger",
+      "amnesiac",
+      "empath",
+      "clockmaker",
+      "steward",
+      "bountyhunter",
+      "cultleader",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "barista",
+      "bureaucrat",
+      "harlot",
+      "sailor",
+      "wizard",
+      "snakecharmer",
+      "fearmonger",
+      "scarletwoman",
+      "exorcist",
+      "lycanthrope",
+      "fanggu",
+      "vigormortis",
+      "lleech",
+      "yaggababble",
+      "barber",
+      "amnesiac",
+      "farmer",
+      "tinker",
+      "moonchild",
+      "tor",
+      "empath",
+      "bountyhunter",
+      "cultleader",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
