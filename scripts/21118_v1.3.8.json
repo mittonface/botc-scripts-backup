@@ -1,0 +1,134 @@
+[
+  {
+    "id": "_meta",
+    "name": "It's Voting Time!",
+    "author": "nerdguy708",
+    "bootlegger": [
+      "There can only be 1 puzzledrunk.",
+      "If the alchemist evil twin sees a player with the goblin ability, and that player has claimed goblin this game, the alchemist is drunk."
+    ],
+    "firstNight": [
+      "dusk",
+      "thief",
+      "philosopher",
+      "alchemist",
+      "minioninfo",
+      "demoninfo",
+      "devilsadvocate",
+      "eviltwin",
+      "pukka",
+      "pixie",
+      "butler",
+      "seamstress",
+      "steward",
+      "balloonist",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "thief",
+      "philosopher",
+      "devilsadvocate",
+      "pithag",
+      "legion",
+      "pukka",
+      "fanggu",
+      "vortox",
+      "flowergirl",
+      "towncrier",
+      "seamstress",
+      "balloonist",
+      "butler",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
