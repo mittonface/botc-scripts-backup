@@ -1,0 +1,147 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hermit Buffet",
+    "author": "Kenni",
+    "bootlegger": [
+      "The demon gets to choose the 3 outsiders the hermit is unless an amne ability gets priority",
+      "If all outsiders are face up the hermit is made aware of what outsiders they are",
+      "If hermit has both butler and zealot, must vote every time their master votes",
+      "If hermit is butler with a facedown outsider they will still be asked to make a choice",
+      "If zealot/ butler does not vote or votes without master story teller can kill them at their discretion",
+      "If hermit has zealot or bulter ability they will become aware of the fact they have to choose for butler or vote every nom",
+      "Everyone must ogre, klutz, and pick",
+      "Storyteller reserves the right to deny a hermit combination",
+      "NO COMBINATIONS OF: Barber and damsel, damsel and lunatic, damsel and golem, and damsel and zealot, saint and drunk, saint and mutant, or saint and lunatic"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
