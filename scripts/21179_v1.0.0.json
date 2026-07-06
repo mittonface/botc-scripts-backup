@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "name": "False Credentials",
+    "author": "Josh"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  }
+]

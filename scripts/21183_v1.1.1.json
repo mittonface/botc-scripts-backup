@@ -1,0 +1,117 @@
+[
+  {
+    "id": "_meta",
+    "name": "Make Some Noise",
+    "author": "WileyJayFox",
+    "bootlegger": [
+      "The vizier cannot force an execution on an evil player",
+      "If the Psychopath did not kill today and is the first to nominate, their nominee dies",
+      "A Hermit may nominate more than once, but their Golem ability only functions once"
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  },
+  {
+    "id": "sentinel"
+  }
+]

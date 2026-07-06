@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Day Zero of Leviathan",
+    "author": "Maegi_v73"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "leviathan"
+  }
+]

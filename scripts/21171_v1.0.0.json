@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Monkeys Paw",
+    "author": "Blaine Lockett"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "imp"
+  }
+]
