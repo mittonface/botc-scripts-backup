@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Very Normal Script",
+    "author": "seaplus"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "lleech"
+  }
+]
