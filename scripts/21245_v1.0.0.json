@@ -1,0 +1,47 @@
+[
+  {
+    "id": "_meta",
+    "name": "No Greater Joy - Stream Edition",
+    "author": "Unknown (based on script by Steven Medway)",
+    "version": 2.0
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "toymaker"
+  }
+]

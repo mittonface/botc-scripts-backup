@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Misbrew Manor",
+    "author": "Nemesis",
+    "bootlegger": [
+      "Each night, a player (dead or alive) might receive a piece of true info. If no one received any such info tonight, the Demon learns this."
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
