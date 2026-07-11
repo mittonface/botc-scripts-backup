@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Hecklers' Favorite",
+    "author": "Norcent",
+    "bootlegger": [
+      "Deviant must be in play.",
+      "Each player can call for the exile of the Deviant once per game.",
+      "The player that successfully exile the Deviant, recieves a major advantage, even when dead.",
+      "Living Deviants are neutral and will win at end of game, or will learn their alignment after exile/death."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

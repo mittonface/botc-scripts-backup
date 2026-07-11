@@ -1,0 +1,27 @@
+[
+  {
+    "id": "_meta",
+    "name": "How to Spell Disaster",
+    "author": "Electric131",
+    "bootlegger": [
+      "All Wizard abilities must be used on the first night.",
+      "There are no outsiders.",
+      "All minions must be Wizards."
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "_meta",
+    "name": "There's A New Sheriff In Town...",
+    "author": "sketchy",
+    "bootlegger": [
+      "The Assassin cannot choose the Stormcaught player.",
+      "The Storm Catcher favours the Slayer.",
+      "Optional: Once a day before nominations, a player can call for a Riot. If all good players agree (run like cult leader) then all evil players become Riot. Then, act as if it is the third day and remove Storm Catcher from play. The player who called the Riot must nominate first. (Only the Mayor-Riot jinx matters: The Mayor may choose to stop the riot. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins.)",
+      "Optional: If the Gunslinger, Gangster, Gnome, or Harlot is in play, they cannot kill or choose the Slayer or a Demon who is mad they are the Slayer.",
+      "Optional: During nominations, all players are mad they're livin' in the Wild Wild West with the thickest Southern drawl you've ev'r dun heard... or something bad might happen."
+    ]
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]
