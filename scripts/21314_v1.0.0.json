@@ -1,0 +1,55 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Nightmare King",
+    "author": "seaplus",
+    "bootlegger": [
+      "The Marionette and good players do not learn the Marionette when holding Lil' Monsta."
+    ]
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
