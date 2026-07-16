@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Minion Monty Hall Paradox",
+    "author": "LivFreeOrPie / Bill Pz",
+    "bootlegger": [
+      "The Vigormortis does not remove an Outsider from play. The Sentinel might modify the Outsider count."
+    ]
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

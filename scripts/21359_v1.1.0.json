@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mob Rule",
+    "author": "TieGuyTravis",
+    "bootlegger": [
+      "The Riot chooses an alive player each night*, even if the Ravenkeeper is not in play. They do not have to pick a good player, but cannot pick the Marionette or themself."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "riot"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

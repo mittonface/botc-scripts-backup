@@ -1,0 +1,87 @@
+[
+  {
+    "id": "_meta",
+    "name": "More than you can chew v0.1",
+    "author": "Martin",
+    "bootlegger": [
+      "Shabaloth always regurgitates one player the next night. If 4 or less players are alive, the Shabaloth loses this ability. ",
+      "Once per game, the Demon can choose themself. If they were to die that night due to their own ability, they instead register as dead, and will register as alive starting the following night, as if they were regurgitated. The other person they chose last night doesn't get regurgitated.",
+      "A regurgitated Shugenja may learn the direction of the closest living evil player. ",
+      "A regurgitated Baron may turn one player into an outsider. ",
+      "A regurgitated Clockmaker may learn how far the Demon is from the closest living Minion.",
+      "A regurgitated Chef may learn the number of alive evil pairs.  "
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]
