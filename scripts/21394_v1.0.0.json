@@ -1,0 +1,54 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Drunk, the Mad and the Legiony",
+    "author": "Salem",
+    "bootlegger": [
+      "In a 6 player game, there may be 3 or 4 Legion, rather than only 4.",
+      "The Demon does not learn who the Marionette is.",
+      "The Storyteller chooses who is babysitting Lil' Monsta each night."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

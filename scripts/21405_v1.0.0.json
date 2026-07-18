@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Farm to Toilet",
+    "author": "seaplus",
+    "bootlegger": [
+      "Up to 4 players are Shitstains. They have a hidden shitty ability that activates upon their death. All players know the number of Shitstains at the start of the game.",
+      "Apeshit: A player has the Cerenovus ability until dusk.",
+      "Batshit: A player has the Harpy ability until dusk.",
+      "Bullshit: A player has the Puzzlemaster ability until dusk.",
+      "Dogshit: A player has the Vortox ability from dawn to dusk.",
+      "Chickenshit: A player knows their choice was redirected.",
+      "Horseshit: A player has the Poisoner ability until dusk.",
+      "Jackshit: A player does not wake tonight.",
+      "Holyshit: A player knows they have the Saint ability until dusk."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

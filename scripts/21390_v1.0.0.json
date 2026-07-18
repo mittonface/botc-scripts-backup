@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Capri Denim",
+    "author": "seaplus",
+    "bootlegger": [
+      "The game ends after day 1. The Storyteller sets a timer for the end of the game. Time pauses for private chats with the Storyteller and with nominations. There is no night phase after executions.",
+      "All \"once per game\" abilities can be used in a private chat with the Storyteller at any time.",
+      "Demon kills that usually happen in the night happen after an execution instead.",
+      "The Assassin kill may happen immediately or on a specific trigger."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
