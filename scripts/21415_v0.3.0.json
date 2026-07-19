@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "Solid Answers",
+    "author": "Wayfarer",
+    "bootlegger": [
+      "If nobody dies by execution, the execution target is not announced at the end of the day.",
+      "The players may vote for the Storyteller when a Boomdandy explodes; and if they have the most votes, the Storyteller is executed.",
+      "The Hermit has either the Lunatic or Drunk ability. They might lose one and gain the other at any time. The Demon learns that the Hermit is the Lunatic whenever the Hermit gains the Lunatic ability, and does not learn the choices of a Hermit-Drunk."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "ventriloquist"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

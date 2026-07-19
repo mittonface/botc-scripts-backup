@@ -1,0 +1,114 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Demon You Don't V1",
+    "author": "The Last Eseption",
+    "bootlegger": [
+      "The Demon picks who they play. The Demon may change into any other Demon. If so, They do not kill tonight. (They can not change into a Demon they have already been).",
+      "If any Character learns the Demon or Demon Player. The Demon is stuck as the Demon they currently are until the game is over.",
+      "The Minion and Demon do not know each other. In the case of a Kazali, they may choose which Minion(s) but not which Player(s).",
+      "If the Hatter died not by Execution, the Demon is stuck as the Demon they currently are until the game is over. And the Minion(s) is Drunk until Dusk.",
+      "The Politician may start as either Evil or Good, Each night, They learn how many Evil and Good characters are in play.",
+      "The Grandmother does not learn the good Players Character."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

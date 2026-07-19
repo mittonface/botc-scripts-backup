@@ -1,0 +1,53 @@
+[
+  {
+    "id": "_meta",
+    "name": "Custody Battle",
+    "author": "shelter.",
+    "bootlegger": [
+      "Minions wake one by one, until one of them chooses to take the Lil' Monsta token.",
+      "Each night*, the player holding Lil' Monsta chooses a player: they die."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

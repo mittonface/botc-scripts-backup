@@ -1,0 +1,82 @@
+[
+  {
+    "id": "_meta",
+    "name": "Choose your Demon",
+    "author": "Tom A"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  }
+]
