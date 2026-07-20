@@ -1,0 +1,149 @@
+[
+  {
+    "id": "_meta",
+    "name": "Get Silly With It (V2)",
+    "author": "RobT",
+    "bootlegger": [
+      "You cannot guess your Amne ability after death",
+      "The Storyteller may visit you in the night for any reason which may or may not be related to an Amne/Wizard ability.",
+      "A player may be chosen to have the 'Night Artist' ability, where at night the ST must answer 'Yeah' or 'Nahhhh' arbitrarily depending on how they feel about your question.",
+      "The Big Wig is optional and the ST decides if it's in play or not.",
+      "The Zenomancer is almost definitely in play",
+      "Not exactly a rule, but bluffing that the ST visited you in the night is a completely valid strat for good or evil"
+    ],
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "king",
+      "sailor",
+      "lilmonsta",
+      "lleech",
+      "wizard",
+      "devilsadvocate",
+      "harpy",
+      "amnesiac",
+      "grandmother",
+      "dreamer",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "wizard",
+      "monk",
+      "devilsadvocate",
+      "pithag",
+      "harpy",
+      "princess",
+      "imp",
+      "po",
+      "fanggu",
+      "lleech",
+      "lilmonsta",
+      "assassin",
+      "gossip",
+      "hatter",
+      "sweetheart",
+      "amnesiac",
+      "grandmother",
+      "dreamer",
+      "oracle",
+      "king",
+      "dawn"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "bigwig"
+  }
+]

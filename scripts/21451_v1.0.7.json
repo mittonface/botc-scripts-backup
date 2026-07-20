@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.ibb.co/hJDyG7v5/dzfin2.png",
+    "name": "Danger Zone",
+    "author": "seaplus",
+    "hideTitle": true,
+    "background": "https://i.ibb.co/k2fRfff5/duchess4.png"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "sentinel"
+  }
+]
