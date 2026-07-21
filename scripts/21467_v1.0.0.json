@@ -1,0 +1,133 @@
+[
+  {
+    "id": "_meta",
+    "name": "CHAOS",
+    "author": "gorp",
+    "bootlegger": [
+      "There are 2 Storytellers. Players don't know if the Ventriloquist, Pope, Hindu, or Knaves are in play. If a Fabled or Loric affects the Goon first, the NPC becomes drunk."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "matron"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "godofug"
+  },
+  {
+    "id": "ventriloquist"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "knaves"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "bigwig"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "fibbin"
+  },
+  {
+    "id": "sentinel"
+  }
+]
