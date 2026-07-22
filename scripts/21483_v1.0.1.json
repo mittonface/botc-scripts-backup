@@ -1,0 +1,114 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Journey Through Nature",
+    "author": "Dominic",
+    "bootlegger": [
+      "Huntsman: Once per game, at night, choose a living player: a turned-evil player, if chosen, becomes good again.",
+      "An evil Ogre turned good again by the Huntsman learns this.",
+      "Like how the Hatter has two ways of playing it, decide with your group whether or not this Huntman ability can create a good Typhon minion."
+    ]
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "doomsayer"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "djinn"
+  }
+]

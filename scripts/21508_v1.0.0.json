@@ -1,0 +1,60 @@
+[
+  {
+    "id": "_meta",
+    "name": "Guessamorphosis",
+    "author": "Nate",
+    "bootlegger": [
+      "Once per game, each good player may publicly guess all evil players. If correct, good wins.",
+      "When a player changes alignment, a player of the opposite alignment does too. Setup included."
+    ],
+    "firstNight": [
+      "dusk",
+      "ogre",
+      "minioninfo",
+      "demoninfo",
+      "preacher",
+      "mezepheles",
+      "bountyhunter",
+      "dawn"
+    ]
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
