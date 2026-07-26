@@ -1,0 +1,96 @@
+[
+  {
+    "id": "_meta",
+    "name": "Les Mez-erables",
+    "author": "Orchestravels",
+    "bootlegger": [
+      "This script is meant to played in Revolutionary Pairs",
+      "There is a Fabled Mezepheles in-play. Only the storyteller will know the word. The first person (not pair of people) who says the word will turn evil that night.",
+      "If the Mez-turned player is nominated by their partner and executed in-town, good team wins the game"
+    ]
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "revolutionary"
+  }
+]
