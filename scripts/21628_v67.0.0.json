@@ -1,0 +1,66 @@
+[
+  {
+    "id": "_meta",
+    "name": "mad",
+    "author": "mad",
+    "bootlegger": [
+      "An Alchemist-Marionette has a not in play good character's ability",
+      "If the Storyteller would gain the Marionette ability, then the Storyteller gets a not in play good character's ability.\n",
+      "Use the old Alchemist ability: You have a not in play Minion ability"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "angel"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Palk's Secret Phrase",
+    "author": "gPalk",
+    "bootlegger": [
+      "The Yaggababble chooses their own secret phrase, if it's inadequate according to the Storyteller, the Storyteller may either let them choose again, or pick it themselves."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
