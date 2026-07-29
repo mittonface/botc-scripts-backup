@@ -1,0 +1,47 @@
+[
+  {
+    "id": "_meta",
+    "name": "Swing and Miss",
+    "author": "Freontwel",
+    "bootlegger": [
+      "The Minion is always the Psychopath. There is no Demon. The Alchemist-Summoner is in play.",
+      "The psychopath cannot target themselves"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
