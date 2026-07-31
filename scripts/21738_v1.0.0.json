@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "A Kind of Tango",
+    "author": "Dominic"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "knaves"
+  },
+  {
+    "id": "bigwig"
+  },
+  {
+    "id": "fiddler"
+  },
+  {
+    "id": "doomsayer"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  },
+  {
+    "id": "revolutionary"
+  }
+]
