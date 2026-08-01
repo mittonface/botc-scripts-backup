@@ -1,0 +1,115 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/D1.png",
+    "name": "The Darkness is coming",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/D2.png",
+    "bootlegger": [
+      "Regeln: 1. Keiner kennt seine Rolle und sein Alignment.,",
+      "2. Wenn ein Spieler/-in verändert wird, wird darüber informiert, aber nicht welcher Charakter und welches Alignment.",
+      "3.Wenn ein Spieler/-in eine ungültige Wahl trifft (z.B. Exorzist wählt 2 Nächte hintereinander den gleichen Spieler/-in), funktioniert die Fähigkeit nicht und es gibt betrunkene Info. ",
+      "4. Spieler mit „Einmalfähigkeit“ Fähigkeiten in der Nacht werden jede Nacht gefragt, ob sie diese einsetzen wollen ohne zu sagen welche das ist. Erst danach werden sie konkreter gefragt. \n",
+      "5. Ab Nacht 2 wird jede Nacht ein böser Spieler informiert, dass er böse ist."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "sentinel"
+  }
+]

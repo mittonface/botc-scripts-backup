@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mirror of Lies",
+    "author": "RA",
+    "bootlegger": [
+      "If the Pit-Hag creates a Drunk, the Storyteller chooses which Townsfolk becomes Drunk."
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble and Also Violets",
+    "author": "Lonely Taco",
+    "bootlegger": [
+      "Players receive two roles: one Trouble Brewing and one Sects & Violets",
+      "TB and SNV games run concurrently with completely independent and isolated game states (e.g., Fortune Teller does not register the SNV demon, Vortox does not affect TB information)",
+      "Only one of the Demons kills at night, the Storyteller chooses which Demon kill to resolve each night (i.e., for balance or Demons target one another)",
+      "If a player is executed or killed in one game, they die in both games",
+      "If a player is protected from death, then they are protected from death in both games (e.g., Monk and Soldier abilities)",
+      "The game result and grim reveal is not announced until BOTH games end (e.g., the Saint is executed in TB, or the SNV Demon is executed)",
+      "A player cannot start as both Trouble Brewing and Sects & Violets Demons, but they can end up as both Demons (i.e., Imp starpass, Fang Gu jumps, Scarlet Woman catches)",
+      "If a player is both the Fang Gu and the Imp, Fang Gu jumps count as a starpass for the Imp. However, if the Fang Gu + Imp player decides kill themselves and starpass, the Fang Gu would die and end the SNV game immediately",
+      "Pit Hag Demon changes can still cause arbitrary deaths"
+    ]
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  }
+]

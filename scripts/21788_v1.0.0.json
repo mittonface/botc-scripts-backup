@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Reasonable* Rejects",
+    "author": "Dominic",
+    "bootlegger": [
+      "(This script consists of the characters which, at the time, hadn't appeared on any other Teensyville scripts I'd made, hence the appearance of the Bootlegger by that principle too rather than there being a homebrew in mind. Have fun with it.)"
+    ]
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]

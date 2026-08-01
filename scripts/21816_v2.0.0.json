@@ -1,0 +1,68 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/L1.png",
+    "name": "Lügen haben kurze Beine",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/L2.png",
+    "bootlegger": [
+      "Der Kazali wählt welchen Schergen er möchte, aber nicht wo dieser sitzt.",
+      "Evil erfährt nicht voneinander!",
+      "Teensyville bis 8 Spieler"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "hellslibrarian"
+  }
+]
