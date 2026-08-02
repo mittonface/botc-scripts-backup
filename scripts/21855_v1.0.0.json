@@ -1,0 +1,53 @@
+[
+  {
+    "id": "_meta",
+    "name": "Smiting the Circus's Scarlet Spider",
+    "author": "Ramsplooge",
+    "bootlegger": [
+      "Magician + Widow + Lil' Monsta Jinx: When the Widow sees the Grimoire, the other Minions and the Magician's character tokens are removed.",
+      "Lunatic + Lil' Monsta Jinx: The Lunatic thinks they are a Minion & babysitting the Lil' Monsta."
+    ]
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "doomsayer"
+  },
+  {
+    "id": "sentinel"
+  }
+]

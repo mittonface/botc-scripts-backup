@@ -1,0 +1,124 @@
+[
+  {
+    "id": "_meta",
+    "name": "Undertow",
+    "author": "Tom O",
+    "bootlegger": [
+      "All players always learn that the Leviathan is in play on day 1, even if the Leviathan is drunk or poisoned.",
+      "The Alchemist does not know which ability they have.",
+      "The Poisoner and Snake Charmer may not choose themselves. If the Snake Charmer chooses a dead player, that choice has no effect."
+    ],
+    "firstNight": [
+      "dusk",
+      "boffin",
+      "lunatic",
+      "king",
+      "poisoner",
+      "courtier",
+      "snakecharmer",
+      "butler",
+      "pixie",
+      "seamstress",
+      "nightwatchman",
+      "eviltwin",
+      "grandmother",
+      "steward",
+      "balloonist",
+      "empath",
+      "ogre",
+      "highpriestess",
+      "mathematician",
+      "dawn",
+      "leviathan"
+    ],
+    "otherNight": [
+      "dusk",
+      "tor",
+      "poisoner",
+      "courtier",
+      "snakecharmer",
+      "butler",
+      "king",
+      "seamstress",
+      "nightwatchman",
+      "balloonist",
+      "empath",
+      "highpriestess",
+      "mathematician",
+      "dawn",
+      "leviathan"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

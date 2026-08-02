@@ -1,0 +1,119 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sea Shanty",
+    "author": "Mugo",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "sailor",
+      "marionette",
+      "lleech",
+      "courtier",
+      "godfather",
+      "devilsadvocate",
+      "grandmother",
+      "dreamer",
+      "balloonist",
+      "villageidiot",
+      "nightwatchman",
+      "ogre",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "courtier",
+      "gambler",
+      "devilsadvocate",
+      "exorcist",
+      "zombuul",
+      "fanggu",
+      "ojo",
+      "lleech",
+      "assassin",
+      "godfather",
+      "sweetheart",
+      "grandmother",
+      "dreamer",
+      "oracle",
+      "balloonist",
+      "villageidiot",
+      "nightwatchman",
+      "dawn"
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lleech"
+  }
+]

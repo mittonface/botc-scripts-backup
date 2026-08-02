@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Collective IQ",
+    "author": "Mr Adam Whitney",
+    "bootlegger": [
+      "During the night, Village Idiot's must choose another player (not themself)."
+    ]
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "hellslibrarian"
+  },
+  {
+    "id": "deusexfiasco"
+  }
+]
