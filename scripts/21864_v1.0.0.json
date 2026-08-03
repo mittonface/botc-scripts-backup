@@ -1,0 +1,48 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/Teensyville2.png",
+    "name": "Mors finis non est (Teensyville)",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/Teensyville0.png"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "sentinel"
+  }
+]

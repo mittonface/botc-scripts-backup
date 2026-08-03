@@ -1,0 +1,155 @@
+[
+  {
+    "id": "_meta",
+    "name": "Greener Pastures",
+    "author": "Rory Vivian",
+    "bootlegger": [
+      "All players may remove up to 3 Lorics before the bag is racked"
+    ],
+    "firstNight": [
+      "dusk",
+      "stormcatcher",
+      "boffin",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "snakecharmer",
+      "pukka",
+      "empath",
+      "noble",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "acrobat",
+      "snakecharmer",
+      "scarletwoman",
+      "lycanthrope",
+      "legion",
+      "imp",
+      "pukka",
+      "nodashii",
+      "gossip",
+      "barber",
+      "sweetheart",
+      "banshee",
+      "farmer",
+      "tinker",
+      "tor",
+      "empath",
+      "juggler",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "zenomancer"
+  },
+  {
+    "id": "godofug"
+  },
+  {
+    "id": "ventriloquist"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "knaves"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  },
+  {
+    "id": "bigwig"
+  }
+]

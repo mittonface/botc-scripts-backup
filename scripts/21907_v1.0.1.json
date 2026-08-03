@@ -1,0 +1,93 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/vZwPDLv2/red-stick-blue-stick-logo.png",
+    "name": "Red Stick, Blue Stick",
+    "author": "Ekin and Navean",
+    "hideTitle": true,
+    "bootlegger": [
+      "If the Cannibal eats the drunk Village Idiot, they have the drunk version of the Village Idiot ability."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

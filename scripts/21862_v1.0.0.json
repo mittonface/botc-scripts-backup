@@ -1,0 +1,45 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/Teensyville4.png",
+    "name": "Leviathan expergiscitur (Teensyville)",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/Teensyville0.png"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "leviathan"
+  }
+]

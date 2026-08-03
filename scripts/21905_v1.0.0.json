@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "The False Widow",
+    "author": "Schnauzer",
+    "bootlegger": [
+      "The Marionette might think a Widow is in play."
+    ]
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

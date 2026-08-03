@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "name": "Unstayed Visit",
+    "author": "Spinach",
+    "almanac": "https://bloodstar.clocktica.com/p/Spinach/OverstayedVist/almanac.html",
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "lilmonsta",
+      "lleech",
+      "poisoner",
+      "widow",
+      "devilsadvocate",
+      "amnesiac",
+      "fortuneteller",
+      "clockmaker",
+      "seamstress",
+      "noble",
+      "highpriestess",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "innkeeper",
+      "devilsadvocate",
+      "legion",
+      "imp",
+      "lleech",
+      "lilmonsta",
+      "assassin",
+      "barber",
+      "sweetheart",
+      "amnesiac",
+      "ravenkeeper",
+      "fortuneteller",
+      "undertaker",
+      "seamstress",
+      "highpriestess",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  }
+]

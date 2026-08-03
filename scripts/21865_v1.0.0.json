@@ -1,0 +1,48 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/Teensyville1.png",
+    "name": "Venenum anguis (Teensyville)",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/Teensyville0.png"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "sentinel"
+  }
+]
