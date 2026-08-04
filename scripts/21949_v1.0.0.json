@@ -1,0 +1,135 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.ibb.co/Hf5G1Rjn/Kinder-Surprise-Logo.png",
+    "name": "Kinder Surprise [EXP]",
+    "author": "Brandon Syres",
+    "hideTitle": true,
+    "bootlegger": [
+      "Alejo Snake Charmer rule is in effect.",
+      "Chaos Hatter rule is in effect."
+    ],
+    "firstNight": [
+      "dusk",
+      "philosopher",
+      "snakecharmer",
+      "kazali",
+      "minioninfo",
+      "demoninfo",
+      "lilmonsta",
+      "poisoner",
+      "wizard",
+      "godfather",
+      "cerenovus",
+      "pixie",
+      "amnesiac",
+      "fortuneteller",
+      "seamstress",
+      "noble",
+      "villageidiot",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "philosopher",
+      "poisoner",
+      "wizard",
+      "snakecharmer",
+      "hatter",
+      "cerenovus",
+      "ojo",
+      "lilmonsta",
+      "kazali",
+      "godfather",
+      "plaguedoctor",
+      "amnesiac",
+      "ravenkeeper",
+      "fortuneteller",
+      "oracle",
+      "seamstress",
+      "villageidiot",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

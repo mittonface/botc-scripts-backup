@@ -1,0 +1,81 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://swizzels.com/import/Party-Mix-Tub-500x500.png",
+    "name": "Swizzel's Party Mix [INT]",
+    "author": "Brandon Syres",
+    "hideTitle": true
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "fanggu"
+  }
+]

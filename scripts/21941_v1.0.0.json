@@ -1,0 +1,94 @@
+[
+  {
+    "id": "_meta",
+    "name": "Philo Funhouse",
+    "author": "GoldengamerLego",
+    "bootlegger": [
+      "All starting townsfolk and outsiders are philosophers",
+      "All character detection roles (Gambler, Dreamer, Etc) see the Philosopher-chosen ability",
+      "If multiple Philosophers choose the same ability, the previous one is drunk",
+      "The demon does not get bluffs"
+    ]
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]

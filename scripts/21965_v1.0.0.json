@@ -1,0 +1,104 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/15d.png",
+    "name": "Fifteen men on the dead man's chest",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/BotC10.png"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "zombuul"
+  }
+]

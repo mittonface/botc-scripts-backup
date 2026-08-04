@@ -1,0 +1,140 @@
+[
+  {
+    "id": "_meta",
+    "name": "boy who cried wolf in sheep's clothing",
+    "author": "shmeur",
+    "firstNight": [
+      "dusk",
+      "apprentice",
+      "barista",
+      "minioninfo",
+      "demoninfo",
+      "godfather",
+      "witch",
+      "pukka",
+      "chef",
+      "fortuneteller",
+      "grandmother",
+      "dreamer",
+      "villageidiot",
+      "spy",
+      "mathematician",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "barista",
+      "bonecollector",
+      "acrobat",
+      "witch",
+      "scarletwoman",
+      "lycanthrope",
+      "imp",
+      "pukka",
+      "shabaloth",
+      "nodashii",
+      "godfather",
+      "gossip",
+      "tinker",
+      "grandmother",
+      "fortuneteller",
+      "dreamer",
+      "towncrier",
+      "villageidiot",
+      "spy",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "voudon"
+  }
+]

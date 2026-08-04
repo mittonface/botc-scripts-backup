@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/15a.png",
+    "name": "Trouble Brewing15",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/BotC10.png"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "imp"
+  }
+]

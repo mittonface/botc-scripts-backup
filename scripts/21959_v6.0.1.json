@@ -1,0 +1,106 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dead by Clocktower",
+    "author": "Howezy",
+    "bootlegger": [
+      "If the Pit Hag Chooses Legion, all current Evil players turn into Legion."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

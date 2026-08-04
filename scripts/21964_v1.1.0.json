@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/15c.png",
+    "name": "Catfishing15",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/cat2.png"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "beggar"
+  }
+]

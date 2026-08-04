@@ -1,0 +1,38 @@
+[
+  {
+    "id": "_meta",
+    "name": "Wishing Well v2",
+    "author": "GoldengamerLego",
+    "bootlegger": [
+      "Alchemist is always wizard",
+      "All outsiders are drunks"
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
