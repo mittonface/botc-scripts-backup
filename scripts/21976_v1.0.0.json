@@ -1,0 +1,53 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hasta la Vizier",
+    "author": "vfig",
+    "bootlegger": [
+      "The Boffin grants a single instance of a single ability. When Lil' Monsta moves to a new player, one-time effects of that ability, if used, remain spent.",
+      "The Boffin cannot give the Demon the Mayor ability nor the Philosopher ability."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
