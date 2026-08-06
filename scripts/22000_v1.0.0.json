@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "Catch Me if You Can",
+    "author": "Len",
+    "bootlegger": [
+      "If Lil' Monsta is in play and the Magician is alive, when the Spy and Widow see the Grimoire, the other minion and the magician's character tokens are removed."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
