@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Lord of the Rings",
+    "author": "Paddu"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "ferryman"
+  }
+]

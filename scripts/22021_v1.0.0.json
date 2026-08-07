@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Binding of Lil' Monsta",
+    "author": "Joe Tilleli",
+    "bootlegger": [
+      "A Boffin-Balloonist ability on Night 1 may have added an outsider at the start."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
