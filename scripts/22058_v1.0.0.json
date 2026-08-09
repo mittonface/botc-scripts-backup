@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Delayed Doom",
+    "author": "Bambi 🥔 & FMJason",
+    "bootlegger": [
+      "📍Summoner- 🌀Lunatic Optional Rule: The Lunatic might think they are a Townsfolk. If they survive until night 2, they believe they become the Demon. Normal Lunatic rules apply."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

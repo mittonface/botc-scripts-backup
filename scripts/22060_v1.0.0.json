@@ -1,0 +1,55 @@
+[
+  {
+    "id": "_meta",
+    "name": "Voudéance",
+    "author": "",
+    "bootlegger": [
+      "All players start with a vote token. Alive players need one to vote, and dead players don't. A 50% majority isn't required."
+    ]
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  }
+]

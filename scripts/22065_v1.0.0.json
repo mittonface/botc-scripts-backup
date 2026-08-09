@@ -1,0 +1,54 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.postimg.cc/rpw1vVF6/Damsel-in-a-Can.png",
+    "name": "Damsel in a Can",
+    "author": "~Cam~",
+    "hideTitle": true,
+    "bootlegger": [
+      "If in play the Pit-Hag ability acts on night one "
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
