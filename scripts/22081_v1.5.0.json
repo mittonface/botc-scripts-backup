@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mostly Harmless",
+    "author": "Andrew",
+    "bootlegger": [
+      "The Wraith keeps their ability, even if dead."
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

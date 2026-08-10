@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Legend of Tornadopants v3",
+    "author": "DadBod/Zac",
+    "bootlegger": [
+      "Poisoned or Drunk Townsfolk MUST receive true information."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

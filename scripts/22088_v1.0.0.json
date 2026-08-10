@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Dangerous Concoction",
+    "author": "Dragon_Hunter_70",
+    "bootlegger": [
+      "The Plague Doctor might add in an extra townsfolk ability as well. If this townsfolk would gain information, or require a public claim, a good player gains this ability."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

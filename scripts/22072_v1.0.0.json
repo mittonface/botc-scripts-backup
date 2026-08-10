@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Sweet Bod",
+    "author": "AngietyAttack",
+    "bootlegger": [
+      "If there are multiple village idiots in play, there is one less outsider in play."
+    ]
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
