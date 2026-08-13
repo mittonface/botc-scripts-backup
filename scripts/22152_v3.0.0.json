@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Macy's One Day Sale",
+    "author": "Asiriyuq",
+    "bootlegger": [
+      "If the demon would live on night 2, the Evil team wins.",
+      "The storyteller cannot create a situation where there are four or more living players who cannot use the Doomsayer's ability.",
+      "If there are four or more living players that all refuse to use the Doomsayer's ability, the storyteller may force a player to use the Doomsayer's ability."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "doomsayer"
+  }
+]

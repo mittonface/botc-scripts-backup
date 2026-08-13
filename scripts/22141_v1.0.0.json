@@ -1,0 +1,53 @@
+[
+  {
+    "id": "_meta",
+    "name": "You've got a friend in me",
+    "author": "Anacornda",
+    "bootlegger": [
+      "The Cult Leader does not know their alignment but learns when it changes. They might start evil.",
+      "The Ogre is always the same alignment as their friend. If the Ogre’s friend changes alignment, the Ogre changes alignment too, but the Ogre does not learn this."
+    ]
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]

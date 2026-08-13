@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "I know what you are...",
+    "author": "HJS"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  }
+]

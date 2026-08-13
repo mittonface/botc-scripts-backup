@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Silent Reign",
+    "author": "Shrimp",
+    "bootlegger": [
+      "If the Lil' Monsta is being held by a minion, the Alsaahir may only guess the minions to win."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

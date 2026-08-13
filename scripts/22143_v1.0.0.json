@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Blindingly Obvious",
+    "author": "Maegi_v73",
+    "bootlegger": [
+      "Amnesiac guesses and Minion/Demon info after Poppy Grower death are not vortoxed.",
+      "Scarlet Woman with Yaggababble also starts knowing their secret phrase."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
