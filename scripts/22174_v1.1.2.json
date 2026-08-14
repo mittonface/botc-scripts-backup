@@ -1,0 +1,57 @@
+[
+  {
+    "id": "_meta",
+    "name": "who won",
+    "author": "erik",
+    "bootlegger": [
+      "The Lleech/Heretic djinn is ignored",
+      "The Lleech host stays poisoned after the Lleech dies",
+      "Only one of the No Dashii's townsfolk neighbours is poisoned"
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
