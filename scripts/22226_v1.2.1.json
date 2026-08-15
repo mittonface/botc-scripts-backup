@@ -1,0 +1,47 @@
+[
+  {
+    "id": "_meta",
+    "name": "Race to the Bottom",
+    "author": "Evin Donohoe",
+    "bootlegger": []
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "doomsayer"
+  },
+  {
+    "id": "sentinel"
+  }
+]

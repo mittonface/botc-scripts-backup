@@ -1,0 +1,126 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cirque du Grotte",
+    "author": "sgb",
+    "oneCol": true,
+    "fontName": "FreckleFace-Regular",
+    "showBoot": "Bottom",
+    "bootlegger": [
+      "If the Kazali turns the Bounty Hunter into a Minion, an evil Townsfolk is not created.",
+      "A good Alchemist will never have the Widow ability. An evil Alchemist might.",
+      "Each team may only have up to one Wizard wish."
+    ],
+    "invertOther": true,
+    "dontShowJinxes": [
+      {
+        "char1": "alchemist",
+        "char2": "widow",
+        "reason": ""
+      },
+      {
+        "char1": "bountyhunter",
+        "char2": "kazali",
+        "reason": ""
+      }
+    ],
+    "imageSelection": "Custom",
+    "scriptNameColor": "#807800",
+    "authorOffsetInput": 8,
+    "hideJinxesBootRule": false,
+    "scriptFontSizeInput": 30
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

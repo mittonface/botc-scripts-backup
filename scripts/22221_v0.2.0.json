@@ -1,0 +1,131 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.imgur.com/BSxFkXX.png",
+    "name": "Oh, What a Night",
+    "author": "Zoe",
+    "almanac": "https://www.bloodstar.xyz/p/AlexS/Fall_of_Rome/almanac.html",
+    "hideTitle": true,
+    "background": "https://i.imgur.com/ppk8o68.png",
+    "firstNight": [
+      "dusk",
+      "hannibalfallofromerh",
+      "temptressfallofromerh",
+      "cleopatrafallofromerh",
+      "haruspexfallofromerh",
+      "minioninfo",
+      "winemakerfallofromerh",
+      "thetwinsfallofromerh",
+      "physicianfallofromerh",
+      "sculptorfallofromerh",
+      "demoninfo",
+      "vestalvirginfallofromerh",
+      "legionaryfallofromerh",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "scholarfallofromerh",
+      "temptressfallofromerh",
+      "mercenaryfallofromerh",
+      "highpriest1fallofromerh",
+      "highpriest2fallofromerh",
+      "architectfallofromerh",
+      "emperorfallofromerh",
+      "winemakerfallofromerh",
+      "thetwinsfallofromerh",
+      "physicianfallofromerh",
+      "cleopatrafallofromerh",
+      "crassusfallofromerh",
+      "hannibalfallofromerh",
+      "caesarfallofromerh",
+      "haruspexfallofromerh",
+      "blacksmithfallofromerh",
+      "gladiatorfallofromerh",
+      "sculptorfallofromerh",
+      "vestalvirginfallofromerh",
+      "legionaryfallofromerh",
+      "trumpeterfallofromerh",
+      "morticianfallofromerh",
+      "standardbearerfallofromerh",
+      "actorfallofromerh",
+      "merchantfallofromerh",
+      "dawn"
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "vortox"
+  }
+]
