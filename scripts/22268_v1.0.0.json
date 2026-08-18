@@ -1,0 +1,49 @@
+[
+  {
+    "id": "_meta",
+    "name": "Good Morning, Alchemist 47",
+    "author": "Heath",
+    "bootlegger": [
+      "If the Pukka poisons the Spy on N1, the Damsel is sober and healthy. "
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
