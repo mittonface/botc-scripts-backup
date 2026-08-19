@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Party at the End of the World",
+    "author": "Schnauzer",
+    "bootlegger": [
+      "The Mathematician cannot be the Drunk."
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
