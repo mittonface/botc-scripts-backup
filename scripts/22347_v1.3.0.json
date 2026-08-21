@@ -1,0 +1,80 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/tb1.png",
+    "name": "New Trouble Brewing",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/tb2.png"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "imp"
+  }
+]

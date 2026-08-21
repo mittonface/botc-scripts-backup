@@ -1,0 +1,79 @@
+[
+  {
+    "id": "_meta",
+    "name": "Wall Street",
+    "author": "seaplus"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "lordoftyphon"
+  }
+]
