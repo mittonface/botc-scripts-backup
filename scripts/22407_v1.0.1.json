@@ -1,0 +1,71 @@
+[
+  {
+    "id": "_meta",
+    "name": "Alamut Castle",
+    "author": "seaplus",
+    "almanac": "https://docs.google.com/spreadsheets/d/1aFNS7dys6zF35tK0XO_TmrUzEwpPqf1z/edit?usp=sharing&ouid=101675684581446376656&rtpof=true&sd=true",
+    "bootlegger": [
+      "All Minions are the Assassin"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
