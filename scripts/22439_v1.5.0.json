@@ -1,0 +1,67 @@
+[
+  {
+    "id": "_meta",
+    "name": "Mucho Ojo (Mojo Ojo)",
+    "author": "Hmdurlzy",
+    "bootlegger": [
+      "• There will only be a max of n+1 different types of townsfolk in play, where n is the number of minions: 1 minion = 2 townsfolk types, 2 minions = 3 townsfolk types, etc. There is only one type of outsider in play. • If an Ojo chooses a character which is in play, all players of that type die, not just one player. If the Ojo does not choose an in-play character, a max of one player dies (it should not end the game: in final 3, the storyteller may choose that nobody dies). • For bluffs, the Ojo will be shown 1 outsider that is in play, 1 townsfolk that is in play, and 1 townsfolk that is not in play—but they will not be told which townsfolk is in play and which is not. • An alchemist pit-hag that chooses to change the demon will be told to choose differently; pit-hag abilities can turn a player into an in-play character."
+    ]
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
