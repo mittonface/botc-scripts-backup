@@ -1,0 +1,88 @@
+[
+  {
+    "id": "_meta",
+    "name": "Red String of Fate",
+    "author": "Croww",
+    "bootlegger": [
+      "Loric: The Fate\nAt the beginning of every night (or alternatively until a match is made), all players choose another player in an order chosen by the storyteller. The first two players who pick each other without previously being mad about picking each other create a match. Players do not learn that a match has been made. Every player may only match once.\nMatched players share their fate and die or resurrect together. A good player matched with an evil demon wins with the evil team."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

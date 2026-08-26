@@ -1,0 +1,110 @@
+[
+  {
+    "id": "_meta",
+    "name": "Five Rounds Rapid",
+    "author": "DisforDemise",
+    "bootlegger": [
+      "A player with the Psychopath or Slayer ability may use their ability by publicly claiming either role, or simply claiming to use \"my ability\".",
+      "Whenever any player is executed, the Storyteller might call for a game of Roshambo. Roshambo choices are conducted in secret, after which the Storyteller announces if the executed player dies.",
+      "If the Alchemist has the Baron ability, up to 2 Outsiders added this way may replace Minions instead of townsfolk. If they do, those Outsiders are evil, and register as Minions for Demon and Minion info.",
+      "An evil player with the Drunk ability thinks they are an evil Minion.",
+      "A player with the Drunk ability cannot think they are an in-play role token, except for the Slayer, Alchemist, or Psychopath (if evil)."
+    ]
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

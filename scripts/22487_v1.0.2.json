@@ -1,0 +1,41 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://southharmoninstituteoftechnology.org/wp-content/uploads/2016/08/BW-Shirt-C-e1544077133820-297x300.png.webp",
+    "name": "South Harmon Institute of Technology: Junior Year",
+    "author": "seaplus",
+    "almanac": "https://docs.google.com/spreadsheets/d/1aFNS7dys6zF35tK0XO_TmrUzEwpPqf1z/edit?usp=sharing&ouid=101675684581446376656&rtpof=true&sd=true",
+    "hideTitle": true,
+    "background": "https://i.ibb.co/ym66sVBq/botcbg.png",
+    "bootlegger": [
+      "If multiple sober/healthy Engineers use their ability on the same character type in the same night, only the Engineer(s) closest to the Demon is sober/healthy. If equidistant, this is arbitrary."
+    ]
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
