@@ -1,0 +1,113 @@
+[
+  {
+    "id": "_meta",
+    "name": "Outside Assistance",
+    "author": "Michael",
+    "bootlegger": [
+      "During set up swap the outsider count with the townsfolk count. During this game, the storyteller will use outsider abilities to help the good team and townsfolk abilities to harm the good team.",
+      "Klutz is Storm caught. "
+    ],
+    "firstNight": [
+      "dusk",
+      "stormcatcher",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "wizard",
+      "devilsadvocate",
+      "witch",
+      "amnesiac",
+      "butler",
+      "bountyhunter",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wizard",
+      "devilsadvocate",
+      "witch",
+      "lunatic",
+      "alhadikhia",
+      "sweetheart",
+      "plaguedoctor",
+      "amnesiac",
+      "tinker",
+      "moonchild",
+      "bountyhunter",
+      "butler",
+      "dawn"
+    ]
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "alhadikhia"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

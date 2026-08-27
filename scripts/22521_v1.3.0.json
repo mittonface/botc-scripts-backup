@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Evillage",
+    "author": "Hmdurlzy",
+    "bootlegger": [
+      "Vizier must declare before nominations to have ability, but they still are not confirmed by the storyteller. If a Typhon is in play, characters will not initially be given a good token then switched (unless they are marionette); the storyteller will garden. An activated banshee gets as many votes as there are evil players."
+    ]
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "vizier"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "spiritofivory"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

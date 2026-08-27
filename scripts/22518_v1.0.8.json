@@ -1,0 +1,122 @@
+[
+  {
+    "id": "_meta",
+    "name": "Touch-Tone Telephone",
+    "author": "Prism",
+    "background": "https://i.imgur.com/NY5l8BP.jpeg",
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "bureaucrat",
+      "harlot",
+      "bonecollector",
+      "pithag",
+      "philosopher",
+      "xaan",
+      "cerenovus",
+      "pukka",
+      "vortox",
+      "vigormortis",
+      "lilmonsta",
+      "sweetheart",
+      "amnesiac",
+      "farmer",
+      "empath",
+      "towncrier",
+      "oracle",
+      "seamstress",
+      "mathematician",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  }
+]
