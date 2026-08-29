@@ -1,0 +1,129 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Search For The Leviathan",
+    "author": "LunaGoddessOfTheMoon",
+    "hideTitle": false,
+    "bootlegger": [
+      "The Storyteller does not announce that the Leviathan is in play."
+    ],
+    "firstNight": [
+      "dusk",
+      "bureaucrat",
+      "thief",
+      "magician",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "xaan",
+      "mezepheles",
+      "amnesiac",
+      "steward",
+      "knight",
+      "noble",
+      "balloonist",
+      "highpriestess",
+      "dawn",
+      "leviathan"
+    ],
+    "otherNight": [
+      "dusk",
+      "cacklejack",
+      "bureaucrat",
+      "thief",
+      "xaan",
+      "pithag",
+      "mezepheles",
+      "lunatic",
+      "amnesiac",
+      "balloonist",
+      "highpriestess",
+      "dawn",
+      "leviathan"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
