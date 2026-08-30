@@ -1,0 +1,202 @@
+[
+  {
+    "id": "_meta",
+    "name": "Chaos!",
+    "author": "Blue_Demon12",
+    "bootlegger": [
+      "if the Virgin self nom's they do not die or use their abillity the abillity can only go off if someone else nom's them - if a Tor is in play this is overwriten",
+      "Widdow's may not self poison someone must get a widdow ping.",
+      "the Recluse cannot end the game if they are in an Alsaahir guess",
+      "A noble and Phycopath cannot be in play at the same time",
+      "A Alchemist Mez cannot use their Mez word themselves"
+    ],
+    "firstNight": [
+      "dusk",
+      "kazali",
+      "apprentice",
+      "bureaucrat",
+      "thief",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "lunatic",
+      "demoninfo",
+      "lleech",
+      "widow",
+      "courtier",
+      "wizard",
+      "fearmonger",
+      "pukka",
+      "pixie",
+      "amnesiac",
+      "grandmother",
+      "dreamer",
+      "noble",
+      "balloonist",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "duchess",
+      "bureaucrat",
+      "thief",
+      "bonecollector",
+      "poppygrower",
+      "courtier",
+      "wizard",
+      "gambler",
+      "monk",
+      "fearmonger",
+      "scarletwoman",
+      "lunatic",
+      "imp",
+      "zombuul",
+      "pukka",
+      "po",
+      "vortox",
+      "lleech",
+      "kazali",
+      "amnesiac",
+      "tinker",
+      "grandmother",
+      "dreamer",
+      "balloonist",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "gunslinger"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "hellslibrarian"
+  },
+  {
+    "id": "deusexfiasco"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
