@@ -1,0 +1,52 @@
+[
+  {
+    "id": "_meta",
+    "name": "1v1 Me",
+    "author": "seaplus",
+    "bootlegger": [
+      "There are 2 players and 6 seats. At the start of each night, both players pick a seat different from last night.",
+      "Information from abilities are only shared with the player in the seat when the ability activates.",
+      "During the first 4 days, nominations only need 2 votes. On day 5, in private, each player picks a seat to die.",
+      "The Boffin and Demon are not aware a Boffin is in play."
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
