@@ -1,0 +1,62 @@
+[
+  {
+    "id": "_meta",
+    "name": "Loud, Proud and Mad",
+    "author": "LeNoun",
+    "bootlegger": [
+      "If a demon is chosen by an exorcist, they do not learn this and still wake, but they become drunk until the end of that night.",
+      "If a minion is chosen by a preacher, they do not learn this.",
+      "A lunatic can see a minion token instead of a demon token ",
+      "The goon ability extends into the following day",
+      ""
+    ]
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "toymaker"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
