@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Siege of Typhon",
+    "author": "D.Ranpo",
+    "bootlegger": [
+      "Players may not leave their seats to talk in private.",
+      "Players may only talk in private with their neighbors.",
+      "Minions & Demons do not know each other.",
+      "Tip: Good players should disguise as Evil to confuse the Minions."
+    ]
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
