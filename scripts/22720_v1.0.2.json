@@ -1,0 +1,89 @@
+[
+  {
+    "id": "_meta",
+    "name": "Public Lobby",
+    "author": "seaplus",
+    "bootlegger": [
+      "If a good player would turn evil when another good player has already turned evil, the most toxic of the players is evil and the other(s) is good.",
+      "If the Cult Leader is not Toxic, they might die."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

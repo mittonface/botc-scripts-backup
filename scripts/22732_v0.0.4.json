@@ -1,0 +1,134 @@
+[
+  {
+    "id": "_meta",
+    "name": "Caravan",
+    "author": "",
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "thief",
+      "snakecharmer",
+      "stormcatcher",
+      "minioninfo",
+      "demoninfo",
+      "cerenovus",
+      "butler",
+      "fortuneteller",
+      "pixie",
+      "noble",
+      "balloonist",
+      "highpriestess",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "thief",
+      "harlot",
+      "snakecharmer",
+      "monk",
+      "cerenovus",
+      "scarletwoman",
+      "fanggu",
+      "imp",
+      "nodashii",
+      "vortox",
+      "farmer",
+      "butler",
+      "fortuneteller",
+      "towncrier",
+      "balloonist",
+      "highpriestess",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]
