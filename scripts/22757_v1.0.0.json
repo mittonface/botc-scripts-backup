@@ -1,0 +1,131 @@
+[
+  {
+    "id": "_meta",
+    "name": "The Many Mouths of God",
+    "author": "Psyix",
+    "bootlegger": [],
+    "firstNight": [
+      "dusk",
+      "poppygrower",
+      "yaggababble",
+      "minioninfo",
+      "snitch",
+      "lunatic",
+      "demoninfo",
+      "marionette",
+      "widow",
+      "godfather",
+      "mezepheles",
+      "pixie",
+      "chef",
+      "empath",
+      "butler",
+      "seamstress",
+      "noble",
+      "highpriestess",
+      "general",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "mezepheles",
+      "scarletwoman",
+      "lunatic",
+      "legion",
+      "yaggababble",
+      "godfather",
+      "empath",
+      "flowergirl",
+      "towncrier",
+      "seamstress",
+      "butler",
+      "highpriestess",
+      "general",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "legion"
+  }
+]
