@@ -1,0 +1,104 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hatter hunt",
+    "author": "Arthur",
+    "bootlegger": [
+      "The starting demon is an Imp.",
+      "There is a Hatter or a Hermit in game."
+    ]
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "apprentice"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "sentinel"
+  }
+]
