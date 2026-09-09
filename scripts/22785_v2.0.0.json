@@ -1,0 +1,90 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hello neighbor V2",
+    "author": "",
+    "bootlegger": [
+      "Each day, after nominations, living players may publicly ask another player to switch place with them. If both agree, they swap place.",
+      "Only one exchange can happen each day between living players. However, living players may freely switch with dead players, without asking permission. Each player (living or dead) may only be moved once per day.",
+      "In case multiple players would like to switch with other living players, the storyteller decides who is allowed to do so."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

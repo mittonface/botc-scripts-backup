@@ -1,0 +1,91 @@
+[
+  {
+    "id": "_meta",
+    "name": "Introspection",
+    "author": "",
+    "bootlegger": [
+      "Demons and Minions don't know eachother. When a Minion dies, it learns who the Demon is, and the demon learns this minion.",
+      "The demon doesn't receive any bluff.",
+      "If Riot is in play, Minions and demon learn eachother on night 3. When Riot happens, players learn their character immediately instead of during the following night.",
+      "Virgin is drunk when riot happens"
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "tor"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "_meta",
+    "name": "Movement in the Morgue",
+    "author": "Haig"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "vigormortis"
+  }
+]
