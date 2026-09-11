@@ -1,0 +1,57 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.ibb.co/FkkKbS4n/1v1.png",
+    "name": "1v1 Me",
+    "author": "seaplus",
+    "almanac": "https://docs.google.com/spreadsheets/d/1aFNS7dys6zF35tK0XO_TmrUzEwpPqf1z/edit?usp=sharing&ouid=101675684581446376656&rtpof=true&sd=true",
+    "hideTitle": true,
+    "background": "https://i.ibb.co/ym66sVBq/botcbg.png",
+    "bootlegger": [
+      "There are 2 players and 6 seats. At the start of each night, both players pick a seat different from last night.",
+      "Information from abilities are only shared with the player in the seat when the ability activates.",
+      "During the first 4 days, nominations only need 2 votes. On day 5, in private, each player picks a seat to die.",
+      "The Boffin and Demon are not aware a Boffin is in play.",
+      "The Demon is not aware a Marionette is in play."
+    ]
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "tealady"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
