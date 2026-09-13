@@ -1,0 +1,103 @@
+[
+  {
+    "id": "_meta",
+    "logo": "http://nyctostoybox.wikidot.com/local--files/dyson-sphere/Dyson%20Sphere%20Logo.png",
+    "name": "Dyson Sphere",
+    "author": "Nyctophonik",
+    "almanac": "http://nyctostoybox.wikidot.com/dyson-sphere",
+    "hideTitle": true
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "judge"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "spiritofivory"
+  }
+]
