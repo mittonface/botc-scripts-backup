@@ -1,0 +1,74 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_heretic.png",
+    "name": "Sinner Takes All",
+    "author": "seaplus",
+    "almanac": "https://docs.google.com/spreadsheets/d/1aFNS7dys6zF35tK0XO_TmrUzEwpPqf1z/edit?usp=sharing&ouid=101675684581446376656&rtpof=true&sd=true",
+    "hideTitle": true,
+    "background": "https://i.ibb.co/ym66sVBq/botcbg.png",
+    "bootlegger": [
+      "All Outsiders are the Heretic."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

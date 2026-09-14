@@ -1,0 +1,77 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_vigormortis.png",
+    "name": "The Good Times Are Killing Me",
+    "author": "seaplus",
+    "almanac": "https://docs.google.com/spreadsheets/d/1aFNS7dys6zF35tK0XO_TmrUzEwpPqf1z/edit?usp=sharing&ouid=101675684581446376656&rtpof=true&sd=true",
+    "hideTitle": true,
+    "background": "https://i.ibb.co/ym66sVBq/botcbg.png"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "vigormortis"
+  }
+]
