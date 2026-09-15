@@ -1,0 +1,99 @@
+[
+  {
+    "id": "_meta",
+    "name": "Do You Believe in Second Chances?",
+    "author": "Will-o'-the-Wisp",
+    "bootlegger": [
+      "A Leviathan cannot be created past day 5 or after more than 1 good players have been executed.",
+      "If the Zombuul is one of the first 4 players to have died, the Zombuul gains a Traveler's ability and registers as a Traveler, but still has the Zombuul's ability. ",
+      "While the Zombuul registers as a Traveler, it is considered to have \"died once.\""
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "engineer"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "hindu"
+  }
+]

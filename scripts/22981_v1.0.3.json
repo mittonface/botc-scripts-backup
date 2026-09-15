@@ -1,0 +1,78 @@
+[
+  {
+    "id": "_meta",
+    "name": "“Wait. What. Who? Oh, ok. Wait. What?”",
+    "author": "erik",
+    "bootlegger": [
+      "Each night, the Scarlet Woman might be woken to choose a player.",
+      "There is no Faux Paw.",
+      "The Sailor and Lycanthrope can pick dead players and the Monk can pick themself. If this happens, they are drunk until dusk."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "tor"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
