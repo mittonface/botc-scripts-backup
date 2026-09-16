@@ -1,0 +1,109 @@
+[
+  {
+    "id": "_meta",
+    "name": "Duke's Reincarnation",
+    "author": "Kainatic",
+    "bootlegger": [
+      "Duchess: Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 might swap alignment.",
+      "If less than 3 players choose to visit the Duchess, a player might die at night*.",
+      "If more than 3 players choose to visit the Duchess, the selection is arbitrary.",
+      "If a Demon swaps alignment, they become a not-in-play good character. If no Demon remains in-play, an evil player becomes the new Demon."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "bountyhunter"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "magician"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "duchess"
+  },
+  {
+    "id": "sentinel"
+  }
+]

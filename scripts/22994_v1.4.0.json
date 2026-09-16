@@ -1,0 +1,76 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://sublimaesthesia.com/botc/Delenn__Ottawa-Plays-Easy__Logo.png",
+    "name": "Ottawa Plays Easy",
+    "author": "Delenn",
+    "hideTitle": true,
+    "background": "https://sublimaesthesia.com/botc/Delenn__Ottawa-Plays-Easy__Background.png"
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "imp"
+  }
+]
