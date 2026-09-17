@@ -1,0 +1,83 @@
+[
+  {
+    "id": "_meta",
+    "name": "One Night Ultimate Carl",
+    "author": "Ken Cheng",
+    "bootlegger": [
+      "There is always base 1 Outsider.",
+      "1) Good wins if an evil Minion or Demon dies. Evil wins after Day 1. 2) No private chats. 3) No nominations. At the end of Day 1, all players choose who is executed. In case of ties, all are executed.\n\n"
+    ]
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "mathematician"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "fiddler"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
