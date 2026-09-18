@@ -1,0 +1,121 @@
+[
+  {
+    "id": "_meta",
+    "name": "Cult Of Personality",
+    "author": "Hannah",
+    "firstNight": [
+      "dusk",
+      "kazali",
+      "minioninfo",
+      "demoninfo",
+      "wizard",
+      "witch",
+      "cerenovus",
+      "pixie",
+      "huntsman",
+      "damsel",
+      "balloonist",
+      "highpriestess",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wizard",
+      "witch",
+      "cerenovus",
+      "princess",
+      "nodashii",
+      "vortox",
+      "vigormortis",
+      "kazali",
+      "barber",
+      "plaguedoctor",
+      "banshee",
+      "huntsman",
+      "damsel",
+      "ravenkeeper",
+      "towncrier",
+      "juggler",
+      "balloonist",
+      "highpriestess",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "princess"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "vortox"
+  }
+]
