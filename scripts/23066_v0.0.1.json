@@ -1,0 +1,46 @@
+[
+  {
+    "id": "_meta",
+    "name": "Fading Ember, Shrieking Sand",
+    "author": "",
+    "bootlegger": [
+      "When the Snake Charmer becomes the Imp, the Imp becomes a not-in-play Townsfolk."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
