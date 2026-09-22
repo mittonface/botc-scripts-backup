@@ -1,0 +1,128 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/Hase1.png",
+    "name": "Hasenjagd",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/Hase2.png",
+    "bootlegger": [
+      "Fang Gu (Ketten-Sprung): Die Verwandlungskraft des Fang Gu ist nicht auf den 1. Außenseiter begrenzt. Jeder neu erschaffene Fang Gu kann erneut einen Außenseiter verwandeln.",
+      "Setup (Fang Gu): Ist der Fang Gu im Spiel, ändert sich das Setup zu: [+1 Außenseiter, -1 Scherge].",
+      "Setup (Imp): Ist der Imp im Spiel, bleibt die reguläre Anzahl an Außenseitern und Schergen unverändert."
+    ],
+    "firstNight": [
+      "dusk",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "puzzlemaster",
+      "pixie",
+      "librarian",
+      "chef",
+      "empath",
+      "fortuneteller",
+      "noble",
+      "balloonist",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poisoner",
+      "monk",
+      "scarletwoman",
+      "imp",
+      "fanggu",
+      "barber",
+      "sweetheart",
+      "godfather",
+      "moonchild",
+      "tinker",
+      "ravenkeeper",
+      "balloonist",
+      "empath",
+      "fortuneteller",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "moonchild"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

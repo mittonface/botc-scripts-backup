@@ -1,0 +1,132 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://herrrichter.de/BotC/Pilz1.png",
+    "name": "Knollenblätterpilz",
+    "author": "🦝",
+    "almanac": "https://www.reddit.com/r/BotC_Ravenswood/comments/1ue6kxf/willkommen_in_ravenswood_bluffs_skripte_und/",
+    "_creator": "www.HerrRichter.de",
+    "hideTitle": true,
+    "background": "https://herrrichter.de/BotC/Pilz2.png",
+    "firstNight": [
+      "dusk",
+      "kazali",
+      "minioninfo",
+      "demoninfo",
+      "poisoner",
+      "sailor",
+      "lleech",
+      "eviltwin",
+      "puzzlemaster",
+      "highpriestess",
+      "shugenja",
+      "noble",
+      "balloonist",
+      "pukka",
+      "dreamer",
+      "seamstress",
+      "empath",
+      "villageidiot",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "sailor",
+      "poisoner",
+      "devilsadvocate",
+      "pukka",
+      "lleech",
+      "kazali",
+      "sweetheart",
+      "godfather",
+      "gossip",
+      "highpriestess",
+      "ravenkeeper",
+      "balloonist",
+      "dreamer",
+      "seamstress",
+      "empath",
+      "oracle",
+      "villageidiot",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "gossip"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "eviltwin"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "lleech"
+  }
+]
