@@ -1,0 +1,111 @@
+[
+  {
+    "id": "_meta",
+    "name": "Portents of Myrrh",
+    "author": "",
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "thief",
+      "snakecharmer",
+      "stormcatcher",
+      "minioninfo",
+      "demoninfo",
+      "cerenovus",
+      "butler",
+      "fortuneteller",
+      "pixie",
+      "noble",
+      "balloonist",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "thief",
+      "harlot",
+      "snakecharmer",
+      "monk",
+      "cerenovus",
+      "fanggu",
+      "imp",
+      "vortox",
+      "farmer",
+      "butler",
+      "fortuneteller",
+      "balloonist",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "butler"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vortox"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

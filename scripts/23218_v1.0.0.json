@@ -1,0 +1,65 @@
+[
+  {
+    "id": "_meta",
+    "name": "Some Misfortune",
+    "author": "Robin",
+    "bootlegger": [
+      "Only the Fortune Teller may be duplicated by the Pope.",
+      "The Demon does not receive bluffs."
+    ]
+  },
+  {
+    "id": "knight"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "pope"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
