@@ -1,0 +1,143 @@
+[
+  {
+    "id": "_meta",
+    "name": "Where the Poppies Grow",
+    "author": "Aeon",
+    "bootlegger": [
+      "The Wraith is not woken with other evil players until the Minions and Demon learn each other.",
+      "If the Poppy Grower dies while drunk or poisoned, the Evil team still learns each other that night."
+    ],
+    "firstNight": [
+      "dusk",
+      "wraith",
+      "thief",
+      "boffin",
+      "xaan",
+      "poppygrower",
+      "minioninfo",
+      "demoninfo",
+      "snakecharmer",
+      "pixie",
+      "amnesiac",
+      "librarian",
+      "investigator",
+      "balloonist",
+      "shugenja",
+      "general",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "wraith",
+      "thief",
+      "xaan",
+      "snakecharmer",
+      "scarletwoman",
+      "imp",
+      "nodashii",
+      "ojo",
+      "poppygrower",
+      "hatter",
+      "barber",
+      "amnesiac",
+      "farmer",
+      "towncrier",
+      "balloonist",
+      "general",
+      "dawn"
+    ]
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "wraith"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "deviant"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
