@@ -1,0 +1,69 @@
+[
+  {
+    "id": "_meta",
+    "name": "Whack-a-Role",
+    "author": "Zyrain",
+    "bootlegger": [
+      "For all rules including end-game conditions, notifications, and nominations, treat travelers as regular players.",
+      "If a demon dies, a minion can become the demon (Hindu optional rule).",
+      "A traveler death can trigger the Hindu.",
+      "A player can trigger the Hindu more than once.",
+      "Only daytime Hindu changes are public, but which traveler they become is not announced.",
+      "A traveler that dies and becomes the same traveler isn't told they died."
+    ]
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "gambler"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "godfather"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "legion"
+  },
+  {
+    "id": "barista"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "cacklejack"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "scapegoat"
+  },
+  {
+    "id": "hindu"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

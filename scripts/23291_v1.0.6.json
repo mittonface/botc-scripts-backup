@@ -1,0 +1,130 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Brewing but big",
+    "author": "erik",
+    "bootlegger": [
+      "If the Poppy Grower is in play: the Kazali chooses which Minions but not which players."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "lycanthrope"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "zealot"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "kazali"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "bureaucrat"
+  },
+  {
+    "id": "butcher"
+  },
+  {
+    "id": "beggar"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "_meta",
+    "name": "Hostage Situation",
+    "author": "Snep",
+    "bootlegger": [
+      "Minions cannot choose a dead player to babysit Lil' Monsta."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "cerenovus"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "organgrinder"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

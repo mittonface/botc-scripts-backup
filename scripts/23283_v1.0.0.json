@@ -1,0 +1,112 @@
+[
+  {
+    "id": "_meta",
+    "name": "Blackjack Minus One",
+    "author": "seaplus",
+    "almanac": "https://docs.google.com/spreadsheets/d/1aFNS7dys6zF35tK0XO_TmrUzEwpPqf1z/edit?usp=sharing&ouid=101675684581446376656&rtpof=true&sd=true",
+    "background": "https://i.ibb.co/ym66sVBq/botcbg.png",
+    "bootlegger": [
+      "16 Players: 11 / 0 / 4 / 1",
+      "17 Players: 11 / 1 / 4 / 1",
+      "18 Players: 11 / 2 / 4 / 1",
+      "19 Players: 12 / 1 / 5 / 1",
+      "20 Players: 12 / 2 / 5 / 1"
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "general"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "snakecharmer"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "politician"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "shabaloth"
+  },
+  {
+    "id": "po"
+  },
+  {
+    "id": "gardener"
+  },
+  {
+    "id": "bootlegger"
+  }
+]
