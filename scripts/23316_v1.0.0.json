@@ -1,0 +1,116 @@
+[
+  {
+    "id": "_meta",
+    "name": "Potion Explosion",
+    "author": "Rad",
+    "firstNight": [
+      "dusk",
+      "alchemist",
+      "poppygrower",
+      "minioninfo",
+      "demoninfo",
+      "preacher",
+      "devilsadvocate",
+      "pixie",
+      "amnesiac",
+      "washerwoman",
+      "empath",
+      "steward",
+      "balloonist",
+      "cultleader",
+      "chambermaid",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "poppygrower",
+      "preacher",
+      "innkeeper",
+      "acrobat",
+      "monk",
+      "monk",
+      "devilsadvocate",
+      "scarletwoman",
+      "nodashii",
+      "vigormortis",
+      "assassin",
+      "hatter",
+      "plaguedoctor",
+      "amnesiac",
+      "empath",
+      "balloonist",
+      "cultleader",
+      "chambermaid",
+      "dawn"
+    ]
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "cultleader"
+  },
+  {
+    "id": "acrobat"
+  },
+  {
+    "id": "alsaahir"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "washerwoman"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "hatter"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "nodashii"
+  }
+]

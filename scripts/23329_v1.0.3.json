@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Teensy Rising",
+    "author": "erik",
+    "bootlegger": [
+      "The in-play Demon is stormcaught and dies when it normally would during the day."
+    ]
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "lleech"
+  },
+  {
+    "id": "ferryman"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "djinn"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+    "id": "stormcatcher"
+  }
+]

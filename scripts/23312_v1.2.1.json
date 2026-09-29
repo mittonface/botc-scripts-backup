@@ -1,0 +1,98 @@
+[
+  {
+    "id": "_meta",
+    "name": "Three Knaves Walk Into a Bar",
+    "author": "Bebop",
+    "bootlegger": [
+      "There is a third Knave, the naive knave (the knaive). They can't see the grimoire, but they try their best to be correct. This storyteller may switch when the knaves switch, or it may stay the same.",
+      "The savant gets two truthful statements from the truth teller, two lies from the liar, and arbitrary info from the naive knave."
+    ]
+  },
+  {
+    "id": "chef"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "snitch"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "leviathan"
+  },
+  {
+    "id": "thief"
+  },
+  {
+    "id": "harlot"
+  },
+  {
+    "id": "bishop"
+  },
+  {
+    "id": "gnome"
+  },
+  {
+    "id": "knaves"
+  },
+  {
+    "id": "bootlegger"
+  }
+]

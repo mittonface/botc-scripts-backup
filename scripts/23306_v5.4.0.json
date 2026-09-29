@@ -1,0 +1,144 @@
+[
+  {
+    "id": "_meta",
+    "logo": "https://i.ibb.co/cKc9G2Zb/DOTDnew-LOGOtest9-re-scaled.png",
+    "name": "Day Of The Dead",
+    "author": "Max(well)",
+    "hideTitle": true,
+    "background": "https://botc.app/assets/background4-BAO6WjXL.webp",
+    "firstNight": [
+      "dusk",
+      "lordoftyphon",
+      "bureaucrat",
+      "thief",
+      "apprentice",
+      "barista",
+      "philosopher",
+      "minioninfo",
+      "demoninfo",
+      "yaggababble",
+      "preacher",
+      "witch",
+      "harpy",
+      "pukka",
+      "pixie",
+      "noble",
+      "empath",
+      "fortuneteller",
+      "spy",
+      "dawn"
+    ],
+    "otherNight": [
+      "dusk",
+      "bureaucrat",
+      "thief",
+      "barista",
+      "bonecollector",
+      "harlot",
+      "cacklejack",
+      "philosopher",
+      "preacher",
+      "witch",
+      "harpy",
+      "scarletwoman",
+      "yaggababble",
+      "pukka",
+      "fanggu",
+      "lordoftyphon",
+      "tinker",
+      "empath",
+      "fortuneteller",
+      "towncrier",
+      "oracle",
+      "spy",
+      "dawn"
+    ]
+  },
+  {
+    "id": "noble"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "seamstress"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "tinker"
+  },
+  {
+    "id": "golem"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "gangster"
+  },
+  {
+    "id": "voudon"
+  },
+  {
+    "id": "bonecollector"
+  },
+  {
+    "id": "djinn"
+  }
+]
